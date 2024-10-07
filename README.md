@@ -20,10 +20,6 @@ Our method achieves state-of-the-art results on standard benchmarks:
 
 ![tab2](https://github.com/gyhhe/PASE/blob/main/tab2.png)
 
-We  provide the training logs and checkpoint files for two datasets:
-
-- Training logs and checkpoints for [Flickr30K](https://drive.google.com/drive/folders/1w8wYmM_SybWI8gRH3leaCtcu_1kpN_JV?usp=drive_link)
-- Training logs and checkpoints for [MSCOCO](https://drive.google.com/drive/folders/1LJEUUaJ7WQFZvZ4NmlOz_p_s9yO1eem3?usp=drive_link)
 
 ## Preparation
 
