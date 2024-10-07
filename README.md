@@ -11,7 +11,7 @@ We referred to the implementations of [GPO](https://github.com/woodfrog/vse_inft
 ## Introduction
 
 
-![Overview](https://github.com/gyhhe/PASE/blob/main/model_overview.png)
+![Overview](https://github.com/gyhhe/PASE/blob/main/model overview.png)
 
 
 
