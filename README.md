@@ -100,11 +100,11 @@ bash  run_coco.sh
 Modify the corresponding parameters in eval.py to test the Flickr30K or MSCOCO data set:
 
 ```
-python eval.py  --dataset f30k  --data_path "path/to/dataset"
+python eval.py  --dataname f30k  --data_path "path/to/dataname"
 ```
 
 ```
-python eval.py  --dataset coco --data_path "path/to/dataset"
+python eval.py  --dataname coco --data_path "path/to/dataname"
 ```
 
 ##  Citation
