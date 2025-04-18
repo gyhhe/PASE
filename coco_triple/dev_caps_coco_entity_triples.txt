@@ -1,0 +1,5000 @@
+petting uses yak
+umbrella owned by young man
+horn part of cow
+horn part of cow
+umbrella used by boy
+appliances part of kitchen
+galley kitchen subclass of kitchen
+appliances part of kitchen
+sink part of kitchen
+pantry part of kitchen
+A little girl holding a kitten depicts blue
+Girl in a tank top depicts tank top
+child followed by girl
+Girl with a yellow shirt depicts cat
+kitty cat named after kitty
+toilet part of bathroom
+toilet part of bathroom
+wall socket part of bathroom
+toilet part of bathroom
+New York City contains administrative territorial entity Manhattan
+sink opposite of mirror
+sink subclass of mirrors
+stainless steel use sinks
+stainless steel subclass of sinks
+steel part of bathroom
+bicycle part of road
+bike used by girl
+bicycle used by lady
+bike part of street
+divider part of street
+sink part of bathroom
+Clean facet of bathroom
+bath tub has part sink
+bathtub subclass of bathroom
+bathtub part of bathroom
+parking meters subclass of cars
+parking meters part of street
+parking meters subclass of cars
+parking meter part of street
+parking meter part of street
+tub part of bathroom
+above ground tub part of old fashion
+tub part of bathroom
+pedestal sink part of Bathroom
+pedestal sink part of bathroom
+helmet part of toilet
+helmet part of toilet
+helmet part of toilet
+helmet subclass of toilet
+helmet part of toilet
+surfboard part of field
+surfboard time period retro
+surfboard sport surf
+light blue followed by dark blue
+station wagon has parts of the class surfboard
+lid part of toilet
+toilet used by cat
+toilet bowl seat part of toilet
+toilet seat part of bathroom
+toilet has part lid
+birds location building
+spire part of roof
+clock tower part of city
+steeple part of church
+clock part of building
+motorcycle use riding
+motorcycle opposite of car
+motor cycle part of street
+motorcycle part of street
+motorcycle part of street
+keyboard part of desk
+Happy depicts woman
+work station has part desk
+computer has part desk
+desk occupant woman
+yellow bananas instance of case
+Bananas subclass of packed
+package has part box
+cardboard box has part plastic
+banana subclass of perfectly ripe
+airport runway use airplane taking off
+Curtiss P-40 Warhawk subclass of taxis
+runway part of airplane
+take off item operated air plane
+airplane use fly into the sky
+boarding gate part of airport
+fancy airport use Plane boarding passengers
+runway part of plane
+AIRPLANE location AIRPORT
+terminal product or material produced cement
+car part of street
+stop item operated car
+intersection part of street
+signal light part of crosswalk
+car has part street light
+street has part traffic signal
+Traffic light part of night
+stop sign subclass of electronic
+road signs has part traffic lights
+green arrows part of street light
+blue sky subclass of cloudy
+Red followed by white
+blue part of sky
+plane uses air
+airplane uses sky
+car different from building
+skyscraper part of street
+glass part of building
+SKY SCRAPERS product or material produced CARS
+modern subclass of buildings
+candidate advertisement facet of political candidate
+Scott Brown candidacy in election Massachusettes
+political ad subclass of bus
+advertisement facet of tour bus
+campaign trailer location parking lot
+Two giraffe standing next to each other depicts giraffe
+George Orwell notable work Nineteen Eighty-Four
+tree subclass of grass
+rub their necks together facet of giraffe
+field has part grass
+zoo pin depicts giraffe
+laying down on the dirt ground depicts giraffe
+Lone giraffe residence enclosure
+sun hits its body facet of sun
+field depicts giraffe
+John F. Kennedy School of Government part of Harvard University
+field has parts of the class trees
+side by side subclass of grazing
+faces part of neck
+A couple of giraffe standing next to each other depicts giraffe
+bicycle part of sidewalk
+Two eyes painted on a fire hydrant depicts fire hydrant
+fire hydrant has part eye stickers
+fire hydrant part of road
+fire hydrant has part two eyes
+leaking location fire hydrant
+fire hydrant product or material produced water
+fire hydrant uses water
+spilling water location fire hydrant
+fire hydrant product or material produced water
+yellow and blue fire hydrant part of sidewalk
+fire hydrant part of sidewalk
+sign facet of freeway
+fire hydrant part of curb
+painted facet of fire hydrant
+warning subclass of street sign
+street signs depicts languages
+street sign has part vertical pole
+English and foreign warning instance of triangle sign
+street signs has part pole
+mural subclass of wall
+sheep part of flock
+heard has part sheep
+gathering of sheep location field
+sheep subclass of grass
+freeway subclass of traffic
+bus subclass of car
+bus part of road
+right lane part of freeway
+slow lane facet of freeway
+herd part of field
+grass different from dirt
+zebras parent taxon giraffe
+pack has part giraffe
+zoo subclass of wildlife exhibit
+tree has parts of the class branch
+feet part of bird
+pink eye facet of bird
+tree has parts of the class branch
+claws subclass of eye
+billboard part of building
+concrete wall subclass of sign
+blue sign facet of life
+sign use motivational
+building field of work painting
+tree has parts of the class limb
+bird with blue feathers location zoo
+bird uses cage
+BEAUTIFUL UNUSUAL BIRD INSIDE OF A BIRD SANTUARY depicts BIRD SANTUARY
+enclosure occupant bird
+broadway subclass of street sign
+Broadway Street located in the administrative territorial entity the city
+Broadway connects with 7th avenue
+surveillance location intersection
+security camera operator NYPD
+bridge crosses train
+bridge part of train
+crossing facet of train
+train overpass facet of train
+Red train opposite of blue train cars
+depot part of Train
+station part of train
+train terminal item operated train
+commuter train has part station
+train station instance of people are waiting
+stop sign part of street
+Humorous graffiti depicts stop sign
+graffiti facet of stop sign
+stop sign subclass of Graffiti
+stop sign uses black marker
+street pole product or material produced cement
+jack hammer use construction worker
+parking meter subclass of meter
+Jackhammer instance of jackhammer
+Jack Hammer instance of jack hammer
+This cat location porch
+A cat with large eyes narrative location dock
+wooden beam depicts cat
+brown striped depicts cat
+ledge part of building
+red boat depicts cat
+red object part of river
+dog subclass of cat
+boat uses water
+sunbathing by the water subclass of sunbathing
+dog relative cat
+dog relative cat
+cat relative dog
+dog sibling cat
+dog subclass of cat
+stuffed animal used by cat
+chair depicts elephant
+stuffed animal used by cat
+chair used by cat
+stuffed animal used by cat
+shoes used by cat
+Two cats instance of cat
+sitting on a pair of shoes depicts cat
+striped used by cat
+Orange and brown instance of cat
+suitcase used by cat
+suitcase subclass of clothing
+suitcase used by cat
+suitcase use sleeping
+London capital of England
+black chair subclass of chair
+chair different from sofa
+coffee table subclass of couch
+recliner subclass of table
+chair different from recliner
+cow use grazing
+meadow subclass of grass
+grass part of field
+Black followed by brown
+Cows subclass of grass
+motorcycle subclass of flatbed
+bicycle subclass of vehicle
+bicycle subclass of truck
+flatbed subclass of vehicle
+bike carrier item operated bike
+Two cows overlooking a mountain range depicts cow
+Two cows depicts grass
+grass different from mud
+A couple of brown and white cows depicts hill
+cow subclass of grass
+remote controls used by kitten
+remote controls used by kitten
+remote control owned by cat
+London capital of England
+bed has part phone
+gas cylinders used by elephant
+heave pails use elephant walking
+a nd elephant owner of red jugs
+man riding on top depicts elphant
+tank used by elephant
+A lone elephant depicts field
+elephant subclass of grass
+trunk part of elephant
+elephant uses grass
+trunk part of elephant
+elephants uses water
+drink used by elephant
+drinking water used by elephant
+drinking water part of herd
+water part of trees
+playing in the water facet of elephants
+elephants uses water
+lake has part Elephant
+taking a bath facet of elephant
+elephants uses water
+zebra opposite of elephant
+trunk part of elephant
+elephants uses tree
+elephant use zoo
+herd has part elephants
+mother child son
+A pair of elephants narrative location grassy field
+adult elephant child baby elephant
+adult elephant child baby elephant
+mother child child
+Large elephant rubbing itself up against a large tree instance of elephant
+elephant uses grass
+elephant uses tree
+enclosure occupant captive elephant
+grass used by elephant
+gray parent taxon elephant
+trunks part of elephants
+elephant has part trunks
+elephants part of zoo
+trunks part of elephant
+throwing uses frisbee
+woman child girl
+woman child child
+field uses Frisbee
+Frisbee uses lawn
+lake part of lake
+Frisbee instance of picture
+Lake Champlain located in the administrative territorial entity Massachusetts
+catch subclass of play
+New York City contains administrative territorial entity Manhattan
+biting uses dog
+jumping subclass of playing
+fighting uses dog
+fight participant dog
+dog uses dirt
+frisbee sport kid
+frisbee uses bow
+frisbee use toddler
+park has part grass
+frisbee sport playing with a frisbee
+herd part of landscape
+grassland instance of habitat
+head part of head
+resting its head on another zebra depicts zebra
+resting its head depicts zebra
+horse subclass of Person
+trail subclass of trail
+donkey use travels
+path part of mountains
+horse uses top
+scrub brush subclass of dirt
+open area facet of zebras
+group of zebras location desert
+herd has part zebra
+field occupant zebras
+water used by Horse
+sky part of body of water
+fence has part Horse
+grazing uses Horse
+horse uses water
+trainer field of this occupation horseback
+horse used by girl
+William Shakespeare notable work Cymbeline
+girl opposite of woman
+trainer field of this occupation horse
+horse drawn trolly subclass of trolly
+street car has parts of the class horse
+trolley subclass of horse drawn
+horse uses troller
+horse trolley part of street
+bush subclass of wooded area
+Two horses narrative location the woods
+grass part of woods
+Two horses instance of horse
+William Shakespeare notable work Cymbeline
+pear subclass of apple
+apple subclass of fruit
+apple subclass of pear
+table part of table
+apple subclass of banana
+baseball uses ball
+pitch sport baseball
+baseball uses ball
+throw uses ball
+baseball uses ball
+Hat subclass of necklace
+Hat subclass of necklace
+bananas has part bananas
+costume facet of dressed in costume
+performer uses costume
+apple has part onion
+fork part of fork
+apple has part onion
+apple has part onion
+fork has part apple
+cage occupant grasshopper
+eating facet of bug
+cage occupant grasshopper
+giant cricket uses cage
+chewing participant insect
+coffee cup subclass of clock
+cup subclass of clock
+coffee mug subclass of clock
+coffee cup subclass of clock
+cup depicts cock
+toothbrush has part toothpaste
+tooth brush has part tooth paste
+toothbrush has part toothpaste
+toothbrush has part toothpaste
+toothbrush uses toothpaste
+skateboard uses sidewalk
+skateboard uses sidewalk
+skateboard uses sidewalk
+A PERSON SKATEBOARDING ON THE SIDE OF THE ROAD sport SKATEBOARDING
+skateboarding practiced by young person
+sausage dog has part sausage dog
+hot dog subclass of man
+hot dog depicts suit
+hotdog subclass of man
+chili dog has part cheese
+hot dog subclass of plate
+hot dog subclass of plate
+hot dog has part buns
+hot dog has part buns
+hotdog has part buns
+smiling for picture subclass of picture
+hotdog has part tooth
+eating location bar
+John F. Kennedy School of Government part of Harvard University
+restaurant product or material produced food
+ice skating rink uses skateboard
+snowboard uses snow
+competition uses snowboard
+snowboard riding uses snowboard
+snowboarder uses snow
+snowboard uses snow
+snowboard uses slope
+snowboard uses slope
+ski uses snow
+snowboard uses snow
+dining table uses food
+eye glasses used by woman
+plates part of dining table
+table used by guests
+plates use food
+variety subclass of donut
+doughnut part of doughnut
+variety is a list of donut
+doughnut subclass of kids
+flavored subclass of donut
+chocolate subclass of doughnut
+chocolate subclass of desert
+treat subclass of food
+icing part of cookie
+Cookie subclass of cookie
+sheet cake has part candles
+birthday cake has part candles
+candles part of cake
+cell phone use being lit
+cake named after 2nd year birthday
+soccer ball sport children running after a soccer ball
+soccer uses ball
+soccer field sport soccer
+soccer uses field
+soccer uses ball
+beach subclass of people
+surfboard use beach
+Surboarders uses the water
+Surfers uses surfboard
+surfers location Beach
+two layer cake part of table
+two layered cake subclass of cake
+prepared part of eaten
+birthday cake has part candles
+cake has part candles
+soccer uses soccer ball
+soccer uses blue ball
+soccer uses ball
+soccer uses soccer ball
+soccer subclass of game
+field sport soccer
+soccer uses ball
+grown sport soccer
+soccer uses ball
+scrambling for the ball sport Soccer
+dessert subclass of plate
+chocolate and fudge subclass of dessert
+creme has part chocolate
+whip cream subclass of desert
+cake has part frosting
+bed has part door
+old house subclass of renovated
+box subclass of bag
+bed part of bed room
+wall part of bedroom
+surfboard uses wetsuit
+surfboard uses ocean
+surfboard location beach
+surfboard subclass of person
+surfboard uses ocean
+An older woman child two children
+Kids opposite of old woman
+tennis uses raquet
+playing together sport tennis
+Children opposite of old woman
+sandwich subclass of eating
+sandwich part of table
+restaurant use meal
+sub subclass of sandwich
+sandwich part of restaurant
+tooth brush use brushing her teeth
+brushing his teeth used by child
+blue toothbrush use brushing her teeth
+blue toothbrush subclass of toothbrush
+toothbrush has part toothpaste
+blue toothbrush subclass of toothbrush
+toothbrush use brushing their teeth
+toothbrush use brushing her teeth
+blue toothbrush subclass of toothbrush
+toothbrush use brushing her teeth
+remote control part of couch
+boy uses blanket
+blanket subclass of toy
+blanket part of coach
+television remote part of blanket
+high ceilings part of living room
+location lighting located in the administrative territorial entity Florida
+living room has part window
+couches part of living room
+living room has parts of the class furniture
+flying kite part of sky
+flying uses kite
+Multi colored subclass of kite
+flying in the sky uses kite
+clouds part of sky
+Man skis uses sail
+snowboard use para sailing
+snowboard uses parachute
+snowboard uses snow
+kite uses snow board
+laptop subclass of computer
+laptop connects with tables
+laptop subclass of computer
+projector screen part of computer lab
+laptop has part screen
+mounted clock part of building
+dock subclass of architectural structure
+clock tower part of pier
+Scaffolding part of construction
+clock tower part of building
+baseball practiced by player
+baseball uses bat
+baseball player uses baseball
+baseball uses bat
+Little League sport baseball
+baseball uses bat
+catcher sport baseball
+pitcher sport Base ball
+bat sport baseball
+bat sport baseball
+baseball bat uses ball
+bat uses ball
+baseball uses bat
+bat sport tennis
+bat sport baseball
+bat sport baseball
+baseball uses bat
+Little league sport baseball
+baseball uses bat
+baseball field sport baseball player
+tennis ball sport tennis
+Tennis uses ball
+great form facet of ball
+tennis uses tennis ball
+volley sport tennis
+tennis uses ball
+tennis racquet uses tennis ball
+tennis player sport tennis
+tennis uses tennis ball
+tennis uses ball
+tennis uses ball
+tennis uses white shirt
+tennis uses tennis ball
+indoor tennis subclass of tennis
+tennis racquet used by tennis court
+computer desk has part mat
+blue prints subclass of envelope
+desk subclass of office supplies
+window subclass of desk
+tablet subclass of books
+mouse part of computer desk
+laptop subclass of computer
+laptop use typing
+laptop has part mouse
+laptop has part mouse
+extension cord part of counter
+computer has part wires
+kitchen has part hanging
+electronics has part wire
+toaster subclass of counter
+laptop subclass of computer
+laptop subclass of computer
+desk part of Business
+lap top subclass of computer
+phone uses gesture
+eating uses food
+sandwich used by little girl
+hot dog has part bun
+hot dog subclass of girl
+sandwich has part bite
+sidwalk subclass of walking
+cell phone location sidewalk
+high heels use high heels
+A woman walking down the street uses her phone
+cell phone subclass of hand
+teddy bear used by baby girl
+stuffed bear used by child
+teddy bear used by little girl
+teddy bear used by little girl
+white bear instance of child
+clock part of building
+Clockpost part of sidewalk
+pole subclass of clock
+John F. Kennedy School of Government part of Harvard University
+tower part of building
+clock tower has part clock
+cowboys subclass of statue
+shooter subclass of entertainment
+clock time period old west
+clock tower depicts statues of cowboys
+fake flowers subclass of vase
+table has part vase
+flower part of stems
+vase part of table
+centerpiece part of dining table
+drinks subclass of food
+posing subclass of photograph
+drinks part of table
+table subclass of group
+table part of group
+kitchen sink use bathing
+woman child baby
+mother child newborn
+countertop part of kitchen
+kitchen occupant woman
+counter tops part of kitchen
+kitchen subclass of inside view
+sink part of kitchen counter
+living room followed by dining area
+kitchen part of home
+bicycle use bicycle
+bicycle part of bike
+bike location parking lot
+bike used by man
+bicycle subclass of bike
+bath tub part of bathroom
+mirror part of sink
+toilet part of bathroom
+bathroom located in the administrative territorial entity city
+floor part of bathroom
+faucet uses water
+facet part of toothbrush
+toothbrush uses sink
+toothbrush uses water
+faucet part of running water
+book bus part of street
+blue followed by yellow
+book bus subclass of bus
+John F. Kennedy School of Government part of Harvard University
+Book Bus instance of bus
+A beautiful woman with red hair depicts table
+plate part of table
+plate part of restaurant
+desert subclass of picture
+hands part of face
+pond subclass of water
+bird uses water
+black and white depicts bird
+bird uses water
+black and white depicts bird
+toilet part of rest room
+sink part of toilet
+white toilet part of room
+toilet part of bathroom
+bathroom fixtures has part copper
+mashed potatoes has part carrots
+mashed potatoes has part carrots
+plate has part silverware
+cup subclass of utensil
+table has part plate
+fork part of plate
+fork part of plate
+fork part of plate
+chocolate cake has part fork
+dutch chocolate cake country of origin dutch
+bowl part of table
+Ripe subclass of orange
+orange has part orange
+St. Andrew's Cathedral located in the administrative territorial entity London
+glass bowl has part tangerine
+forest has parts of the class trees
+motorcycle location tropical setting
+motorcycle subclass of motorcycle
+motor cycle subclass of plant
+motorcycle part of dirt road
+motorcycle use rider
+motorcylce used by man
+motorcycle has parts of the class riding jacket
+motorcycle location sidewalk
+motor cycle used by man
+motorcycle subclass of bike
+motorcycle subclass of motorcycles
+motorcycle subclass of motorcycles
+motorcycle location forest
+motorcycle used by people
+blue sky subclass of cloudy
+airplane location sky
+jet subclass of airplane
+blue sky subclass of sky
+sky part of plane
+jumbo jet location airport
+landing strip part of airplane
+airstrip part of airport
+Lufthansa item operated jumbo-jet
+runway part of airport
+cement has part wet
+propeller part of plane
+runway part of plane
+airport item operated airplane
+parked on the tarmac subclass of aircraft
+terminal part of airplane
+airport has part gate
+runway part of plane
+runway part of airplane
+airport terminal item operated airplane
+airplane uses sky
+flying item operated plane
+jumbo subclass of plane
+jet airplane has part jet stream
+jet subclass of commercial jet
+sitting up on its hind feet facet of cat
+bench part of park
+bench used by cat
+bench used by cat
+black subclass of cat
+George Orwell notable work Nineteen Eighty-Four
+statue depicts giraffe
+statue depicts giraffe
+sailboat uses water
+the harbor instance of harbor
+flat subclass of shoe
+pointy-toed subclass of heels
+sexy foot subclass of shoe
+pink has part blue
+blue jeans has part pink shoe
+wild animal location field
+sheep uses grass
+lying down in the grass depicts sheep
+Knoll subclass of rocks
+sheep uses field
+food used by giraffe
+neck part of giraffe
+head on the rocks depicts giraffe
+grass opposite of rocks
+grass opposite of rocks
+double decker subclass of bus
+car followed by bus
+bus different from car
+bus part of street
+Hyundai product or material produced vehicle
+coats part of sheep
+wooden wall depicts sheep
+Sitting in their enclosure depicts sheep
+lies down facet of sheep
+barn use sheep
+wheelchair used by man
+Bicycle crossing light subclass of traffic signal
+traffic light part of walking
+wheelchair use pushing the person on the road
+bicycle used by crosswalk
+cross walk part of street
+wire part of street light
+traffice light subclass of street view
+one-way traffic subclass of street
+stoplight part of intersection
+double decker subclass of bus
+double decker subclass of bus
+double decker bus located in the administrative territorial entity England
+double-decked subclass of bus
+double decker subclass of bus
+A PICTURE OF PEOPLE GETTING OFF OF A WHITE BUS depicts WHITE BUS
+John F. Kennedy School of Government part of Harvard University
+school bus color white
+bus location gravel lot
+feild subclass of forest
+fire hydrant has part paint
+nut connects with bolt
+hydrant named after fir
+knob part of fire hydrant
+fire hydrant part of street
+fire hydrant location curb
+decorative post part of yard
+fire hydrant has part grass
+cementery item operated fire hydrant
+road has part fire hydrant
+bird uses boat
+blue subclass of row boat
+boat uses water
+Bird uses boat
+Empty boat depicts gull
+bird uses umbrella
+Bird sitting on the edge of a sun umbrella instance of sun umbrella
+umbrella used by bird
+umbrella depicts bird
+bird location roof
+tide part of shore
+ocean instance of water
+wet beach subclass of bird
+beach has part waves
+lighthouse subclass of lighthouse
+grassy field subclass of parking lot
+Washington Redskins member of NFL
+grass used by bird
+median part of parking lot
+heads down depicts duck
+street sign has part traffic light
+turn red facet of traffic light
+US-1 terminus Whitehead St.
+traffic post subclass of highway sign
+street sign has part traffic light
+bird uses water
+bird uses water
+river used by bird
+blue sand piper parent taxon watermelon
+beach located in or next to body of water water
+Looking Around depicts bird
+food used by bird
+beach has part sand
+beach has part sand
+beach has part sand
+Brown bag followed by blue jacket
+train has part passing
+Man standing on platform location platform
+train item operated luggage
+platform part of train
+feathers part of bird
+tree has parts of the class leaves
+tree has parts of the class branches
+tree has parts of the class branch
+tree has parts of the class branches
+cage occupant toucan
+beak part of bird
+beak part of bird
+wire part of fence
+toucan has part beak
+train tracks used by train
+red train narrative location rural setting
+train item operated tracks
+tracks used by train
+railroad tracks used by train
+parking meter subclass of car
+parking meter part of parked car
+parking meter part of car
+parking meter subclass of car
+parking meter has part truck
+tree part of forest
+tagged facet of cows
+cow part of herd
+herd has part cow
+cow part of cow
+glass part of table
+glass use drinking water
+ice water part of glass
+glass of water used by cat
+drinking uses glass
+wooden chair subclass of chair
+Sitting on the wooden chair depicts cat
+chair occupant cat
+chair occupant cat
+chair subclass of chair
+reflection uses mirror
+mirror use reflection
+mirror used by cat
+mirror used by cat
+reflection uses mirror
+laptop used by cat
+laptop subclass of desk
+laptop part of desk
+computer monitor part of computer
+laptop subclass of computer
+hay used by cow
+cow uses grass
+field product or material produced hay
+field has part grass
+hay used by cow
+Man in a suit depicts suit
+bus located on street country road
+bus has part man
+bus location rural setting
+tour bus location rural area
+tiki umbrellas location beach
+beach subclass of body of water
+beach subclass of people
+chairs subclass of table
+beach has part sand
+drug used by dog
+bike used by Men
+husky subclass of dog
+bike used by dog
+sleigh dog uses bicycle
+patio subclass of tables
+patio subclass of building
+patio part of building
+table subclass of chairs
+table has parts of the class chairs
+posing uses camera
+emo subclass of hipster
+Two people dressing black depicts field
+mask subclass of dressed in black
+mask has part umbrella
+Cairn terrier animal breed white
+vest used by dog
+West Highland subclass of Terrier
+John F. Kennedy School of Government part of Harvard University
+safety jacket used by dog
+window part of crowd
+platform part of building
+pool subclass of group of people
+indoor pool subclass of pool
+pen has part wood
+ski pole use walking
+skiing uses snow
+ski uses snow
+cross country skiing uses dog
+cross country skiing uses snow
+covers part of bed
+stuffed animal part of bed
+comforter has part white
+teddy bear part of bed
+stuffed animal part of bed
+catch uses frisbee
+catch uses frisbee
+catch uses frisbee
+Frisbee sport jumping
+Man leaping over a group of people sport frisbee
+group of three zebras is a list of zebras
+Three zebra instance of zebra
+a field depicts zebras
+field depicts zebra
+Three zebras depicts zebras
+grass part of open area
+pasture use grazing
+grazing practiced by zebra
+enclosure occupant zebra
+open zoo subclass of zoo
+horse use grazing
+horse color white
+horse use grazing
+grazing location field
+grazing subclass of horse
+saddle part of horse
+cowboy uses horse
+horse used by man
+horse used by girl
+helmet part of horse
+carriage has part horse
+carriage has parts of the class horse
+carriage has parts of the class horse
+carriage has part horse
+carriage has part horse
+cracker has part orange
+cracker has part orange
+orange subclass of snack
+crackers has part fruit
+cracker has part cheese
+A group of people outside on snow skis sport snow skis
+ski uses ski
+ski uses skis
+John F. Kennedy School of Government part of Harvard University
+ski uses skis
+baseball uses ball
+baseball uses field
+ball sport Baseball
+third base sport baseball
+ball used by ball players
+eating bananas location bed
+woman child child
+mother child daughter
+woman child child
+woman child child
+salad has part fruit
+rice subclass of food
+chopsticks subclass of bowl
+table use ready to eat
+vegetables part of table
+carts use picking out bananas
+yellow tent use selling bananas
+A couple of women buying banana's instance of stand
+banana part of banana bunch
+women opposite of men
+skiing uses slope
+ski slope uses skis
+mountain has part snow
+skiing uses gear
+ski slope sport skiing
+ski slope uses snow
+pole sport skating
+mountain sport skiers
+steep slope subclass of skiers
+ski slope sport skiing
+skis use skier
+dog uses hind legs
+ski uses dog
+ski uses skis
+ski uses snow
+I am unable to see an image above instance of image
+snow sport skiers
+skiing practiced by skier
+race uses skis
+ski jumper subclass of skiers
+salad has part onion
+pasta has part greens
+noodles part of veggie plate
+pasta has part green vegetable
+noodles subclass of food
+ramp part of skateboard
+trick uses skateboard
+1984 Summer Olympics point in time 1984
+skateboarder uses midair
+skate patk uses skateboard
+skiing uses snow
+skiing uses mountain
+downhill skiing uses slope
+skiing uses hill
+ski equipment use ski
+white has part red
+head brand product or material produced snow skis
+skier uses snow
+skiing uses snow
+ski uses snow
+LADIES ARE OUT SPENDING THE DAY sport SKIING
+Mount Fuji located in the administrative territorial entity California
+ski uses skis
+ski slope different from hill
+mountain sport cross country skiers
+sandwich has part stuffed animal
+sandwich part of field
+sandwich has part stuffed animal
+giraffe subclass of stuffed animal
+giraffe subclass of stuffed toy
+skateboard used by boy
+trick uses skateboard
+skate boarding uses curbed edge
+grinds uses skateboard
+skateboard subclass of man
+skateboard subclass of guy
+skateboard sport jumping
+William Shakespeare notable work Cymbeline
+skate boarder uses skateboard
+boy sport skating
+cut in half subclass of sandwich
+sandwich has part plate
+sandwich part of dish
+sandwich has part cut in half
+sandwich has part plate
+photo facet of vintage
+surfboard uses wave
+surf uses surfboard
+rushing waters subclass of photograph
+surfing uses water
+sandwich has part green sauce
+French roll subclass of sandwich
+sub has part meat
+sandwich has part bread
+cheese part of sub sandwich
+bed part of room
+bed part of bedroom
+bed part of room
+dorm room has part bed
+bed part of room
+ottoman part of sofa
+living room has parts of the class furniture
+love seat subclass of chair
+couch part of red room
+lamp part of living room
+flower bed subclass of bed
+flower instance of color
+her bed part of her room
+bed occupant little girl
+A young girl sitting in her bed depicts smiling
+pizza has part woman
+cheese pizza has part cheese
+diplaying uses pizza
+pizza used by lady
+pizza depicts dark room
+pizza has part white plate
+pizza has part toppings
+pizza has part plate
+pizza has part ham
+ham pizza has part parmesan
+flatbread subclass of flatbread
+pizza crust has part meat
+bacon part of pizza
+bacon part of pizza
+pita bread has part Lettuce
+pizza has part greens
+bacon part of pizza
+leafy greens has part Leafy greens
+prosciutto part of pizza
+pizza has part toppings
+tennis racquet has part tennis ball
+serve sport tennis
+tennis uses court
+serve sport tennis
+serve sport tennis
+man child boy
+teaching facet of wii
+video game practiced by player
+video game used by babys
+controller part of TV
+leans back facet of video game
+glass door subclass of object
+video game subclass of playing
+Yellow shirt depicts man
+playing facet of video game
+ceiling fan subclass of light
+living room part of house
+living room subclass of room
+floor opposite of walls
+trim part of living room
+inflatable whale location beach
+kite depicts whale
+whale kite subclass of kite
+Cape Town country South Africa
+whale balloon location parking lot
+umbrella use beach
+kite uses kite
+kite use flying
+kite used by child
+kite use treat
+kite uses sand
+Flying things in the air location beach
+kite location beach
+kite uses kite
+kite use fly in the air
+intercept the ball sport tennis
+tennis uses racquet
+racquet used by woman
+tennis uses ball
+tennis uses ball
+clay pot has part snake design
+outside subclass of vase
+rocks part of vase
+Peking country China
+The Big Brown vase instance of vase
+Sitting Down by a wall depicts couple
+music player subclass of laptop
+laptop subclass of computer
+man spouse woman
+headphones use sitting against the wall
+phone use talking
+phone different from laptop
+laptop subclass of computer
+cellphone subclass of personal computer
+computer has part desk
+laptop subclass of sitting on the ground
+computer has part papers
+student educated at college
+computer has part ear
+laptop has part plugged in
+laptop subclass of computer
+laptop subclass of computer
+laptop part of bed
+Baby mother mother
+laptop subclass of computer
+television has part microwave
+microwave subclass of television
+microwave subclass of tv
+microwave subclass of television
+microwave oven subclass of white
+cell phone used by man
+cellphone subclass of hand
+cell phone use restaurant
+cell phone use restaurant
+smart phone subclass of hand
+Talking on a phone depicts smiling girl
+phone location porch
+phone has part slide out glass
+cell phone subclass of phone
+cell phone use talking
+table subclass of appliances
+fridge part of kitchen
+microwave part of kitchen
+refrigerator has part microwave
+microwave subclass of box
+printer has part blender
+printer part of table
+printer has part blender
+table part of room
+BLENDER part of GREEN TABLE
+sandwich subclass of finger food
+stuffed animal use pastries
+teddy bear use food
+eating subclass of posed
+teddy bear subclass of sugary snack
+vase part of table
+Wilting subclass of vase
+Wilted flower subclass of vase
+flower part of vase
+flower arrangement uses vase
+poodle uses green couch
+couch occupant dog
+couch occupant dog
+couch occupant dog
+couch part of livingroom
+chair part of table
+plate part of table
+table use eating
+table part of man
+food part of eating
+restaurant product or material produced meal
+plates part of table
+white shirt opposite of dark shirt
+coffee cup use contemplating
+restaurant use meal
+cake has part chocolate
+dark chocolate subclass of Liquid
+cake has part chocolate
+liquid chocolate subclass of cake
+chocolate part of cake
+stove part of kitchen
+dishes part of kitchen
+cabinets part of kitchen
+sink part of kitchen
+gas stove part of kitchen
+appliances part of kitchen
+rubber gloves part of kitchen
+counter tops part of Kitchen
+cabinets part of kitchen
+kitchen gloves part of cabinet
+oven part of kitchen
+island part of kitchen
+appliances part of kitchen
+appliances part of kitchen
+stove top part of kitchen
+shower part of bathroom
+toilet part of bathroom
+toilet part of bathroom
+shower enclosure has part glass
+toilet part of bathroom
+race uses bicycle
+racing uses bicycle
+bicycle riders uses street
+helmet part of bike
+helmets use cyclist
+mirror part of bathroom
+mirror part of bathroom
+mirror part of bathroom
+mirror selfie uses mirror
+A Man with a red shirt instance of picture
+sink part of bathroom
+sink part of bathroom
+drinking out of a sink used by cat
+sink part of bathroom
+sink part of bathroom
+toilet has part towel
+shower part of bathroom
+toilet part of bathroom
+toilet sink part of bathroom
+toilet part of bathroom
+toilet paper part of toilet
+toilet paper part of bathroom
+toilet part of room
+toilet part of bathroom
+toilet part of bathroom
+feeding dish used by cat
+food bowls used by cat
+dish used by cat
+white subclass of cat
+Towl subclass of cat
+dirt bike rider subclass of stunt jump
+dirt bike instance of airborne
+motorcyclist uses handlebars
+stunt jump uses motorcycle
+Daring guy uses motorcycle
+riding a bike subclass of flying through the air
+motorcycle use jumping in the air
+RIDER uses BIKE
+motor bike subclass of bike
+motorcycle uses air
+dirt bike subclass of bike
+motorcycle subclass of bike
+stunt rider uses motorcycle
+dirt bike subclass of bike
+rider uses motorcycle
+helmet part of motorcycle
+motor cycle used by lady driving a motor cycle
+helmet part of dirt bike
+motor bike subclass of bike
+motorcycle has part helmet
+dog subclass of person
+playing video games uses dog
+owner owner of dog
+covers part of bed
+dog opposite of person
+airplane part of sky
+airplane has part smoke
+smoke trail use trick
+vapor trail facet of flying upside down
+plane uses air
+A group of jets flying overhead instance of formation
+air show uses airplanes
+formation subclass of flying
+aircraft use flying
+formation subclass of flying
+Blue Angels military branch US Navy
+formation subclass of airplanes flying in formation
+tail part of Airplane
+planes part of sky
+airplanes part of sky
+flying item operated plane
+sunset opposite of night
+airplane uses sky
+blue plane part of sky
+evening sky subclass of cloudy
+mouth open part of Giraffe
+face image subclass of close up
+mouth open subclass of looking
+mouth open part of giraffe
+mouth open part of giraffe
+Metrolink has part metrolink
+station part of building
+Transit Mall Station instance of buildings
+M transit instance of subway
+Transit Mall instance of Station
+Potted plants subclass of plants
+sitting bench subclass of floor
+bench subclass of wooden
+bench part of outside area
+plants in pots part of bench
+A couple of people sitting on top of a wooden bench instance of bench
+bench subclass of sitting
+beach part of ocean
+Two people on a bench instance of bench
+beach part of ocean
+park bench subclass of bench
+bench part of sidewalk
+park has part trail
+bench part of land
+park has parts of the class bench
+fire hydrant has part pole
+fire hydrant subclass of sidewalk
+pole part of sidewalk
+bicycle has part pole
+sidewalk subclass of brick
+fire hydrant has part cone
+fire hydrant part of dirt
+safety cone part of fire hydrant
+neon cone subclass of fire hydrant
+cone part of fire hydrant
+driver's seat part of bus
+New York located in the administrative territorial entity new york
+Van instance of van
+bus owned by beard man
+windshield part of van
+field used by sheep
+field use sheep
+field use sheep
+sheep uses grass
+sheep subclass of grass
+head part of giraffe
+playing with a giraffe depicts giraffe
+George Orwell notable work Nineteen Eighty-Four
+Punching a giraffe statue instance of miming
+statue depicts giraffe
+The view of a giraffe through some vegetation depicts giraffe
+tall grass used by giraffe
+canopy opening depicts giraffe
+Giraffe eating from a tree behind a rock depicts Giraffe
+giraffe instance of very large
+street signs has part pole
+street name part of pole
+Main connects with High
+two way subclass of street sign
+high street opposite of main street
+tree has parts of the class branch
+bird uses branch
+long tail part of bird
+tree has parts of the class leaf
+bird uses branch
+rain has part cloud
+road has part street signs
+street sign part of street
+Jackson River instance of River
+tree part of old homes
+A beautiful woman in a black skirt depicts train
+train has part woman
+train item operated luggage
+picture subclass of picture
+train car use disembarking
+fire engine subclass of birthday cake
+toy train subclass of cake
+cake has part frosted
+birthday cake named after Thomas the Train
+train subclass of toy
+bridge part of train
+black train crosses bridge
+train track part of train
+steam train uses train track
+train has part bridge
+baseball uses bat
+baseball uses bat
+baseball uses bat
+baseball uses bat
+water balloon use swinging
+tunnel used by train
+tunnel used by train
+tunnel used by train
+tunnel used by train
+tunnel part of train
+painted on the wall subclass of Street art
+mural subclass of painted
+construction wall subclass of billboard
+mural depicts building
+boarded subclass of painted
+train location buildings
+Blue train instance of tracks
+train station item operated train
+cars part of building
+train has parts of the class cars
+flat bed subclass of truck
+road net subclass of truck
+work cars location forest
+road subclass of dirt
+World Heritage Site maintained by UNESCO
+hay used by cow
+cow use pasture
+horse uses cow
+horse subclass of cow
+horse used by cow
+herd has part cow
+Kraków country Poland
+Kraków country Poland
+cow part of herd
+cow part of herd
+grazing location field
+field has part tree
+field subclass of grass
+field use cow
+John F. Kennedy School of Government part of Harvard University
+pet bed use pet
+lying down in opposite directions depicts ferret
+A couple of small animals depicts blanket
+A photo of a white Ferrat and a brown colored Ferrat laying in a bed depicts Ferrat
+species part of population
+bed occupant cat
+bed use sleeping
+black cat subclass of cat
+George Orwell notable work Nineteen Eighty-Four
+bed occupant cat
+street used by person
+John F. Kennedy School of Government part of Harvard University
+horns part of cow
+wall part of street
+village located on street road
+boat use supplies
+food has part containers
+A woman sitting in a boat depicts fruit
+boat use produce
+boat uses water
+gray elephants subclass of elephant
+trunks part of elephant
+trunks part of elephants
+touching facet of elephant
+long mouth part of elephant
+glasses has part tie clip
+car used by man
+camp shirt has part necktie
+neck tie has part glasses
+automobile use driving
+head part of elephant
+riding on top uses elephant
+man riding on top depicts elephant
+head part of elephant
+elephant residence forest
+umbrella subclass of umbrella
+umbrella used by man
+suite has part chair
+suit has part umbrella
+laptop subclass of chair
+elephant uses back
+elephants location field
+riding uses elephant
+Elephants and riders instance of photograph
+ride on top uses elephant
+display case part of store
+display glass part of umbrellas
+glass part of umbrellas
+umbrellas has part glass
+store front part of store
+George Orwell notable work Nineteen Eighty-Four
+life vest part of raft
+boat has parts of the class inflatable
+flotation device part of boats
+boats use ride on the water
+backpack subclass of bag
+car use vacation
+suitcases part of car
+duffel bag subclass of bag
+backpack subclass of trunk
+bag subclass of luggage
+luggage part of room
+family has part go somewhere
+lobby part of hotel
+hotel use passengers
+horse uses pen
+horse use exercise yard
+corral item operated horse
+horse uses pen
+horse use farm
+tree has parts of the class branches
+pin has part camera
+elephant use zoo
+tusk part of Elephant
+his exhibit part of zoo
+dog uses leash
+collar part of dog
+dog uses Frisbee
+frisbee used by dog
+dog uses Frisbee
+teddy bear location chair
+teddy bear subclass of plush items
+blanket subclass of pillow
+sleigh owned by Santa
+blanket part of couch
+beach uses Frisbee
+frisbee sport beach
+frisbee sport beach
+disc use playing
+catching uses frisbee
+catch uses frisbee
+jumping uses frisbee
+womqn uses frisbee
+flying disc subclass of flying
+The Woman in the red shirt sport Frisbee
+bed part of room
+brown Labrador subclass of Labrador
+bed has part window
+bed has part window
+bed has part floor
+Frisbee uses fountain
+Frisbee sport kids
+fountain instance of fountain
+dancing water fountain subclass of Children playing around
+fountain uses Frisbee
+field used by zebras
+adult zebra opposite of young zebra
+small followed by large zebra
+the field depicts zebras
+A couple of zebra walking across a beach depicts zebra
+pineapple subclass of fruit
+orange has part banana
+plate part of table
+pineapple has part banana
+plate part of kitchen
+World Heritage Site maintained by UNESCO
+ski part of mountain
+hikers uses mountain
+skiers uses mountain
+skiers uses mountain
+basketball subclass of game
+baseball uses bat
+catcher sport baseball
+catcher sport baseball
+bat sport baseball
+broccoli part of plate
+sauce part of vegetarian meal
+broccoli subclass of vegetables
+broccoli subclass of dish
+sauce has part vegetables
+cooked product or material produced food
+meat has part potatoes
+plate use food
+potato subclass of vegetable
+chicken has part potatoes
+Woman holding a banana instance of camera
+banana has part mouth
+lady uses gadget
+banana has part face
+banana used by woman
+ice cream has part cake
+fork part of plate
+plates of cake part of table
+Superman instance of toy
+cake subclass of dishes
+ski bindings part of ski gear
+two skies part of shoe
+skiing uses skis
+ski equipment use ski
+fixing skis product or material produced skis
+snowboard different from skis
+snowboarding uses sign
+snowboard uses snow
+sign depicts skis
+ski uses boards
+pasta subclass of food
+noodle salad has part broccoli
+pasta has part vegetables
+pasta has part vegetables
+pasta has part meat
+Pasta subclass of salad
+pasta has part vegetables
+pasta salad has part broccoli
+pasta salad has part broccoli carrots
+salad has part pasta
+heads part of broccoli
+Packaging part of grocery store
+florets part of broccoli
+Broccoli has part Flower
+frozen broccoli has part broccoli
+noodles subclass of pasta
+noodles has part vegetables
+pasta subclass of dish
+noodles subclass of Food
+pasta salad has part noodles
+seafood part of plate
+fish has part broccoli
+chicken has part broccoli
+broccoli instance of food
+rice has part broccoli
+skiing uses hill
+skiing uses slope
+competition sport Olympic skier
+snow sport skier
+ski slopes part of mountains
+helmet part of skateboard
+skateboard uses water
+helmet use riding
+skateboarding uses water
+skate board used by boy
+snowboard uses snow
+downhill subclass of snowboarding
+snowboard use riding
+snowboard uses snow
+snowboarder uses hill
+skateboard used by man
+skateboard use indoors
+skateboard used by man
+skateboard use indoors
+skateboard used by man
+picture subclass of posing
+carrots subclass of food container
+John Milton notable work Paradise Lost
+group of men subclass of posing
+carrots use mouth
+skate trick uses skate
+helmet part of skateboard
+helmet part of skateboard
+skate boarder uses trick
+helmet sport skate boarding
+skateboard use riding
+skateboarding uses street
+skateboarding practiced by young man
+skateboard part of street
+skateboard subclass of photograph
+oil has part herb
+vegetable salad subclass of entree
+salad part of vegetarian meal
+salad has part Corn
+pasta salad has part vegetables
+hot dog has part bun
+hot dog subclass of cloth
+hot dog subclass of paper
+hotdog has part tack
+hot dog has part hot dog
+snowboard uses snow
+snowboarder uses snowboard
+snowboard uses snow
+snowboard used by man
+snowboarder uses board
+jelly part of donut
+doughnut has part bite
+chocolate cream subclass of doughnut
+chocolate cream subclass of powder donut
+bun subclass of round
+glazed part of donut
+sugar coated subclass of donut
+powdered sugar part of doughnut
+doughnut has part sugar
+doughnut part of rack
+donut has part photos
+Polaroid subclass of pictures
+doughnut has part pictures over them
+doughnut part of table
+polaroid subclass of photograph
+surfer uses surfboard
+surf uses board
+beach uses surfboard
+surfboard sport beach
+surf uses board
+surfboard use beach
+surfboard uses sand
+beach uses sand
+surfer uses surfboard
+surfboard uses beach
+plate part of table
+display part of counter
+serving utensil part of counter
+dessert part of people
+cake part of counter
+wedding cake facet of newly wedded couple
+cutting into a cake uses knife
+wedding cake part of couple
+bride spouse groom
+Bride spouse Groom
+birthday cake depicts girl
+birthday cake has part candles
+cake part of table
+cake part of table
+cake part of table
+surfing uses wave
+surfing uses body of water
+surf uses ocean
+surfing location ocean
+surfboard uses wave
+Black and white dog instance of dog
+dog bed used by dog
+dog bed used by dog
+pet bed use pet
+doggy bed used by dog
+Victorian instance of style
+unmade bed opposite of messy one
+sheets part of bed
+bed part of bedroom
+hotel room has part bed
+pizza has part cheese
+pizza has part cheese
+feta cheese part of pizza
+pizza has part tomato
+pizza has part tomato
+bed part of bedroom
+bed part of bedroom
+bed room has part bed
+dog uses bed
+bed part of room
+pizza has part sliced
+pizza subclass of home baked
+pepperoni part of pizza
+pizza has part crust
+pizza has part cutting board
+pizza has part salad
+pizza has part salad
+pizza has part salad
+pizza subclass of home made
+salad has part pizza
+tennis racket sport tennis
+tennis uses racket
+glue shirt sport tennis
+racket used by court
+tennis uses racket
+hair clips has part toothpaste
+hair pins use tooth paste
+hair subclass of hygiene
+sink use personal care items
+toothpaste subclass of toiletries
+book shelf subclass of chair
+stocking use Christmas
+stocking use christmas
+Christmas stocking subclass of pajamas
+Christmas stocking has part toothbrush
+TV has part couch
+television has part child
+coffee table part of living room
+stuffed koala bear instance of stuffed
+stuffed panda location living room table
+remote use video game
+remote controller use game
+remote used by woman
+funny face platform Wii
+remotes use video game
+playing facet of video game
+Wii subclass of living room
+video game subclass of play
+controls platform Wii
+playing facet of video game
+Wii controller use video game
+controller part of television set
+wii remote subclass of television
+wii remote subclass of television
+videogame uses television
+Girl trying out a game instance of trade show
+flat screen subclass of TV
+vendor booth part of Trade show
+Red reception subclass of reception area
+Red opposite of white
+keyboard connects with monitor
+office desk subclass of computer
+computer has part keyboard
+desk part of office
+JUNKY DESK subclass of COMPUTER
+Light opposite of cloudy
+ray of sun opposite of cloud
+waterway part of sky
+Sun ray part of sky
+jetty subclass of body of water
+field sport sport
+baseball uses field
+on deck circle depicts bat
+bat sport baseball
+baseball uses bat
+green jersey sport baseball
+baseball uses bat
+baseball practiced by player
+bat sport little league
+pitch sport baseball
+tennis racquet used by tennis court
+tennis uses ball
+tennis ball used by tennis racket
+serve the ball sport tennis
+serve sport tennis
+A MAN sport TENNIS
+tennis uses court
+tennis uses tennis ball
+tennis uses tennis ball
+tennis uses tennis ball
+freezer subclass of dish
+pizza subclass of frozen
+refrigerated cooler part of grocery store
+pizza part of pizza
+refrigerator uses frozen
+racket sport tennis
+tennis player sport tennis
+tennis racquet uses tennis ball
+tennis racket connects with tennis ball
+tennis uses rock
+laptop subclass of toy
+laptop subclass of computer
+child-sized subclass of laptop
+toy-like subclass of laptop
+laptop subclass of toy
+clock part of building
+building has part clock
+clock part of building
+clock location street
+lamp post clock subclass of clock
+cell phone use talking
+sidewalk part of city
+Talking on her phone depicts girl
+phone use talking
+cell phone location sidewalk
+refrigerator part of wall
+refrigerator has part white
+refrigerator subclass of trash
+graffiti part of wall
+refrigerator part of wall
+blow dryer part of bathroom wall
+singing into a hair dryer uses hair dryer
+corded phone use yelling
+Man opposite of woman
+appliance part of bathroom
+cutting board use cutting
+teapot subclass of plate
+cut up use eaten
+wooden plate subclass of plate
+tea setting part of table
+clock tower part of building
+clock tower part of sky
+steeple part of building
+clock tower part of clear sky
+clock tower located in the administrative territorial entity city
+clock part of tower
+clock tower uses sunlight
+clock part of tower
+clock tower part of building
+clock tower has part clock face
+Artwork with a fish instance of hanging from the ceiling
+wheel depicts fish
+clock subclass of art
+sculpture subclass of contraption
+mobile part of ceiling
+flower part of vase
+pitcher subclass of vase
+vase part of table
+vase use Flower
+pitcher part of end table
+salad subclass of plate
+green salad has part egg
+salad subclass of food
+salad subclass of plate
+fried egg subclass of food
+remote use chewing
+remote control used by baby
+adult has part child
+remote control used by baby
+remote control used by baby
+sink part of kitchen
+cabinets part of Kitchen
+cabinets part of kitchen
+appliances part of kitchen
+sink part of kitchen
+mirror use reflection
+mirror part of bathroom
+mirror part of bathroom
+mirror use picture
+mirror use picture
+bathroom use useful
+counter part of bathroom
+shower part of bathroom
+mirror part of bathroom
+flower part of vase
+sinks part of restroom
+mirror subclass of sinks
+mirror part of bathroom
+sinks part of bathroom
+mirror part of bathroom
+toilet part of bathroom
+window part of bathroom
+counter part of bathroom
+toy part of dresser drawer
+window part of house
+BICYCLE use CONTRAPTION
+bicycle has parts of the class wheel
+Beech subclass of tree
+bike subclass of wheeled
+vehicle has part wheel
+toilet paper part of toilet
+toilet part of bathroom
+lid part of toilet
+toilet part of bathroom
+toilet part of bathroom
+toilet seat used by cat
+toilet used by cat
+bowl used by cat
+toilet occupant cat
+toilet seat part of floor
+towers part of building
+airliner subclass of jet
+historically built subclass of building
+World Heritage Site maintained by UNESCO
+cathedral subclass of church
+toilet part of bathroom
+toilet part of bathroom
+water closet subclass of commode
+bathroom has part toilet
+TOILET part of TOILET
+John F. Kennedy School of Government part of Harvard University
+REMODEL facet of BATHROOM
+toilet part of rest room
+toilet part of bathroom
+shower part of bathroom
+toilet part of bathroom
+toilet part of bathroom
+toilet has part seat
+porcelain toilet subclass of toilet
+toilet seat part of toilet
+toilet paper part of toilet
+toilet part of bathroom
+toilet part of bathroom
+toilet paper part of toilet
+toilet part of bathroom
+clock part of church tower
+clock part of steeple
+BEAUTIFUL CATHEDRAL has part TALL SPIRE REACHING TO THE SKY
+clock part of tower
+steeple part of clock
+standing toilet subclass of toilet
+bathroom subclass of nasty
+dirty subclass of nasty
+toddler toilet subclass of toilet
+toilet seat part of latrine
+stop sign subclass of street sign
+stop sign subclass of street signs
+stop sign subclass of street signs
+stop sign subclass of street signs
+stop sign subclass of street signs
+bowl used by dog
+bowl used by dog
+dog bowl used by dog
+water dish used by dog
+bowl has part water
+remote controller part of television
+remote control has part button
+TV remote part of TV
+remote control part of television screen
+TV remote control part of television
+computer desk has part top
+computer has part mouse
+computer has part desk
+desktop computer has part desk
+computer has part desk
+family part of zoo
+tree has parts of the class leaves
+eating off the same branch facet of giraffe
+the foliage on the fence depicts Giraffe
+zoo subclass of animal
+rock part of hillside
+tree has parts of the class brush
+One giraffe instance of giraffe
+pasture occupant giraffe
+facing the camera depicts giraffe
+airplanes use flying
+airplanes part of sky
+formation subclass of flying
+planes part of sky
+military plane subclass of flying
+stop light part of street corner
+traffic light part of curb
+red arrow part of street light
+stop light part of street
+tagged facet of traffic light
+sleeping in the sun depicts cat
+sleeping on a bench depicts cat
+cat uses sun
+bench subclass of wood
+black cat facet of sun
+bus location corner
+John F. Kennedy School of Government part of Harvard University
+Waiting for a red bus depicts man
+street part of traffic
+bus crosses road
+Two giraffes depicts giraffe
+walking around a dirt yard depicts giraffe
+Two giraffes depicts giraffe
+A pair giraffe narrative location courtyard
+zoo enclosure part of zoo
+street located in the administrative territorial entity city
+time lapsed subclass of photo
+cars part of street
+clock tower use night
+city street subclass of road
+blue sky opposite of cloudy
+green subclass of traffic light
+one way sign subclass of traffic light
+pole subclass of stop light
+crosswalk sign subclass of traffic light
+mountains part of pasture
+sheep use eating
+field use sheep
+meadow used by sheep
+sheep part of flock
+house has parts of the class bush
+sheep uses grass
+grassy bank used by goat
+goat uses grassy surface
+A WHITE GOAT CLIMBING UP TO EAT SOME GRASS depicts WHITE GOAT
+wrench used by man
+fire hydrant has part hose
+fire hydrant depicts man
+Orange instance of hydrant
+fire hydrant has part hose
+beach located in or next to body of water water
+sun sets followed by sunset
+long necks part of bird
+boat uses water
+Cape Town country South Africa
+bus part of city street
+trash bag part of curb
+bus part of road
+bus crosses road
+bus has part door
+grazing location field
+A group of sheep depicts mountain
+Lamp subclass of lamp
+grass used by sheep
+sheep subclass of herd
+rail used by bird
+A couple of birds sitting on the back of an iron bench depicts birds
+birds uses bench
+Two birds sitting on the back of a metal bench depicts birds
+birds part of background
+traffic has part people
+carriage ride uses horse and carriage
+rain part of night
+Sepia photograph depicts horse drawn carriage
+horse drawn carriage part of city street
+boat uses river
+boat uses water
+pontoon subclass of boat
+yacht uses river
+boat uses river
+train car has part sleeping area
+seatbelt part of compartment
+hospital bed part of floor
+berth part of train
+beds part of train
+tiled wall subclass of mirror
+reflection subclass of photo
+mirror use reflection
+mirror subclass of reflection
+subway station uses reflection
+window part of train
+window part of bus
+window part of train
+bus different from train
+window part of train
+train track part of train
+train track item operated train
+train car part of tracks
+train tracks part of train
+train crosses snow covered mountains
+Adler named after Jack Kerouac
+street signs part of building
+Jack Kerouac instance of street sign
+pole part of street
+lamppost subclass of street sign
+train has part phone booth
+train part of garden
+raised garden bed has part stone walls
+greenery subclass of plant
+rain has part green
+engine car part of railroad tracks
+Union Pacific item operated train
+Union Pacific item operated train
+Union Pacific item operated train
+train tracks part of train
+shopping center located on street road
+road used by truck
+truck use driving
+truck has part trailer
+truck use colorful
+street located in the administrative territorial entity city
+car part of street
+directing traffic facet of street
+street located in the administrative territorial entity city
+street part of city
+sail uses kite
+kitty subclass of kite
+kite subclass of car
+tiger parent taxon shark
+blue sky subclass of sky
+cow uses water
+cattle part of herd
+Kraków country Poland
+cattle facet of sun
+cow part of herd
+George Orwell notable work Nineteen Eighty-Four
+couch occupant cat
+red couch has part window
+books location couch
+sofa arm part of sofa
+Cattle uses cud
+grass used by cow
+Brown cow subclass of grass
+tags part of cow
+cow uses grass
+pen occupant cow
+gate product or material produced cow
+barn occupant cow
+stall occupant cow
+cow uses fence
+barber wire part of fence
+barbed wire part of fence
+spotted brown subclass of cow
+wire fencing part of field
+barbed wire part of fence
+baby elephant opposite of adult elephant
+her baby instance of elephant
+older elephant opposite of younger elephant
+zoo uses elephant
+his mother instance of elephant
+elephants opposite of people
+procession has part People
+elephants part of parade
+Bangkok located in or next to body of water Bangkok River
+George Orwell notable work Nineteen Eighty-Four
+Beach chair subclass of umbrella
+beach chair subclass of umbrella
+beach chair location beach
+flag has part umbrella
+chair part of beach
+ties part of blanket
+John F. Kennedy School of Government part of Harvard University
+blanket has part sheets
+John F. Kennedy School of Government part of Harvard University
+John F. Kennedy School of Government part of Harvard University
+John F. Kennedy School of Government part of Harvard University
+market product or material produced suit case
+city street subclass of walking
+market subclass of walking around
+market place product or material produced luggage
+truck subclass of luggage
+John F. Kennedy School of Government part of Harvard University
+John F. Kennedy School of Government part of Harvard University
+garbage used by truck
+truck part of road
+high chair depicts Pooh bear
+blue high chair subclass of teddy bear
+high chair has parts of the class stuffed bear
+high chair used by baby
+a bear on a telephone book depicts highchair
+laptop connects with teddy bear
+laptop opposite of chair
+chair opposite of laptop
+Brown teddy bear has part glasses
+glasses part of teddy bear
+half pipe sport skate boarding
+half pipe part of skate park
+trick sport skateboarder
+tricks uses skateboard
+rail grinding uses skateboard
+window part of building
+window part of window
+window part of door frame
+sidelights part of door
+door has part glass
+rhino endemic to wild
+field has part grass
+feral hogs instance of wild habitat
+warthog parent taxon zebra
+grassland continent Africa
+Frisbee used by dog
+dog uses frisbee
+lawn used by dog
+tongue out used by dog
+toy used by dog
+park uses Frisbee
+field sport frisbee
+frisbee location park
+game location grass
+field sport frisbee
+White Horse instance of horse
+A white horse walking down a street depicts field
+WALKING DOWN THE STREET main subject WHITE HORSE
+water part of road
+galloping uses horse
+horse drawn buggy part of street
+horse drawn carriage subclass of carriage
+carriage has part horse
+horse drawn carriage subclass of carriage
+carriage has part horse
+police men item operated horses
+George Orwell notable work Nineteen Eighty-Four
+white horse subclass of horse
+American Flag instance of flag
+George VI spouse Queen Elizabeth II
+skiing uses snow
+snow skis location mountain
+slope sport skier
+ski slope sport snow skier
+skis part of mountain
+ski gear sport skiing
+skiier field of this occupation skiing
+ski uses skis
+skiing uses snow
+ski uses skis
+A group of people riding swings depicts snow
+John F. Kennedy School of Government part of Harvard University
+swing set use kids
+swing used by kids
+A group of people on a swing depicts snow
+fork part of plate
+table part of cafe
+Fresh fruit muffin part of cafe
+blueberry muffin has part blueberry
+muffin part of white plate
+table has part glass
+glass of wine part of table
+win subclass of glass
+glass facet of wine
+table has part vase
+noodles has part broccoli
+Fried noodles has part broccoli
+pasta has part broccoli
+pasta subclass of entree
+fork subclass of knife
+noodles has part sauce
+spaghetti has part broccoli
+noodles part of pot
+noodles has part pot
+noodles part of Metal pot
+skateboarder subclass of jumping
+skaterboarder uses air
+jumping down some stairs sport skate boarder
+skateboarder uses stone stairs
+skateboarding uses steps
+vegetables part of table
+shredded carrots has part celery
+stirfry subclass of dinner plate
+stir fry subclass of dish
+meat has part vegetables
+carrot used by llama
+carrot subclass of food
+carrot used by llama
+biting facet of llama
+goat uses carrot
+fork use food
+spoon part of cup
+spoon part of cup
+fork use food
+fork part of fork
+knife used by man
+trenchcoat has part knife
+hat subclass of all black
+A dark photo of a man in a black suit depicts knife
+sharp subclass of knife
+trick uses skateboard
+ramp sport skateboarder
+ramp part of skate board
+ramp part of skateboard
+skate park uses skateboard
+spoon part of bowl
+utensil part of bowl
+spoon part of bowl
+carrot subclass of cut up
+table use eaten
+hot dog sport baseball
+hot dog sport baseball
+hot dog sport baseball
+stadium sport baseball
+hotdog sport baseball
+hot dog stand product or material produced hot dog
+vendor product or material produced street food
+street cart subclass of vendor
+Food cart use serving people food
+cart used by vender
+hotdog has part bun
+hot dog has part bun
+hotdog has part bacon
+hot dog has part bun
+hotdog has part bacon
+skate board instance of posing
+skate board use reacts
+skateboard subclass of head
+skate board subclass of head
+Man with gauges uses gauges
+cart product or material produced food
+stand part of stand
+food stand part of open market
+street food subclass of street food
+vending product or material produced food
+hot dog has part fixings
+LOADED HOT DOG instance of PICTURE
+hot dog has part white paper
+hot dog has part bun
+hot dog used by Somebody
+plates part of display
+napkin part of table
+tea has part biscuits
+Plate part of table
+tea subclass of pastries
+snowboarding uses hill
+jumping off sport snowboarder
+mid air uses snowboard
+snowboarder uses slopes
+leap uses snowboard
+hot dog has part man
+hot dog subclass of buns
+hot dog has part bun
+hot dog subclass of man
+hot dog subclass of man
+donut subclass of plate
+half eaten subclass of eaten
+fried pastries subclass of plate
+doughnut part of table
+white plate subclass of donut
+bread has part leafy green
+green leaf subclass of finger food
+garnish part of sandwich
+food has part green leaf
+rice cake has part garnish
+Sugar donut subclass of bag
+donut subclass of sugary
+glazed subclass of donut
+glazed part of doughnut
+glazed subclass of donut
+fries has part sandwhich
+fries part of burger
+burger has part beer
+sandwich has part hand
+fries part of burger
+food part of table
+buffet subclass of eating
+buffet subclass of table
+Grand Buffet subclass of buffet
+plates part of table
+CANDLES used by CUPCAKE
+cupcake has part candles
+cupcake has part candles
+candles part of cupcake
+cupcake has part candles
+surfer uses wetsuit
+wave part of ocean
+surfboard uses wave
+surfboard uses wave
+surfboard uses wave
+pepperoni part of pizza
+pepperoni part of pizza
+pizza has part sauce
+pepperoni part of pizza
+jalapeno pepper subclass of pork sausage
+pizza has part pan
+pizza has part toppings
+pan use pizza
+toppings part of pizza
+pizza has part toppings
+match sport tennis
+tennis uses court
+racquet sport tennis
+tennis uses court
+tennis uses racquet
+tennis uses racquet
+tennis uses racket
+tennis uses racket
+tennis practiced by player
+racket sport tennis
+brushing his teeth subclass of selfie
+brushing his teeth subclass of selfie
+brushing his teeth subclass of photo
+brushing uses teeth
+brushing his teeth subclass of picture
+WII subclass of game
+Wii manufacturer Nintendo
+video game practiced by boy
+Wii different from Wii
+remote controller use game
+video game system use playing
+remote controller use game
+Wii subclass of TV
+video game subclass of playing
+video game uses television
+TV part of living room
+furniture part of living room
+flat screen subclass of t.v.
+tv subclass of flat screen
+television part of Decorated living area
+kite location blue sky
+kit use flying
+kite use flying
+kite use kite flying
+kite use flying
+windsurfing uses sky
+parasailing location ocean
+parasailing location ocean
+parachute surf board subclass of surf board
+surfing uses ocean
+bob marley subclass of kite
+kite use fly
+kite use flying
+one love kite instance of kite
+kite named after one love
+kite use flown
+World Heritage Site maintained by UNESCO
+kite use fly
+kite use fly
+Reading a kite instance of kite
+computer use watches
+laptop part of bed
+laptop use video
+video uses laptop
+computer location bed
+pie has part plate
+pie has part plate
+Teddy bear location table
+pie has part white plate
+pie subclass of slice
+home plate sport baseball
+batter sport baseball
+A PICTURE OF A BASEBALL PLAYER sport BASEBALL
+baseball uses bat
+batter opposite of catcher
+baseball bat sport baseball
+baseball uses bat
+batter sport baseball
+BAT sport BASEBALL
+baseball uses bat
+tennis uses ball
+tennis court sport tennis
+outdoor tennis court sport tennis
+tennis court uses tennis ball
+tennis ball used by racquet
+flat bed part of truck
+truck has part bed
+truck bed part of truck
+truck has part bed
+bed part of truck
+bread use baked
+oven product or material produced bread
+loaf subclass of bread
+bread part of oven
+bread uses oven
+vase subclass of ceramic
+flower part of vase
+flower part of vase
+mirror subclass of vase
+mirror subclass of vase
+phone location building
+umbrella part of sidewalk
+George Orwell notable work Nineteen Eighty-Four
+cellphone has part umbrella extension
+cellular subclass of phone
+rolling her luggage location airport
+airport item operated luggage
+cell phone use time
+Samsung product or material produced cellphone
+Flip phone instance of statue
+cell phone used by woman
+cell phone use picture
+cell phone subclass of open
+button part of phone
+Take pictures uses phone
+boy mother older woman
+cell phone subclass of phone
+cell phones uses couch
+couch has part seat
+man spouse woman
+hair brush used by small boy
+comb used by kid
+brush part of floor
+hairbrush use playing
+hairbrush used by little boy
+cuddling uses stuffed animal
+Man in red shirt depicts teddy bear
+hugging facet of Emotional person
+teddy bear depicts man
+teddy bear subclass of stuffed
+picture part of wall
+vase part of side table
+case part of candle
+flower part of vase
+counter subclass of Decorative objects
+Gin subclass of vase
+flower part of plant
+glass part of vase
+flower part of vase
+plants part of vase
+scissors use cutting
+scissors use cutting
+scissor uses cloth
+scissors use cutting
+scissors use cutting
+kitchen items part of kitchen
+refrigerator part of kitchen
+play kitchen subclass of kitchen
+tile floor part of ceiling
+cupboard part of kitchen
+kitchen countertop part of kitchen
+cutting board part of kitchen counter top
+kitchen utensil part of stove
+cheese subclass of forks and fruits
+cutting board has part knife
+bike connects with bench
+bike use biker
+bike used by man
+bike use riding
+bike use riding
+sinks part of bathroom
+Black television subclass of television
+television location swank bathroom
+tv location bathroom
+television location bathroom
+mirror part of bathroom sink
+mirror part of toilet
+toilet part of bathroom
+toilet part of bathroom
+mirror part of bathroom
+mirror part of bathroom
+mirror different from sink
+bathroom subclass of photo
+picture of herself depicts girl
+selfie uses bathroom mirror
+bicycle used by bicycle
+bike part of book shelf
+Bookstore subclass of establishment
+book rack part of bike
+bicycle subclass of magazine
+street sign has part traffic light
+street post subclass of traffic light
+sign part of street pole
+street sign part of street light
+traffic light part of intersection
+toilet part of bathroom
+door part of toilet
+bathroom has part toliet
+toilet part of bathroom
+toilet part of bathroom
+biker uses bike
+motorcyclists opposite of walkers
+sidewalk part of crowd
+motorcycle use biker
+motorcycle location sidewalk
+toilet part of bathroom
+wooden bench part of wooden room
+window part of outhouse
+toilet has part window
+wooden bench subclass of bench
+green floor subclass of parking garage
+motorbike subclass of bike
+Green subclass of floor
+scooters subclass of scooters
+numbered parking spots part of garage
+desk subclass of computer
+desktop computer opposite of laptop computer
+desktop subclass of computer
+lap top subclass of computer
+laptop computer has part keyboard
+bed part of bedroom
+desk chair subclass of chair
+door connects with wall
+chair subclass of desk
+jackets part of all in a room
+restaurant has part sitting
+Anichkov Palace country Russia
+building has part gathered
+clock tower part of room
+clock tower subclass of table
+Giraffe parent taxon zebra
+giraffe different from zebra
+zoo practiced by keeper
+zebra parent taxon giraffe
+zebra parent taxon giraffe
+street lights part of street
+bike lane subclass of street lights
+bike lane part of road
+traffic control lights part of sidewalk
+sidewalk opposite of street
+western subclass of clothing
+picture subclass of post
+man spouse woman
+man spouse woman
+motor coach opposite of leaning against a motor coach
+flag applies to jurisdiction American
+flag applies to jurisdiction American
+street pole part of street signs
+flag applies to jurisdiction American
+street sign has part pole
+pole subclass of street light
+intersection has part traffic signal
+George Orwell notable work Nineteen Eighty-Four
+stop subclass of red light
+thirty one street sign subclass of traffic light
+George Orwell notable work Nineteen Eighty-Four
+grazing location field
+legs part of giraffe
+laying down in the grass depicts giraffe
+field has part grassy
+crossing necks depicts giraffe
+A couple of giraffe depicts forest
+The Great Gatsby author George Orwell
+tree has parts of the class leaves
+Two giraffes depicts giraffe
+field has part fence
+sheep uses fence
+fur used by sheep
+sheep uses fence
+sheared product or material produced coat
+street light subclass of traffic light
+intersection has part traffic light
+road showing subclass of traffic lights
+street light different from traffic light
+street light subclass of stop light
+wooden bench part of tree
+park bench part of park
+bench part of tree
+bench part of tree
+park bench subclass of bench
+yellow and green fire hydrant country Canada
+fire hydrant part of grass
+yellow followed by green
+Canada Valve & Hydrant Co, Ltd product or material produced hydrant
+green and yellow fire hydrant country Canadian
+fire hydrant subclass of grass
+fire hydrant part of curb
+fire hydrant use fire
+road has part grass
+fire hydrant subclass of grass
+John F. Kennedy School of Government part of Harvard University
+crack facet of asphalt
+bench subclass of crack
+bench part of street
+gully part of river
+facing the camera subclass of photo
+A tall giraffe depicts tree
+horns part of head
+head part of giraffe
+A very large tree depicts giraffe
+kneeling woman instance of photo
+park bench subclass of bench
+park bench subclass of lawn
+photograph subclass of image
+bench has part cement
+duck uses boat
+boat has part buoy
+boat has part buoy
+buoy part of body of water
+boat has part floatation device
+fenced facet of giraffe
+fenced in captivity facet of giraffe
+pole part of enclosure
+city different from city
+fenced facet of giraffe
+double deckered facet of bus
+bus has part recovery truck
+double decker subclass of bus
+railway station different from station
+truck use towing
+George Orwell notable work Nineteen Eighty-Four
+chair used by bird
+George Orwell notable work Nineteen Eighty-Four
+chair part of poolside
+arm rest part of lounge chair
+Two women looking at three giraffes depicts fence
+Giraffe uses zoo enclosure
+Three giraffe instance of giraffe
+fence depicts giraffe
+George Orwell notable work Nineteen Eighty-Four
+truck part of street
+Back of a dump truck depicts men
+back part of dump-truck
+back part of dump truck
+John F. Kennedy School of Government part of Harvard University
+dog owned by man
+man wearing a hat depicts dog wearing a hat
+costume depicts man
+man in period costume depicts dog in period costume
+Man owner of dog
+street sign part of building
+One, 35 Av, 81 ST, 35th Avenue instance of street signs
+street signs part of traffic
+street signs has part street pole
+post subclass of street signs
+toy photographer depicts bird
+toy person subclass of toy
+man subclass of plastic
+miniature person subclass of pictures
+Two birds on a carpet instance of picture
+train tracks part of train
+caboose part of train
+train car part of track
+train car part of train
+train car used by passenger train
+pickup subclass of truck
+red truck part of street
+John F. Kennedy School of Government part of Harvard University
+sidewalk part of street
+truck subclass of pickup
+tow truck subclass of truck
+over turned facet of tractor trailer
+A bus knocked over on it's side location mountain
+mountain different from valley
+turned over facet of truck
+racquet sport tennis
+racquet sport tennis
+serve sport tennis
+tennis uses racket
+tennis uses racket
+door occupant kitten
+cat uses bottle
+open door facet of sun
+water bottle used by cat
+soap use rinsed off
+forest has part deer
+mother opposite of father
+baby antelope subclass of antelope
+its child instance of deer
+baby deer subclass of deer
+chair location backyard
+cat uses chair
+flower part of vase
+chair used by cat
+chair location yard
+tabby subclass of cat
+tiger striped subclass of cat
+couch occupant cat
+ADULT subclass of CAT
+tabby subclass of cat
+truck product or material produced cement
+concrete wall has part cement
+concrete blocks has part cement
+truck product or material produced cement
+truck product or material produced cement
+boat located in or next to body of water lake
+John F. Kennedy School of Government part of Harvard University
+ship uses water
+A large fork sculpture depicts boat
+boat uses water
+computer monitor connects with keyboard
+computer keyboard connects with monitor
+keyboard part of desk
+keyboard part of desk
+keyboard part of computer
+tie subclass of shirt
+boy wearing a tie instance of picture
+George Orwell notable work Nineteen Eighty-Four
+George Orwell notable work Nineteen Eighty-Four
+tie part of shirt
+mountain part of lake
+boat located in or next to body of water lake
+mountain part of water
+blue followed by green water
+flag pole depicts mountains
+ferry subclass of ferry
+boats uses water
+monument subclass of monument
+Statue of Liberty located in the administrative territorial entity Ellis Island
+Statue of Liberty located in the administrative territorial entity Manhattan
+herd has part elephant
+trampling participant elephant
+adults subclass of elephants
+herd has part elephant
+herd has part elephant
+bedding material part of suitcase
+blanket used by dog
+pillow subclass of sheets
+dog uses luggage
+dog uses pillow
+Kraków country Poland
+boat part of body of water
+George Orwell notable work Nineteen Eighty-Four
+umbrellas used by people
+A anal instance of street
+George Orwell notable work Nineteen Eighty-Four
+covered walkway subclass of walkway
+lobby subclass of area
+arched part of hallway
+classical subclass of building
+enclosure occupant elephant
+elephants location building
+Two elephants walking by a tan wall depicts palm trees
+rock wall depicts trees
+enclosure part of zoo
+umbrellas subclass of canes
+umbrella part of basket
+2012 Summer Olympics point in time 2012
+umbrella subclass of holder
+walking cane subclass of umbrella
+George Orwell notable work Nineteen Eighty-Four
+neon subclass of shirt
+open umbrella subclass of umbrellas
+stillness subclass of capture
+umbrella named after magenta
+luggage subclass of bag
+building product or material produced brick
+London capital of England
+airport country United States
+London capital of England
+laptop subclass of desktop computer
+keyboard part of computer
+laptop opposite of desktop computer
+laptop subclass of desktop computer
+laptop subclass of computer
+big brown bear sport swim
+Water drips depicts bear
+dunk part of river
+brown parent taxon black bear
+walking in water depicts Black bear
+dives facet of polar bear
+jumping into a pool of water depicts bear
+polar bear uses reaches down into the water
+white polar bear parent taxon polar bear
+diving facet of polar bear
+airport runway used by passenger
+airline item operated plane
+tarmac part of airport
+Airport baggage handlers field of this occupation luggage
+airport has part tarmac
+brown bear named after grass
+trail subclass of paved
+field part of field
+A big brown bear walking through a field of grass depicts brown bear
+trail subclass of trail
+playing with two balls depicts polar bear
+polar bear with a green ball and a yellow ball depicts polar bear
+ball used by polar bear
+swimming participant polar bear
+A bear in the water with two balls depicts bear
+bed has part floor
+Puppy subclass of puppy
+dog uses eye
+dog uses bed
+dust ruffle part of bed
+grizzly parent taxon bear
+fighting participant bear
+fighting with each other participant bear
+face to face depicts bear
+brown bear uses hind legs
+baseball practiced by player
+throwing uses frisbee
+baseball cap sport baseball
+throw uses frisbee
+throw uses frisbee
+A group of zebras walking away from trees depicts zebras
+Three zebras depicts zebras
+Three zebra depicts zebra
+three zebra depicts zebra
+habitat occupant zebras
+bug-gee subclass of horse
+horse carriage use driving
+carriage has part horse
+carriage subclass of horse drawn
+horse use cart
+jet ski use jumping
+jetski uses ocean
+somersault uses jet ski
+water ski boat subclass of boat
+flip in the ocean uses jet ski
+banana has part cheese
+banana part of white plate
+sliced cheese has part banana
+cheese has part banana
+cheese has part banana
+chicken has part herbs
+chicken has part broccoli
+Baked chicken has part broccoli
+meat has part broccoli
+meat part of plate
+broccoli has part peas
+carrots has part Peas
+broccoli has part carrots
+broccoli has part peas
+shoestring carrots has part Peas
+pizza has part cardboard box
+pizza in box subclass of baked
+pizza has part middle finger
+pizza has part fresh
+pizza part of pizza box
+apple computer has part apple
+apple computer facet of apple
+apple computer facet of apple
+Apple product or material produced apple
+knife part of apple
+onion subclass of vegetable
+squash subclass of vegetable
+broccoli subclass of vegetable
+mushrooms part of salad
+kabob has part Broccoli
+ski uses skis
+mountain sport skier
+skis part of mountain
+skiier uses mountain
+ledge part of mountain
+broccoli has part meat
+meat part of plate
+Broccoli has part Broccoli
+plate part of table
+steak has part broccoli
+water ski uses waves
+life jacket sport water skiing
+ski rope sport water skiing
+skis uses water
+water ski subclass of skis
+skiing uses skis
+ski uses slopes
+skis uses snow
+snow sport skier
+Red jacket sport skier
+pole sport skateboarder
+skateboard uses stick
+baton part of skateboard
+skateboard uses wooden pole
+Man on skateboard uses skateboard
+skiing uses hill
+helmet sport skiing
+skiing uses snow
+hill sport skier
+freestyle skis subclass of athlete
+jump part of air
+sky opposite of air
+snowboard use jump
+trick uses snowboard
+snowboard use flying over the mountain
+skiing uses cliff
+ski slope sport skier
+cliff sport skier
+ski trick uses ski
+stunts subclass of skier
+snow board uses air
+jumping in the air uses snowboard
+snow board uses air
+helmet sport snowboard
+mid-air sport snowboarder
+snow board uses air
+jump uses snowboard
+snowboard sport jumping high up into the air
+snowboarder uses board
+mid air sport snowboarder
+racket sport tennis
+tennis uses racket
+racket sport tennis
+tennis uses racket
+tennis uses pants
+hat has part pastry
+donut subclass of bag
+pastry has part powdered sugar
+coffee shop product or material produced pastry
+pastry use take a bite
+pizza has part egg
+pizza has part cheese
+pizza has part olives
+pizza has part cheese
+pizza has part olives
+pizza subclass of table
+laptop part of table
+pizza part of table
+ktichen subclass of table
+table use food
+soccer uses field
+eye glasses used by woman
+her son sport soccer
+soccer uses field
+park occupant parent
+laptop subclass of computer
+laptop has part computer screen
+Flickr platform laptop
+cord connects with television set
+laptop subclass of computer
+surfboard uses wet suit
+surf board sport surf
+surfboard uses wet suit
+surfboard part of shore
+surfboard uses wet suit
+surfboard uses water
+paddle board uses wave
+surfboard uses paddles
+stick use travel on the water
+surfboard uses stick
+surfing uses board
+surfboard uses wave
+surfing practiced by surfer
+surfer uses wave
+surfing uses surfboard
+boogie board uses water
+his raft depicts child
+surfboard used by toddler
+beach has part water
+playing in the water subclass of toddler
+surf board uses wave
+surfboard different from rider
+surfboard uses ocean
+surfing uses ocean
+surfboard subclass of person
+racquet sport tennis
+diving sport tennis
+tennis uses racket
+guy in a red shirt and white shorts sport tennis
+tennis uses tennis ball
+dining room has part plants
+dinner table has part chairs
+window part of room
+chair part of table
+dining table part of dining room
+platter has part baked good
+bread subclass of plate
+pizza has part cheese
+pizza part of table
+cracker part of pizza
+pizza has part pan
+uncooked pizza subclass of pizza
+pizza has part baking sheet
+pizza has part toppings
+unbaked product or material produced pizza
+couch part of living room
+couch subclass of den
+couch subclass of furniture
+lamp part of table
+afghan part of couch
+smiling subclass of picture
+sucks uses mouth
+chewing used by child
+boy subclass of toddler
+chewing uses toy
+living room has part window
+coffee table part of living room
+couch subclass of chair
+open concept subclass of furniture
+chair different from couch
+wii controller has part batteries
+remote controls use video game
+Remotes subclass of remotes
+controllers part of table
+controller use video game
+playing subclass of video game
+Wii instance of game system
+wii remote controller manufacturer Nintendo
+game platform wii
+remote game controls use playing
+woman opposite of man
+woman opposite of man
+remote controller use game
+woman spouse man
+man spouse woman
+couch has part TV
+television part of room
+controllers part of television set
+remote controller use video game
+WII subclass of video game
+field works product or material produced kite
+the village located in the administrative territorial entity the village
+kite uses windmill
+field item operated kite
+kite uses kite
+baseball uses baseball bat
+baseball uses bat
+baseball uses field
+batter uses baseball
+baseball uses ball
+baseball uses bat
+baseball uses bat
+plate sport baseball
+Home plate sport baseball
+baseball uses ball
+baseball uses bat
+home plate facet of game
+baseball uses bat
+baseball uses ball
+bat used by man
+baseball uses ball
+baseball uses field
+home plate uses ball
+players sport baseball
+batter uses base
+pizza pans use pizza
+pizza has part stove
+pizza has part stove
+pizza has part kitchen stove
+pizza has part red wine
+window part of building
+stained glass use stained glass
+door way part of building
+window part of clock
+church at night instance of picture
+desktop computer subclass of desk
+computer location desk
+laptop subclass of computer
+John F. Kennedy School of Government part of Harvard University
+laptop has part keyboard
+computer subclass of group of people
+laptop has part headphones
+Microsoft Windows instance of operating system
+conference table subclass of laptop
+laptop subclass of computer
+laptop subclass of computer
+laptop subclass of computer
+dell inspiron subclass of laptop
+laptop has part table
+INSPIRION subclass of LAPTOP
+cell phone use talking
+cell phone use smiles
+Talking on the phone subclass of phone
+cell phone has part camera
+cell phone use talking
+light pole part of street
+city street instance of street
+George Orwell notable work Nineteen Eighty-Four
+phone use walking
+pole subclass of man
+refrigerator part of kitchen
+shelves part of fridge
+refrigerator part of kitchen
+refrigerator part of kitchen
+refrigerator part of kitchen
+crossword instance of newspaper
+cellphone different from newspaper
+comics section part of newspaper
+cellphone uses table
+cellphone subclass of newspaper
+wall click subclass of decoration
+clock part of wall
+circle clock subclass of clock
+clock part of wall
+clock has part decorative balls
+ceiling subclass of furniture
+lamps subclass of Chandelier
+clocks subclass of items
+Black and white subclass of photograph
+clocks has part lights
+book shelve product or material produced book
+stuffed bear location book shelf
+teddy bear subclass of stuffed
+shelf part of library
+stuffed bear subclass of books
+plate part of table
+omelet has part toast
+bread has part egg
+plate part of table
+toast has part eggs
+sauce subclass of food
+chopsticks part of table
+ravioli part of blue plate
+plate of food has part tea
+plate part of table
+noodles has part beef
+asian dish has part ingredients
+mushroom subclass of food
+soup has part spoon
+noodles has part veggies
+salsa subclass of food
+dip subclass of Deep fried treats
+salsa subclass of food
+table item operated food
+drinks use lunch
+beach subclass of day
+beach subclass of time
+Kraków country Poland
+dock part of beach
+Pier subclass of pier
+sitting area part of restaurant
+fish eye subclass of shot
+bicycle connects with sidewalk
+vehicles has parts of the class Bicycles
+bike part of sidewalk
+bike rack part of bike
+bike subclass of car
+bike subclass of car
+BICYCLES subclass of CAR
+Pontiac product or material produced vehicle
+bus use tour
+double decker subclass of bus
+bus subclass of bus
+double decked bus subclass of group of people
+Yellow subclass of school bus
+tub part of bathroom
+tub part of bathroom
+bath tub subclass of purse
+White tub instance of tub
+tile part of bathroom
+toilet part of bathroom
+toilet part of bathroom
+mirror part of bathroom
+toilet part of bathroom
+shower stall part of bathroom
+bath tub part of bathroom
+bathtub part of bathroom
+tub part of bathroom
+tub part of bathroom
+bathtub part of bathroom
+food cart product or material produced food
+lady opposite of man
+street vendor product or material produced food
+food cart location sidewalk
+food stand part of street
+church has part clock
+clock tower part of church
+clock part of tower
+clock tower part of church
+beige instance of color
+motorcycle has part back
+motorcycle use riding
+motorcycle location white house
+motorcycle subclass of motorcycle
+motorcycle use rider
+motorcycle subclass of motorcycle
+motorcycle used by child
+scooter part of street
+man spouse woman
+scooter subclass of riding on it
+bowl part of table
+sock monkey uses bowl of oranges
+monkey subclass of stuffed toy
+stuffed animal location table
+table has part bowl
+John F. Kennedy School of Government part of Harvard University
+motorcycle subclass of motorcycles
+car part of street
+motorcycle subclass of motor cycle
+motorcycle location building
+jet subclass of passenger
+airplane uses air
+Lufthansa instance of airline
+close up subclass of close up
+plane uses air
+asian section instance of bench
+bench subclass of sitting
+bench part of street
+bench subclass of sitting
+religious outfit subclass of man
+green facet of traffic light
+intersection part of street
+green street light subclass of street light
+street has part traffic signal
+cars part of road
+bike part of street
+bike used by man
+city street subclass of road
+street used by Bicyclist
+cyclist uses bike
+SHEEP DOG subclass of SHEEP
+border collie uses sheep
+sheep dog use herding
+sheep used by dog
+sheep used by dog
+tiger striped subclass of cat
+tabby subclass of cat
+tabby subclass of cat
+wooden bench use petted
+George Orwell notable work Nineteen Eighty-Four
+1999 point in time 1999
+vegan subclass of hippy van
+DISCO product or material produced BALL
+bus location parking lot
+double decker subclass of bus
+benches part of park
+House location field
+park benches part of park
+park benches part of park
+park benches part of park setting
+brown sheep location field
+pasture occupant brown sheep
+field part of house
+blue house location hillside
+chocolate colored depicts sheep
+fire hydrant part of landscaping
+sidewalk subclass of ground
+fire hydrant part of sidewalk
+fire hydrant part of fence
+fire hydrant subclass of rocks
+fire hyrdant has part pole
+fire hydrant has part post
+fire hydrant part of yard
+fire hydrant subclass of shade
+fire hydrant has part posts
+William Shakespeare notable work Cymbeline
+horse use riding
+Sitting on horses instance of photo
+Two women on horses depicts building
+horse use sitting
+horse used by man
+street has part person
+child uses horse
+boy uses horse
+boy uses horse
+train crosses countryside
+Train blowing smoke instance of Train
+steam train opposite of power lines
+track used by train
+trains engine part of train cars
+train named after tin building
+train engine connects with track
+track used by train
+train engine has part caboose
+railroad engine location railway yard
+subway part of subway
+indoor station subclass of train
+Can not be boarded facet of train
+lady walking pas a train in motion depicts lady walking pas a train in motion
+blue train depicts lady
+snack store sign subclass of stop sign
+snack bar subclass of stop sign
+SHIP subclass of DECORATIVE SNACK SHOP
+stop sign subclass of signs
+restaurant use eat
+stop sign part of cross section
+stop sign subclass of post
+stop sign part of grass
+stop sign part of street
+stop sign part of corner
+STREET has part VAN
+truck part of street
+truck different from car
+Horses instance of truck
+black horse subclass of truck
+black bear subclass of stuffed animal
+STUFF BEAR location WALL
+The Bear instance of hanging
+black teddy bear instance of teddy bear
+teddy bear subclass of bear
+classic subclass of truck
+1950 point in time 1950
+pickup truck subclass of classic cars
+parking lot part of road
+street part of city
+ox subclass of grass
+grass used by steer
+horned subclass of cow
+tree part of fence
+tree subclass of grass
+cow subclass of grass
+field used by cow
+field used by cow
+field used by cow
+bull trampoline uses coyote
+umbrella use shade
+umbrella used by man
+man with an umbrella depicts boat
+boat uses water
+umbrella subclass of silhouette
+boat location shore
+shore subclass of body of water
+beach has part boat
+abandoned boat location beach
+An abandoned boat location beach
+1929 point in time 1929
+1929 point in time 1929
+children opposite of men
+picture participant adults
+Goodmayes Boys School instance of boys
+tie subclass of suit
+slide show subclass of presentation
+hand gesture used by man
+pie chart use presentation
+glasses has part white haired
+tying a tie subclass of photograph
+undone tie part of bed
+tie sport playing
+tie uses bow
+tie use tying
+elephant uses dirt
+scrubbing uses elephant
+washing an elephant depicts children
+brush use clean
+cleaning an elephant uses brooms
+Boys opposite of men
+uniforms part of school
+children opposite of adults
+group photo subclass of posed
+posing for a picture subclass of photo
+posing for a photo subclass of photo
+School boys sit cross legged in front of a chalkboard sign instance of photo
+School class photo location Standard South Carolina
+chalkboard subclass of suits
+Black and white subclass of photograph
+child uses luggage
+child uses luggage
+terminal item operated suitcase
+red suitcase owned by little boy
+airport item operated luggage
+teddy bear use bed spread
+teddy bear location bed
+cover part of teddy bear
+comforter part of bed
+stuffed animal part of bed
+keeping cool in the water depicts polar bear
+white polar bear parent taxon polar bear
+fun in the water depicts polar bear
+swimming in a river depicts polar bear
+POLAR BEAR uses WATER
+mirror part of ground
+reflection part of mirror
+mirror use reflection
+dog uses reflection
+reflective disk depicts dog
+rainbow part of sky
+rainbow depicts zebras
+rainbow depicts zebra
+rainbow instance of scenic depiction
+rainbow depicts zebra
+muzzle part of dog
+upper teeth part of dog
+dog uses teeth brushed
+dog has part nose
+mouth part of dog
+head part of zebra
+head part of head
+resting its head depicts Zebra
+field depicts zebras
+head part of zebras
+horse drawn carriage subclass of carriage
+two-wheeled card depicts horse
+horse trailer subclass of trailer
+horse use walking
+trailer used by horse
+pasture used by horse
+horse uses dirt
+horse uses fence
+horse uses fence
+horse uses fence
+pole jump subclass of jumping
+equestrian uses horse
+horse uses jump
+hurdle used by horse
+British woman competing in a horse jumping event sport horse jumping
+horse used by cart
+horse uses wagon
+cart has part horse
+cart has part horse
+carriage item operated horse
+motorcycle subclass of Horse
+race track uses motorcycles
+cross part of finish line
+Bike subclass of Horse
+biker uses Horse
+stands sport baseball
+batter sport baseball
+baseball practiced by men
+bat sport baseball
+field sport baseball
+skiing uses snow
+National Historic Landmark maintained by Smithsonian Institution
+mountain part of mountain
+snowboard uses skis
+snowboarders subclass of Skiers
+A young boy depicts sky slope
+snow ski location mountainside
+sports gear use walking around
+Mount Fuji located in the administrative territorial entity California
+ski slope subclass of slope
+banana subclass of stumpy
+banana subclass of fingertips
+spotted banana subclass of yellow
+banana part of hand
+banana subclass of yellow
+display part of store
+display part of store
+bananas subclass of bananas
+A bunch of bananas instance of display
+Bunches of bananas instance of display
+bananas part of bananas
+bananas part of table
+plate part of counter
+bananas part of paper plate
+banana use peel
+baseball uses diamond
+baseball uses field
+catcher subclass of gloves
+baseball uses field
+A COUPLE OF YOUNG BOYS sport BASEBALL
+catcher sport baseball
+catcher gear sport baseball
+catcher sport baseball
+catcher gear sport baseball
+baseball catcher uses baseball helmet
+ski uses snow
+skis part of mountain range
+skiing uses mountain
+skis part of mountain
+mountain sport skier
+skis uses snow
+skis part of mountain
+ski uses skis
+ski uses snow
+mountain sport skier
+skateboard use riding
+scooter used by child
+skateboard used by boy
+boy sibling girl
+skateboard uses sidewalk
+ingredients part of food
+food items part of counter
+kitchen counter subclass of food items
+milk has part egg
+bowls has part measuring cups
+half pipe subclass of trick
+skate park sport skate
+course sport skate boarding
+ramp subclass of skateboard
+skateboard uses skateboard ramp
+skiing uses snow
+ski uses snow hill
+cross-country skiing facet of winters
+cross country skis uses snow
+snow skis subclass of tall man
+blue instance of color
+stalk part of broccoli
+broccoli subclass of pieces of fresh broccoli
+broccoli has part leaves
+broccoli has part florets
+GALA used by PRODUCE DEPARTMENT
+Red Delicious is a list of apple
+trays has part apple
+supermarket product or material produced apple
+market product or material produced apple
+radishes subclass of vegetables
+tin foil use mixture
+vegetables subclass of fruits
+vegetables subclass of fruits
+tin foil part of bowl
+grinding on a car sport skater
+tricks on a car sport skateboarding
+The boys sport skateboarding
+tricks uses skateboard
+skate park subclass of people watching them
+flipping uses skateboard
+skateboarding uses sidewalk
+tricks uses skateboard
+mid-jump sport skate boarders
+tricks sport skateboarders
+fork part of plate
+chicken has part fork
+fork part of plate
+carrot subclass of vegetable
+fork has part silver
+skiing uses hill
+skiing uses snow
+mountain part of mountain
+skiing uses mountain
+hiking location mountain
+skateboard uses arm cast
+skateboard instance of cast
+skateboard uses arm cast
+kneeling part of street
+skateboard uses arm cast
+knife use cake
+birthday cake depicts heart
+birthday cake subclass of cake
+Birthday cake subclass of cake
+birthday cake uses knife
+sandwich has part plate
+sandwich has part bread
+tomato has part cheese
+cheese part of sandwich
+bacon has part cheese
+hot dog has part foam container
+hot dog subclass of to go containers
+onion ring has part hot dog
+onion rings subclass of hotdog
+chili dog subclass of food
+fried potato subclass of sandwich
+fries has part meat
+french fries subclass of sandwich
+french fries subclass of sandwich
+french fries subclass of sandwich
+frosting part of cake
+surfer uses palm trees
+beach part of ocean
+surf board subclass of person
+figurine surfing subclass of cake
+surfboard location beach
+surfboard sport surfer
+surf board uses waves
+surf board uses water
+beach sport surfer
+fried subclass of food
+cake subclass of plate
+branding uses monogram
+cowboy instance of logo
+cowboy instance of brands
+surfing uses surfboard
+break sport surfer
+surfing uses wave
+surfing uses water
+wave part of ocean
+fried potato subclass of shoestring
+chips part of sandwich
+sandwich has part potatos
+shoe string fries subclass of sandwich
+plate part of table
+surfing uses surfboard
+surf named after beach
+surfing uses surfboard
+surf uses boards
+surfing uses surfboard
+Computer desk subclass of desktops
+desk has part screens
+monitors part of desk
+mouse connects with keyboard
+laptop subclass of computer
+pizza part of table
+cheese pizza subclass of restaurant
+pizza part of table
+pizza part of table
+pizza part of restaurant
+tennis racquet used by tennis court
+tennis uses ball
+serve sport tennis
+tennis uses ball
+tennis uses tennis court
+tennis practiced by fans
+tennis practiced by player
+tennis uses tennis racket
+tennis uses racquet
+tennis court sport tennis
+tennis uses tennis racket
+tennis uses racket
+tennis uses racket
+racket sport Tennis
+racket sport tennis
+toothbrush part of mouth
+toothbrush use tooth
+toothbrush use bath
+bath tub use brush his teeth
+brushing uses teeth
+table part of living room
+living room subclass of room
+window part of room
+furniture part of living room
+living room subclass of picture
+John F. Kennedy School of Government part of Harvard University
+couch part of living room
+couch part of living room
+couch part of living room
+television subclass of den
+coffee table part of living room
+house has part room
+carpet subclass of fabric
+living room has part pattern
+entertainment center subclass of living room
+table subclass of chairs
+RUG connects with END TABLE
+coffee table opposite of couch
+table part of living room
+table part of den
+wide serve sport tennis
+tennis uses tennis ball
+tennis uses tennis court
+tennis uses ball
+tennis racket connects with tennis ball
+racquet sport tennis
+tennis uses tennis ball
+tennis uses ball
+tennis uses ball
+tennis racquet used by tennis court
+couch subclass of television
+sofa part of living room
+couch has part TV
+curtained subclass of living room
+TV part of living room
+flying kites location great lawn
+kites uses kite
+kites part of sky
+flying uses kites
+flies kites uses grass
+teddy bear used by child
+stuffed animal used by boy
+teddy bear used by boy
+stuffed animal used by boy
+teddy bear used by boy
+kite sport surfer
+glider use sailing
+foggy day sport surfing
+kite surfer uses waves
+surf location ocean
+clock tower part of castle
+building part of city
+clock part of building
+England capital London
+Big Ben instance of scenic view
+handicapped uses wheelchair
+wheel chair subclass of person
+mound sport baseball
+athlete field of this occupation sport
+baseball uses bat
+softball surface played on grass
+baseball uses bat
+baseball uses bat
+umpire field of this occupation ball
+bat sport baseball
+championship tennis match participant Williams
+tennis subclass of game
+tennis uses crowd
+lady dressed in pink sport tennis
+tennis uses match
+laptop subclass of computer
+desk part of office
+computer has part desk
+double hung subclass of window
+laptop subclass of computer
+laptop uses dark
+laptop used by man
+laptop uses dark
+Man looking at laptop playing video game in the dark instance of video game
+laptop part of dark room
+umbrella use rain
+umbrella used by people
+umbrella use rainy day
+umbrella subclass of hat
+umbrella subclass of phone
+using the phone uses phone
+TALKING ON THE PHONE facet of WOMAN
+phone use talking
+cell phone use talking
+cell phone use talks
+microwave subclass of stove
+microwave part of kitchen cabinets
+microwave oven subclass of oven
+microwave subclass of microwave
+microwave part of kitchen
+woman opposite of man
+phone part of room
+posing for a picture uses cellphone
+Mature man opposite of women
+picture subclass of photo
+palm pilot part of cellphone
+pink phone opposite of white phone
+old style phone opposite of newer phone
+woook table product or material produced woook
+Nokia product or material produced phone
+playing with his phone instance of restaurant
+fiddles uses smart phone
+table part of restaurant
+smart phone use cafe
+cell phone subclass of smartphone
+glasses part of fridge
+mini fridge has part bottle
+refrigerator part of kitchen
+Kitchen has parts of the class Appliances
+refrigerator part of kitchen
+A Woman in a red shirt depicts vase
+flower part of vase
+Vase subclass of vase
+flower part of vase
+flower part of vase
+radio has part spindle
+tissues part of night table
+radio part of counter
+thread part of scissors
+table subclass of materials
+bread has part scissors
+scissors uses paper
+rock subclass of paper
+scissors uses paper
+scissors uses scissors
+wine part of restaurant
+wine part of table
+wine subclass of glass
+glass use drink
+Man takes a picture while holding a glass of wine instance of picture
+umbrella used by woman
+umbrella use rain
+brown umbrella subclass of umbrella
+Woman with umbrella uses umbrella
+Woman with umbrella uses umbrella
+window part of kitchen
+window part of house
+potted subclass of plants
+window part of dining room
+chair has part window
+oven part of oven
+kitchen product or material produced food
+open oven facet of woman
+kitchen product or material produced food
+bread part of kitchen
+window part of kitchen
+furniture part of kitchen
+chairs part of kitchen table
+table part of kitchen
+vase part of dining table
+skateboard subclass of riding
+skateboarder uses board
+skateboard has parts of the class wheels
+skateboard use riding
+skateboard use vendor
+curling uses hair
+scissors part of hair
+scissors use hair
+scissors use cut her own hair
+scissors use cutting her own hair
+mirror subclass of vanity
+vanity part of bathroom
+mirror part of Bathroom counter
+wall part of bathroom
+mirror part of bathroom
+shower part of bathroom
+shower door part of bath
+sink part of bathroom
+shower part of bathroom
+sink subclass of cabinet
+tub part of bathroom
+toilet part of bathroom
+shower part of bathroom
+toilet part of bathroom
+bathroom has part door
+antler used by dog
+motorcycle subclass of motorcycle
+motorcycle subclass of motorcycle
+Santa Claus instance of costume
+motorcycle use riding
+urinal part of bathroom
+urinal part of row
+Urinal part of bathroom
+urinal part of bathroom
+toilet length 3
+motorcycle depicts cow
+motorcyclist uses road
+motorcycle has part man
+motor bike subclass of bike
+motorcycle use rider
+window part of church
+golden cross instance of ornament
+golden obelisk part of ornate building
+desks has part seat
+The inside view depicts church
+ruins subclass of field
+village different from town
+pasture product or material produced grass
+William Shakespeare notable work Cymbeline
+bighouse subclass of grass
+toilet part of bathroom
+toilet part of restroom
+public bathroom has part toilet
+bidet uses pictogram
+Toilet bowl part of bathroom
+dog uses food
+dog uses food
+feeding bowl used by dog
+food dish used by dog
+dog has part brown
+bananas subclass of fruit
+bananas part of cart
+photograph has cause color
+sold product or material produced Bananas
+banana subclass of yellow
+airliner location airport
+liner subclass of air
+mountains located in or next to body of water ocean
+jet airliner subclass of jet
+jet liner subclass of air plane
+air plane use flying in the air
+John F. Kennedy position held Secretary of Defense
+aircraft use flying
+flying through the sky subclass of airplane
+blue sky subclass of sky
+tongue use tasting
+tongue part of tongue
+tongue part of giraffe
+wooden fence subclass of fence
+tongue part of giraffe
+eating from trees facet of giraffe
+Four giraffes depicts plain
+Four giraffes depicts giraffe
+Four giraffes depicts giraffe
+Kraków country Poland
+sun spot part of sky
+air plane location sky
+A plane flies over a row of snow mobiles instance of plane
+airplane location field
+snow machine subclass of recreational
+hill subclass of grass
+grass opposite of rocks
+mountain different from hill
+grassy hill subclass of rocky
+A tall giraffe depicts giraffe
+bench part of park
+park benches subclass of wooden
+wooden bench occupant bird
+purple bench subclass of bench
+purple bench depicts bird
+bush has part giraffe
+eating facet of giraffe
+Looking at the camera depicts giraffe
+Giraffe parent taxon giraffe
+grass different from tree
+clouds part of sky
+plane flies above part of cloudy sky
+tarmac part of plane
+jet subclass of plane
+commercial plane uses sky
+sitting nest depicts woman
+John F. Kennedy School of Government part of Harvard University
+man spouse woman
+lady spouse man
+couple has part little girl
+Kraków country Poland
+Sitting in the wild depicts giraffe
+graze uses grass
+habitat used by giraffe
+zoo has part giraffe
+wire fence use sheep
+mountain part of background
+sheep grazing subclass of gated area
+mountain subclass of view
+grazing on top subclass of animals
+bus stop item operated bus
+downtown instance of city street
+awnings part of bus
+bus located in the administrative territorial entity city
+city bus location city street
+sun opposite of dirt
+flower part of bench
+flower has effect bloom
+flower part of background
+flower part of wildflowers
+fire hydrant part of crosswalk
+crosswalk part of curb
+sidewalk has part fire hydrant
+Silver instance of color
+street located in the administrative territorial entity city
+covered in snow subclass of bench
+skateboard has part pole
+bench part of mountain range
+object has part surface
+A bench instance of bench
+crosstown subclass of bus
+bus part of street
+advertising location curb
+bus part of public transit
+city bus part of street
+bus part of road
+large city bus color lime green
+bus part of road
+bus part of street
+curb part of bus
+bus part of street
+driver item operated bus
+city bus part of street
+bus located in the administrative territorial entity city
+bus used by driver
+bus color red and blue
+Bearcats Basketball located in the administrative territorial entity Ohio
+bus part of side of the road
+advertisement facet of bus
+bus part of public transit
+eating facet of giraffe
+chewing used by giraffe
+eating branches depicts giraffe
+branch used by giraffe
+giraffe instance of all fours
+WALL has part FLOWERS
+decorative hands part of clock
+wooden box part of house
+clock depicts bird
+birds has part flowers
+pizza subclass of restaurant
+Pizza Hut product or material produced pizza
+old pizza sign instance of sign
+pizza instance of sign
+pizza sign depicts brick wall
+swan uses pond
+ducks uses pond
+geese location pond
+George Orwell notable work Nineteen Eighty-Four
+White Swan parent taxon swan
+city located in or next to body of water river
+river sign subclass of sign
+bridge crosses river
+green subclass of signs
+Marion County located in or next to body of water Willamette River
+back cat subclass of cat
+kissing participant cat
+black cat owned by girl
+black cat owned by woman
+cat use pet
+horse use uniform
+horse uses fence
+horse subclass of image
+horse used by man
+peacoat has part hat
+tracks used by train
+rail road subclass of road
+railway item operated train
+track used by train
+Yellow subclass of train
+brick building located in or next to body of water river
+street sign depicts tree
+East Street instance of road
+black sign depicts grass
+building part of street
+Roadway signs part of sidewalk
+freeway entrance subclass of road sign
+bike part of building
+bicycle subclass of bike
+south I5 part of I5
+track used by train
+commuter rail subclass of Commercial train
+rail yard item operated train
+rolling subclass of train
+tank part of moving train
+Thomas the Train instance of steam engine
+face part of train engine
+railroad worker item operated locomotive
+train track part of train
+Thomas the Train instance of locomotive
+yellow tram subclass of tram
+mountain part of landscape
+tracks used by train
+train use passenger
+tracks used by train
+track used by train
+train track used by train
+Train has part track
+stop sign part of train
+outside station platform located in the administrative territorial entity California
+calf mother cow
+cow has part calf
+tag part of cow
+black cow opposite of brown cow
+cow has part calf
+fire truck has part red
+fire pickup subclass of truck
+car part of parking lot
+fire department item operated pick-up truck
+gate subclass of cars
+cat uses blanket
+basket used by cat
+White cat residence blanketed chair
+long-haired facet of cat
+cat uses blanket
+cage used by dog
+television subclass of television
+cat different from dog
+cage occupant dog
+stares part of TV
+herd has part elephant
+elephants uses body of water
+herd has part elephants
+elephants continent world
+herded subclass of herd
+bed subclass of picture
+bow tie used by dog
+bow used by dog
+bow tie used by dog
+tie part of neck
+forest has parts of the class leaves
+river part of forest
+foliaged subclass of tree
+lake part of lake
+boat uses water
+airport instance of walking to and fro
+terminal has part ceiling
+George Orwell notable work Nineteen Eighty-Four
+hanging subclass of hanging
+shopping mall use shopping
+red tie subclass of glasses
+tie has part glasses
+tie subclass of shirt
+house subclass of plastic
+George Orwell notable work Nineteen Eighty-Four
+tie part of shirt
+tie subclass of clothes
+George Orwell notable work Nineteen Eighty-Four
+dress shirt subclass of short sleeve
+picture depicts smiling
+elephant uses water
+beach located in or next to body of water lake
+man in a hat depicts elephant in a river
+elephant uses water
+chain part of elephant
+boats located in or next to body of water water
+pier located in or next to body of water water
+city located in or next to body of water water
+City located in or next to body of water waterway
+boats part of building
+bag subclass of luggage
+George Orwell notable work Nineteen Eighty-Four
+John F. Kennedy School of Government part of Harvard University
+2008 Summer Olympics point in time 2008
+London capital of England
+umbrella part of stage
+CONCERT uses RECORDIGN
+lady holding up an umbrella depicts dark place
+umbrella use rain
+umbrella use photograph
+carousel part of airport
+carousel part of airport
+airport baggage belt subclass of Suitcase
+airport has part bagage track
+airport item operated Luggage
+Cheese Shop uses frisbee
+man opposite of woman
+red subclass of frisbee
+sign part of cheese shop
+man spouse woman
+couch has parts of the class cushions
+sofa has part cushion
+white dog uses couch
+blue subclass of sofa
+blue subclass of couch
+catching uses frisbee
+park uses Frisbee
+Men playing with a frisbee sport frisbee
+Frisbee subclass of playing with a frisbee
+game location park
+Car mirror subclass of mirror
+dog uses window
+side view mirror part of car
+window occupant dog
+George Orwell notable work Nineteen Eighty-Four
+futon subclass of bed
+bed use relaxation
+pillows part of bed
+zebra subclass of prints
+blanket has part pillows
+Frisbee uses air
+Man in air catching frisbee location beach
+flying disk use playing
+Frisbee subclass of green
+Frisbee sport beach
+running in the wild facet of zebras
+herd location field
+herd part of savannah
+Herd subclass of herd
+field has part grass
+flag depicts woman
+horse subclass of Person
+flag depicts field
+flag location stadium
+arena subclass of outdoor arena
+pedestrians opposite of vehicles
+corner part of sidewalk
+child uses horse
+walk down the street opposite of car going down the street
+walking uses sidewalk
+yellow vest subclass of helmets
+Clydesdale subclass of horse
+horse use riding
+horse used by men
+horse use rider
+snowboard uses snow
+snowboard uses snow
+mountain part of mountain range
+ski jumper subclass of skiers
+snowboard use rides
+2006 Winter Olympics point in time 2006
+snow part of mountain
+snowboarders uses slopes
+snowboarders uses snow
+snowboard uses snow
+jet-ski uses water
+life jackets part of watercraft
+Jet Ski uses water
+see doo part of water
+jet ski use riding
+market stand product or material produced bananas
+farmers market product or material produced bananas
+vegetables part of vendor
+the ceiling has part string
+Bunches has part bananas
+cross-country skiing subclass of exercise
+black subclass of skies
+woman in skies depicts snow
+skiing uses snow
+cross country skier uses snow
+baseball player field of this occupation baseball game
+baseball uses bat
+baseball uses bat
+baseball player uses baseball field
+baseball batter uses baseball pitch
+bulb part of christmas tree
+Christmas tree has part orange
+tree subclass of decorated
+tree has part orange
+christmas tree subclass of tree
+baseball practiced by players
+baseball field sport baseball
+baseball uses field
+baseball practiced by team
+playing field sport baseball
+speed skier subclass of competitive
+Olympic sport snow skier
+cross country skier uses snow
+white clothing sport skier
+skiing uses slope
+skateboard uses skateboard
+skateboard used by man
+The skateboarder in pink sport tennis
+skateboarder sport night
+trick uses skateboard
+New York City contains administrative territorial entity Manhattan
+vegetables part of table
+vegetables part of table
+greens subclass of vegetables
+vegetables part of table
+skateboard subclass of riding
+trick subclass of skaters
+skateboard subclass of walk way
+skateboard used by man
+skateboard used by man
+Carrots part of bowl
+carrot part of metal bowl
+carrot subclass of container
+carrots has parts of the class stalks
+carrot has part stems
+skateboard use jump
+aerial skills sport skateboarder
+skateboarder uses air
+skateboard use jumping
+skateboard park sport skateboarders
+skateboarder subclass of sculpture
+Green followed by blue
+trick uses skateboard
+ramp part of skate board
+skateboard subclass of statue
+hot dog subclass of table
+food part of table
+hotdog subclass of food
+hotdog subclass of sodas
+cake subclass of food items
+sandwich part of table
+sandwich subclass of table eating
+sandwich part of table
+sandwich part of restaurant
+restaurant product or material produced sandwich
+Woman in sunglasses instance of sandwich
+bite part of food
+sandwich has part bites
+sandwich uses hand
+sandwich has part water bottle
+snowboarder uses snowboard
+snowboarder uses snowboard
+sign has part person
+snowboard subclass of sign
+entrancing subclass of action
+beer part of restaurant
+doughnut has part soda
+Donuts subclass of drink
+doughnut part of table
+food used by people
+coke color pink
+doughnut has part pink
+shot glass facet of liquor
+donut subclass of half eaten
+doughnut part of doughnut
+surfboard uses beach
+surf uses boards
+surfboard uses beach
+beach subclass of sandy
+surfing uses Surfboard
+surfboard uses water
+surfboard uses water
+surfboard part of roof
+surf board uses body of water
+surfboard uses water
+waffle has part cream
+frosting part of cake
+sandwich cookie has part fruit
+patty has part frosting
+cake subclass of plate
+birthday cake has part vanilla
+candles part of birthday cake
+candles part of cake
+cake has part candles
+candles part of cake
+surfer uses surfboard
+surfboard uses water
+Surfer uses surfboard
+surfing uses surf board
+surfboard uses wave
+backboard part of bed
+pillows part of bed
+headboard part of bed
+pillows part of bed spread
+bed sheet part of bed
+splashing part of wave
+boogie board uses waves
+New York City contains administrative territorial entity Manhattan
+wakeboard uses ocean
+ocean subclass of water
+head board part of bed
+bed part of bedroom
+bed part of bed
+bed room has part bed
+pillows part of bed
+surfboard uses beach
+surfboard uses ocean
+surfer uses board
+surfboard uses shore
+surfboard use beach
+lunch part of restaurant
+pizza has part paper plate
+plate part of table
+pizza has part paper plate
+photographer uses camera
+wii genre video game
+video game subclass of play some
+video game uses big screen
+game system use game
+television location bar
+toothbrush part of mouth
+child used by man
+tattoo part of arm
+brushing their teeth practiced by adult
+tooth brush use brushing his teeth
+Wii manufacturer Nintendo
+video game practiced by players
+tv subclass of image
+remote control part of television
+Little girls uses table
+remotes use video game
+Wii manufacturer Nintendo
+playing games location living room
+video game location living room
+wii subclass of living room
+doll house subclass of miniature furniture
+display shelves has part chair
+floral print subclass of image
+cabinets part of bedroom
+Pink instance of color
+flying a kite location beach
+flying a kite location cliff
+kite part of sky
+flying a kite uses kite
+the sky depicts bird
+sailing uses boat
+sailboat uses sail
+sailing uses sailboat
+Colgate Clock instance of sail boat
+sailboat has part sail
+baseball uses ball
+batter uses plate
+pitch sport baseball
+Batter sport baseball
+baseball subclass of game
+baseball uses bat
+baseball uses bat
+bat used by batter
+first base subclass of running
+baseball uses diamond
+batter sport baseball
+Batter sport baseball
+catcher sport baseball
+umpire uses bat
+home base sport ball
+pizza subclass of slice
+pizza has part mouth
+pizza has part mouth
+pizza has part mouth
+pizza has part mouth
+tennis practiced by player
+racquet sport tennis
+tennis uses racket
+tennis subclass of black and white
+pumps her fist sport tennis
+racquet sport tennis
+racket sport tennis
+racket sport tennis
+racket sport tennis
+racquet sport tennis
+measuring cup part of kitchen
+kitchen has part counter
+cooking location kitchen
+kitchen product or material produced food
+kitchen product or material produced food
+refrigerator connects with stove
+refrigerator has part stove
+refrigerator part of kitchen
+refrigerator part of Kitchen
+box part of refrigerator
+keyboard part of laptop
+laptop has part keyboard
+laptop subclass of computer
+keyboard part of laptop
+laptop subclass of computer
+photo has part camera
+two cameras part of bed
+photograph has part camera
+Nikon product or material produced camera
+teddy bear has part camera
+balloons part of tree
+candles use memorial
+picture of stuffed animals depicts street
+balloons subclass of stuffed animals
+balloons subclass of teddy bear
+A BUS has parts of the class BUS
+subway car has parts of the class telephone
+train use public transit
+subway item operated phones
+subway item operated cell phones
+Man holding a stick depicts hillside
+walking stick subclass of back pack
+Man holding a stick depicts stick
+rocks part of woods
+backpack has part walking stick
+dialing uses cellular phone
+text uses phone
+iphone different from ipod
+text message platform mobile phone
+Hands uses cell phone
+cellphone used by man
+cell phones subclass of men
+jacket different from coat
+cell phones instance of group
+cell phone instance of image
+golden clock has part glass
+clock part of room
+Museum of Modern Art located in the administrative territorial entity Chicago
+clock store product or material produced clock
+glass case part of clock
+scissors has part orange
+scissors has part blue
+scissors part of hands
+scissors part of hand
+scissors subclass of close up
+paper part of table
+scissors uses paper
+scissors subclass of paper
+fabrics part of table
+linens part of table
+scissors use cuts
+A young man sitting at a table instance of paper
+scissors part of table
+scissors use cutting paper
+scissors use cutting
+umbrella use walking
+umbrella use walking on the street
+street part of city
+umbrella part of sidewalk
+George Orwell notable work Nineteen Eighty-Four
+bike part of road
+motorcycle subclass of motor bike
+street located in the administrative territorial entity city
+scooter subclass of car
+moped use street
+Black Labrador subclass of dog
+dog subclass of person
+black dog owned by young man
+dog uses mans lap
+park has part grass
+oven subclass of stove top
+stove part of kitchen
+microwave part of kitchen
+kitchen has part stove
+microwave part of kitchen
+red robe depicts woman
+red subclass of flowered
+table part of kitchen
+woman opposite of man
+Man spouse woman
+bicycle different from boat
+duck part of river
+bike located in or next to body of water river
+shit part of bike
+Kraków country Poland
+toilet part of bathroom
+toilet part of bathroom
+toilet paper part of bathroom
+toilet cover part of toilet
+seat part of toilet
+brushing his teeth uses mirror
+mirror has part toothbrush
+bathroom mirror use selfie
+mirror use reflection
+brush his teeth uses mirror
+window part of Bathroom
+tub part of bathroom
+shower part of bathroom
+hardwood subclass of white
+tub part of bathroom
+vanity sink part of bathroom
+mirror part of bath room sink
+mirror part of bathroom sink
+vanity subclass of bathroom sink
+sink part of bathroom
+motor bike part of street
+helmet part of motorcycle
+motorcycle has part back wheel
+motorcycle use rider
+cars location intersection
+shower part of bathroom
+toilet part of bathroom
+shower subclass of toilet
+tiled part of bathroom
+shower subclass of bathroom
+scissors used by women
+scissors used by woman
+eye glasses connects with scissors
+scissors used by lady
+scissors used by woman
+motorcycle different from truck
+motorcycle used by car
+motorcycle has part trailer
+motorcycle different from truck
+motorcycle subclass of vehicle
+toilet part of bathroom
+toilet part of restroom
+view of the outside facet of restroom
+window trim part of bathroom
+toilet part of bathroom
+toilet different from trash can
+urinal part of bathroom
+toilet different from trash bin
+toilet opposite of trash can
+squat down toilet subclass of toilet
+motorcycle used by rider
+dirt track uses dirt bike
+An open book sport motocross
+open book subclass of close up
+race uses motor bike
+motorcycle part of road
+motorcycle location cemetary
+motorcycle subclass of stting
+motorcycle location side of the road
+motorcycle location grave yard
+motorcycle subclass of motorcycles
+motorcycle subclass of bike
+motorcycle part of road
+road sport biker
+motorcycle part of street
+motorcycle location outdoor area
+motorcycle part of street
+motorcycle location parking lot
+rod part of motorcycle
+kickstand part of motorcycle
+motorcycle uses grass
+satchel part of motorcycle
+motorcycle part of road
+motorcycle depicts flag
+motorcycle subclass of motorcycle
+cargo subclass of plane
+jet subclass of airplane
+World Cargo instance of airline
+jet plane has part white sphere
+airplane has part domed tower
+runway part of airport
+runway part of plane
+runway part of airport
+airliner subclass of jet
+runway use takeoff
+helicopter subclass of plane
+runway part of plane
+runway part of aircraft
+runway part of airport
+airplane has part propellers
+runway part of airport
+four engine part of airliner
+A large blue and white airplane location lot
+runway part of airport
+runway part of airport
+gray sky subclass of cloudy
+blue sky part of air
+ANA instance of airplane
+ANA color blue
+airplane uses air
+neon subclass of lit buildings
+bench part of city street
+buildings has part lights
+benches part of street
+bench has part paint
+park has parts of the class bench
+bench part of path
+bench part of park
+park bench subclass of bench
+fall named after fall leaves
+street scene depicts street
+double decker subclass of bus
+cars part of street
+double deckered bus part of city street
+CARS part of BUS
+tram has part electric lines
+vintage bus subclass of bus
+bus location parking lot
+parking lot subclass of bus
+bus use transit
+bus part of city street
+city bus part of street
+Blue bus subclass of bus
+city bus subclass of advertisement
+bus part of public transit
+river tributary tree
+National Park Service located in the administrative territorial entity Washington, D.C.
+bridge crosses body of water
+bridge crosses water
+bench part of body of water
+wooden bench location wild
+A wooden bench depicts mountains
+metal different from wood
+bench part of mountain
+Broken subclass of bench
+fire hydrant part of walkway
+rusting has effect fire hydrant
+fire hydrant part of street
+fire hydrant part of street
+sidewalk subclass of brick
+articulated bus subclass of modern
+bus has part man
+double bus has part man
+extended tour bus location parking lot
+A large and long blue bus instance of bus
+double decker subclass of bus
+double decker subclass of bus
+double decker subclass of bus
+two layer bus location city
+double decker subclass of bus
+mountain goat subclass of mountain
+mountain goat named after mountain
+mountain subclass of hillside
+Rams named after mountain
+mountain part of mountain range
+street part of traffic
+commuter bus subclass of bus
+bus part of traffic
+train time period modern
+curb part of street
+group of flamingos uses water
+zoo different from zoo
+A flock of flamingos instance of flamingo
+A flock of flamingos depicts pond
+pink named after flamingo
+window sill part of window
+soda subclass of bottle
+window sill subclass of bottle
+window uses light
+power lines has part trees
+road signs use detour
+Red subclass of street sign
+detour sign subclass of street pole
+street sign depicts sky
+red detour sign subclass of pole
+green train location train yard
+tracks used by train
+train track has part Train engine
+railroad tracks used by locomotive
+locomotive has part engine
+directory part of benches
+sign part of road
+electronic street sign subclass of street sign
+street intersection located in the administrative territorial entity city
+snow storm subclass of wet
+parking meter part of sidewalk
+window part of building
+black facet of parking meters
+double parking meter subclass of parking meter
+expired facet of parking meters
+A cat peeks its head out depicts curtains
+head poking through and opening facet of cat
+white facet of cat
+cat has part eyes
+white subclass of cat
+pot use kittens
+steep subclass of pot
+bowl used by cat
+bowl used by cat
+pot use kittens
+motor bike subclass of bike
+motorcycle uses dirt road
+scooter subclass of road
+moped subclass of moped
+motorcycle uses dirt road
+dresser occupant cat
+dresser part of bedroom
+dresser has part chair
+chair subclass of dresser
+chair subclass of dresser
+painting subclass of artwork
+A colorful truck instance of dirt lot
+old, rusty truck location lot
+paint part of truck
+scrap yard product or material produced truck
+freeway subclass of accident
+police car facet of accident
+police car facet of accident
+trunk part of tanker
+2008 point in time 2008
+motorcycle helmet subclass of helmet
+motorcycle helmet part of head
+helmet use motor cycle
+2008 Summer Olympics point in time 2008
+motorcycle helmet has part sunglasses
+checkered tie subclass of blazer
+suit depicts smiling
+tie used by man
+suit has part tie
+suit has part man
+trunk part of elephant
+trunk part of elephant
+elephant has part trunk
+trunk part of elephant
+trumpet used by elephant
+laptop subclass of luggage
+laptop subclass of suitcase
+laptop connects with suitcase
+laptop has part table
+laptop connects with suit case
+woman child child
+woman child child
+mother child daughter
+girl followed by woman
+umbrella different from rain coat
+umbrella use walking
+umbrella use walking
+umbrella used by woman
+umbrella used by woman
+umbrella use walking
+sits down on the ground with sand depicts bear
+Bear laying down on the ground out in the sun depicts Bear
+sleeping in the dirt depicts baby bear
+brown sleepy bear depicts brown
+A brown bear laying on a stone depicts sun
+fence has part chain-link
+chain linked fence depicts bear
+fence has part grass
+brown parent taxon bear
+chain link subclass of fence
+forest has parts of the class trees
+habitat facet of brown bear
+Two bears instance of bear
+Two bears around logs depicts rock
+Two big bears instance of bear
+frisbee instance of game
+frisbee sport kids playing frisbee chasing it
+competitive uses frisbee
+Frisbee uses jersey
+playing uses frisbee
+group of zebra depicts zebra
+group of four zebras depicts zebras
+Four zebra depicts field
+Four zebras location grassy plain
+Four zebras on a dirt path depicts zebras
+zebra uses grass
+grass part of field
+grass used by zebra
+black and white depicts zebra
+Zebra subclass of agitated
+horse used by buggy
+horse use carriage
+horse use cart
+sulky subclass of horse
+man owner of horse
+horse use trail
+horse use riding
+horse use riding
+horseback subclass of riding
+horseback subclass of riding
+carriage has part horse
+horse and wagon depicts fruit vendor
+market subclass of hauling
+horse use cart
+carriage used by horse
+horse subclass of person
+horse use equestrian
+palomino use equestrian dress
+jockey uses horse
+riding suit used by lady
+apple has part oranges
+apples different from oranges
+apple has part oranges
+Apples has part oranges
+apple has part oranges
+tree part of forest
+banana tree product or material produced banana
+bananas part of vine
+fruit part of forest
+Green banana subclass of banana
+vegetables subclass of food
+meat has part vegetable
+stir fried has part vegetables
+play subclass of picture
+meat subclass of food
+skiing has part jumping
+ramp use jump
+skis uses skis
+ski jumper subclass of skiing
+jump sport snow skis
+skateboard uses hand rail
+stairs part of building
+stair rail sport skating
+skateboarder subclass of skating
+skateboard use people watch
+skateboard sport jumping into the air
+skateboarder uses park bench
+STUNT uses SKATEBOARD
+tricks uses skateboard
+skate park sport skateboarding
+street located in or next to body of water river
+benches use walking
+Kraków country Poland
+sit opposite of stand
+People are walking along the sidewalk facet of river
+rice has part vegetables
+rice part of dish
+broccoli has part rice
+broccolli part of broccolli
+Broccoli has part rice
+skate board use skate
+skateboard subclass of man
+skate boarder uses hill
+skateboard subclass of young man
+skateboard used by man
+skateboarder uses platform
+ramp sport skateboarding
+ramp sport skateboarder
+skate ramp subclass of teenager
+ramp part of skateboard
+ramp part of skateboard
+ramp subclass of skateboard
+skateboard uses skateboard
+ramp part of skateboard
+skateboard use ride
+John F. Kennedy School of Government part of Harvard University
+helmet part of skis
+child opposite of parent
+helmet part of snow skis
+John F. Kennedy School of Government part of Harvard University
+sandwich has part wrapper
+sandwich subclass of fast food
+sandwich has part paper
+chicken sandwich part of table
+sandwich has part wrapper
+skateboard part of street
+skateboard used by man
+graffiti subclass of graffiti
+GRAFFITI instance of SKATE BOARD
+skateboard used by man
+outdoor restaurant product or material produced Pizza
+personal pizza part of restaurant
+Pizza pie part of restaurant
+personal sized pizza part of restaurant
+pizza has part tomatoes
+sandwich has part meat
+wrapper part of sandwich
+sandwich has part tin foil
+roll has part tin foil
+sandwich has part tin foil
+glaze part of donut
+doughnut has part aluminum
+icings part of donuts
+doughnut subclass of plate
+Donuts product or material produced donuts
+laptop part of bed
+laptop uses charging
+laptop part of bed
+laptop opposite of desktop
+laptop part of bed
+bed part of office
+desk part of office
+desk part of home office
+dresser subclass of desk
+laptop subclass of desk
+The Book is laying open location bed
+bed part of room
+bedding part of bed
+open book part of bed
+paperback subclass of book
+bed part of bedroom
+pillow part of bed
+John F. Kennedy School of Government part of Harvard University
+bed part of bedroom
+bedspread part of bed
+surfers uses ocean
+Surfers uses surfboard
+surfers uses ocean
+surfers uses wave
+surfers uses waves
+giant clock location wall
+single bed part of bedroom
+mirror subclass of clock
+clock part of bedroom
+bed part of bedroom
+pizza part of kitchen
+pizza part of kitchen
+pizza location kitchen counter
+pizza pie part of kitchen
+pizza uses cutting board
+pizza has part Canadian bacon
+pizza has part cheese
+pie plate use pizza
+pizza tin use pizza
+pizza has part silver pan
+A beautiful little girl depicts bed
+stuffed animal use cuddling
+The girl in the green sweater narrative location bed
+bed occupant child
+stuffed animal location bed
+laptop has part monitor
+cabinet has part desk
+computer location hotel desk
+desk part of hotel room
+cabinet subclass of desk
+tennis racquet part of tennis court
+racket sport tennis
+tennis uses ball
+tennis uses court
+dirt court sport Tennis
+cook uses kitchen
+pizza has part plate
+pizza has part plate
+man product or material produced pizza
+serving some food participant customer
+pizza subclass of plate
+pepperoni part of pizza
+fork subclass of knife
+pizza has part drink
+pepperoni part of pizza
+Wii manufacturer Nintendo
+remote part of table
+controller use video game
+Super Mario Game platform wii controller
+Wii genre video game
+bed part of bedroom
+furniture part of living room
+table subclass of furniture
+blue followed by white
+furniture part of room
+remote part of wii
+sitting opposite of standing
+video game uses television
+playing facet of video game
+video game uses remote
+Wii manufacturer Nintendo
+man spouse woman
+Man spouse Woman
+man spouse woman
+women opposite of man
+Wii manufacturer Nintendo
+remote control part of television
+Bowling platform Wii
+Wii has part controller
+Wii subclass of TV set
+hardwood subclass of furniture
+George Orwell notable work Nineteen Eighty-Four
+kitchen has part living room
+hardwood floor part of living room
+modern subclass of interior
+waves part of ocean
+kite uses surfboard
+sail use parasailing
+kite surfer uses wind
+wind sailing location ocean
+kite uses kite
+fly a kite uses kite
+park has parts of the class picnic table
+kite used by child
+kite used by man
+city located in or next to body of water water
+river located in the administrative territorial entity city
+city located in or next to body of water river
+metropolitan city located in or next to body of water water
+boat located in the administrative territorial entity city
+pepperoni and cheese subclass of pizza
+pepper part of pizza
+pizza has part red pepper
+pepperoni part of pizza
+pizza subclass of plate
+White cookie depicts costume
+Robbin instance of goggles
+bite part of food
+costume used by little kid
+superhero uses costume
+tennis ball used by tennis racket
+racket part of tennis ball
+tennis uses racket
+tennis uses racket
+tennis uses ball
+restaurant has part kitchen
+kitchen product or material produced food
+pizza subclass of fresh baked
+pizza manufacturer kitchen bar
+kitchen product or material produced food
+laptop subclass of computer
+fail
+laptop subclass of computer
+laptop subclass of computer
+cellphone subclass of digital camera
+picture used by phone
+kitchen has part men
+military uniform subclass of uniform
+mobile device used by uniform
+white jacket subclass of cellphone
+ritz cracker subclass of keychain
+smart phone location table
+cell phone has part hook
+mobile phone has part cord
+key ring part of cell phone
