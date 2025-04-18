@@ -1,0 +1,5000 @@
+glasses has part pierced ears
+beer can subclass of crocheted hat
+Blitz uses gauges
+Man in an orange hat depicts orange hat
+hat has part glasses
+fence part of garden
+Boston Terrier uses grass
+dog uses grass
+dog uses fence
+Boston terrier sport running in the grass
+Karate uses kick
+kick sport karate
+tae kwon do uses stick
+front kick sport karate
+breaking boards sport karate
+snow pants part of snowmobile
+helmet subclass of winter jacket
+ski goggles subclass of helmet
+snowmobile uses snow
+Group sport snowmobiling
+roof part of house
+ladder part of rooftop
+ladder part of roof
+roof part of house
+roof has part men
+wedding participant bride
+strapless subclass of gown
+photographer field of this occupation picture
+man opposite of woman
+Man taking a photograph instance of photograph
+beanies subclass of winter wear
+snowshoes use hiking
+ice cabin instance of story
+igloo depicts group of people
+igloo used by students
+baseball practiced by player
+home plate used by catcher
+home plate sport baseball
+catcher sport baseball
+tag facet of base runner
+cleaning windows uses hat
+Man in a white shirt occupation scaffolding
+ladder subclass of boards
+scaffolding subclass of Man
+building owned by guy
+bicycle part of sidewalk
+bicycle safety information facet of bicycle
+man spouse woman
+vest subclass of magazine
+construction worker field of this occupation bicycling
+mother child child
+blue followed by white
+mother child child
+Baby mother mother
+child mother woman
+volleyball sport volleyball
+volleyball uses ball
+men's sand volleyball sport spectators
+beach sport Volleyball
+volleyball in the sand sport volleyball
+bread subclass of bagged
+apron part of kitchen
+kitchen part of restaurant
+kitchen product or material produced food
+Women in store product or material produced food
+spectacles use food
+table use working
+table part of home
+whittles in his own home country India
+sharpening uses knife
+cavern subclass of rock
+Shaft of light depicts cave
+rock climbers uses big rocks
+dome subclass of rock
+cave use sit in a cave
+dress has part jean
+jean subclass of dress
+beam sport gymnastics
+beam sport gymnastics
+balance beam subclass of walking
+beach has part sand
+sunglasses has part man
+boy sibling girl
+sunglasses use beach
+holding hands participant guy
+coffee subclass of drink
+baseball cap has part gray
+woman in a hat facet of store
+Young people subclass of store
+cap depicts woman
+rope part of mountain
+rock climbing uses rock
+mountain climbing uses mountain
+Mount Everest instance of mountain
+hill subclass of climb
+street performer uses coin
+street performer subclass of entertainment
+men opposite of women
+street performer subclass of street
+Pedestrians has part street artist
+lawn opposite of building
+blue jeans subclass of white
+church part of congregation
+Family members location home
+outside part of building
+trumpet use marching in a band
+Girl wearing blue shirt and black shorts participant in trumped outside
+trumpet use field
+marching band has part trumpet
+marching band has part trumpet
+flip uses trampoline
+back flip uses trampoline
+flips uses trampoline
+somersault uses trampoline
+Trampoline subclass of exercise
+neon subclass of sign
+machines use video game
+gambling machines subclass of computer
+video games location bar
+video machine has part man
+drill practiced by woman
+power drill used by woman
+drill use picture
+power drill used by woman
+drill uses drill
+eyeglasses uses sponge
+sponge use cleaning
+lady uses table
+cleaning a dining table depicts woman
+painting subclass of sculpture
+lift subclass of utility
+tree use cut down
+black pants subclass of man
+Man on crane instance of crane
+tree has parts of the class branches
+bowls subclass of chopsticks
+barbecue uses meat
+grilled uses grill
+cookout subclass of fun
+eating has effect smiling
+native clothing indigenous to Native Americans
+musical instruments use costumes
+traditional clothing indigenous to native life
+song subclass of dance
+sacred dance practiced by indian
+punch location face
+fighting technique subclass of technique
+punch location face
+striking uses head
+hitting participant person
+mountain bikes subclass of bike
+mountain bike subclass of bicycle
+forest subclass of terrain
+bike location forest
+bike riding location woods
+bookbag subclass of clothing
+sitting part of area
+Plaza instance of plaza
+fountain use walk
+seat located in the administrative territorial entity metropolitan area
+Splash instance of water
+sunset depicts mountains
+A young boy plays in the water depicts the mountains
+splashing part of water
+A boy playing in a lake depicts boy playing in a lake
+Union Jack location building
+union jack part of building
+umbrella part of picnic bench
+umbrella subclass of table
+cafe location outdoor
+bridge part of bridge
+the bridge crosses the water
+pier use bathing suit
+guard rail part of beach
+bridge crosses lake
+market practiced by vendor
+fish on ice part of street market
+fish market product or material produced fish
+marketplace product or material produced fish
+lady in a striped shirt depicts fish market
+harp instance of instrument
+lady with dark hair instrument harp
+harpsichord use pretty woman
+harp use harp
+harp subclass of woman
+security officer item operated camera
+security guard location building
+bike rack part of office building
+bar subclass of metal
+Park Ranger instance of stern
+pizza part of kitchen setting
+Woman who just took pizza out of the oven main subject pizza
+pizza part of kitchen
+A young woman main subject pizza
+pizza subclass of young lady
+lamp post part of boardwalk
+shorts subclass of shirtless
+shorts subclass of jean
+fisherman uses river
+man with no shirt sport fishing
+life jacket part of float
+life jacket subclass of raft
+Floating device instance of floating
+life vest use floats in water
+life vest part of floating
+military has part uniform
+uniform has part blue shirt
+blue shirt subclass of uniformed official
+Captain item operated truck
+World Heritage Site maintained by UNESCO
+subway subclass of train
+subway subclass of train
+sit on a train part of train
+sit inside part of train
+subway used by People on a subway
+swing uses swing
+swing used by child
+Crocs used by child wearing Crocs
+swing uses feet
+swing used by child
+red shirt followed by blue pants
+building occupant man
+man owner of dog
+red shirt depicts man
+foreign building instance of building
+beach has part sand
+beach has part rocks
+swim trunks use beach
+trunks sport swimming
+jumping excitedly location beach
+handle subclass of tool
+make a face depicts naked baby
+cooking used by toddler
+Toddler uses ingredients
+bowel uses food
+father child son
+hoe use yard work
+tree subclass of grassy
+Plating depicts tree
+planting a tree participant man
+pan part of kitchen
+cooking location kitchen
+hoodie has part man
+kitchen product or material produced food
+stove use cooking
+ball location beach
+ball has part rubber
+Red ball sport beach
+Man on the beach sport red ball
+beach uses ball
+sidewalk use walking
+Backpack subclass of backpack
+marketplace uses sidewalk
+sidewalk part of line of stores
+window shopping subclass of stores
+flip sport wakeboarder
+flip uses waterski
+water boarding uses side flip
+hanging upside in the air depicts man
+water board depicts upside down
+police officers conflict crowd of people on the street
+George Orwell notable work Nineteen Eighty-Four
+London capital of England
+group part of street
+London capital of England
+bathing trunks use parasailing
+man on a zip line instance of zip line
+harness use dragged across the water
+tag line depicts man
+harness used by man
+blue jeans subclass of lower body
+shopping bag part of bus
+advertisement depicts bus
+John F. Kennedy School of Government part of Harvard University
+jeans different from sunglasses
+blue jeans subclass of t-shirt
+Red shirt sport football
+ball part of grass
+park has part grass
+ball named after grass
+beach opposite of shoreline
+blue has part red
+beach has part seagull
+Orange SUV subclass of SUV
+car located in or next to body of water beach
+black facet of black
+Two Guys standing side by side instance of side by side
+Two men instance of watching
+men wearing black location city
+Two male spectators subclass of spectators
+perfom subclass of pants
+pants opposite of shirt
+yellow pants opposite of black pants
+The Man in the yellow pants depicts raising his arms
+George Orwell notable work Nineteen Eighty-Four
+canes part of hats
+walking stick use walking
+sunset location ocean
+sunset location lake
+sun is setting sport golf
+leotards subclass of outfit
+cheerleaders instance of formations
+acrobatics practiced by cheerleaders
+cheerleading uses routine
+Male cheerleading squad sport cheerleading
+checkers subclass of board
+boy sibling girl
+checkers instance of game
+checkers instance of game
+Children playing checkers sport checkers
+skate subclass of cyclist
+bicycle use walk
+Peking Opera country China
+rollerskating uses bicycle
+park part of public
+John F. Kennedy School of Government part of Harvard University
+Man holding a dog depicts bench
+man owner of dog
+sunset location park
+dog owned by man
+digging uses dirt
+Dig uses shovel
+boy sibling younger brother
+dig uses shovel
+beach has part sand
+George W. Bush position held President
+London capital of England
+George Orwell notable work Nineteen Eighty-Four
+Beijing twinned administrative body Shanghai
+change purse subclass of purse
+Light brown subclass of dog
+beach sport jumping
+beach uses sand
+The brown dog narrative location beach
+sand part of ocean
+Asian dress indigenous to Asian
+basket has part cloth
+wallet subclass of bag
+oriental subclass of woman
+Asian continent Asia
+grilling location outdoors
+grills item operated chicken
+meat use barbecue
+grilling location backyard
+barbecues participant man
+guitar use singing
+guitar has part microphone
+guitar use sings
+band subclass of performer
+band field of this occupation performs
+electric guitar has part amplifier
+guitar used by Guitar player
+guitar use playing
+guitar part of stage
+guitar part of stage
+A Woman in a green dress depicts chair
+lawn chair used by child
+girl has part brown hair
+Rainy Day subclass of day
+lawn chair subclass of chair
+beach part of ocean
+the water has part sand
+Five people standing in front of a body of water depicts water
+men opposite of ladies
+the ocean instance of ocean
+violin different from guitar
+violin use performer
+violin different from guitar
+violin different from guitar
+violin different from guitar
+goggles subclass of goggles
+goggles uses water
+goggles part of pool
+swimming uses pool
+pool use swimming
+rope use tug-of-war
+tug-of-war subclass of children
+tug-of-war instance of game
+Elementary school subclass of students
+Tug-of-War subclass of children
+cartwheel subclass of acrobatically
+cartwheeling subclass of runs
+subway used by teenagers
+Four people in the subway are having fun main subject subway
+dancing in the subway location subway
+dog uses tongue
+tongue hanging out used by dog
+panting part of day
+dog uses tongue hanging out
+tongue part of dog
+building has part grass
+rustic subclass of building
+building has part grass
+lawn opposite of building
+wine part of house
+P.I.N. main subject shirtless
+Shirtless subclass of guy
+street cafe instance of street
+street walking subclass of street
+crowd has part people
+bicycle uses dirt road
+bike uses fruit
+bicycle uses fruit
+bicycle uses fruit
+bike uses fruit
+drums subclass of buckets
+drums subclass of pail
+paint bucket use pan-handling
+drums subclass of buckets
+drums has part buckets
+painting uses chalk
+painting has part portrait
+painting part of wall
+painting practiced by artist
+picture depicts woman
+USA team sport high-fives
+high-five sport jump
+girls team sport volleyball
+high-fiving sport volleyball
+2008 Summer Olympics point in time 2008
+boiling water uses stove
+cooking item operated stove
+stove top product or material produced food
+stirring part of kitchen
+pot part of stove
+wakeboarding uses body of water
+The boy sport wakeboarding
+waterskiing uses boat
+wakeboard uses lake
+Blond boy waterskiing sport waterskiing
+food cart part of street
+vendor field of this occupation selling food
+hotdog subclass of vendor
+hotdog stand subclass of man
+hotdog part of street
+beer used by spectators
+semi circle subclass of sitting around
+sit outside subclass of group
+green chair subclass of table
+Drink subclass of drink
+wine part of restaurant
+glass use wine
+drinking location bar
+glass use wine
+kitchen product or material produced wine
+alligator subclass of toy animal
+T-shirt has part blue
+crocodile instance of toy
+alligator subclass of toy
+Baby instance of reptile
+tree has part trunk
+Red-haired woman ethnic group black
+tree has part trunk
+girl sibling boy
+woman opposite of man
+sushi subclass of restaurant
+cooking suit country of origin Japanese
+restaurant practiced by chef
+diner subclass of restaurant
+hibachi subclass of grill
+the riverbank part of river
+rock part of creek
+rock part of creek
+blue opposite of blond
+rock part of rock
+waring uses polo shirt
+shopping bag use shopping
+tool box used by worker
+ticket machine subclass of man
+ticket box depicts man
+man opposite of woman
+Old man with black shirt opposite of white man
+George Orwell notable work Nineteen Eighty-Four
+George Orwell notable work Nineteen Eighty-Four
+George Orwell notable work Nineteen Eighty-Four
+yellow belt sport karate
+martial arts subclass of martial arts
+karate uses move
+martial arts practiced by boy
+child sport karate
+digging part of construction
+safety vest use yard work
+reflective vest use yard work
+outdoor part of outdoors
+Kraków country Poland
+woman opposite of man
+man opposite of woman
+man spouse woman
+woman opposite of man
+Woman is taking a picture of a baby in a pink hat instance of picture
+earphones part of computer screen
+computer has part screen
+computer lab product or material produced computer
+headphones part of computer
+asian subclass of children
+jersey sport soccer
+soccer uses uniform
+got hurt while playing has effect crying
+soccer uses field
+soccer field sport soccer
+counter part of restaurant
+barista field of this occupation coffee
+girl in a black shirt occupation bar
+coffee shop product or material produced refreshment
+kitchen use cooking
+heavy equipment use construction
+orange safety vest instance of machinery
+bulldozer use construction site
+construction zone item operated heavy machinery
+Construction equipment use work
+catcher sport softball
+first base sport softball
+catcher sport softball
+catcher sport softball
+catcher uses ball
+tool used by man
+navy blue subclass of jacket
+tool used by man
+Man in a blue jumpsuit uses escalator
+man with a mustache field of work escalator
+hiking boots use Climber
+hiking uses mountain
+A group of people sport hiking
+gear sport mountain climbing
+A group of people are climbing in cold weather sport climbing
+mountaineer uses mountain
+boy sport repelling
+hard hat uses rope
+Man in white shirt location cliff
+rock climbing location forest
+handstand uses long pants
+graffiti subclass of sculpture
+Handstand subclass of handstand
+handstand part of statue
+handstand genre public art
+table part of restaurant
+mask used by child
+scuba mask subclass of cardboard
+mask subclass of paper
+mask used by child
+dog uses mouth
+dog uses mouth
+brown dog subclass of dog
+dog uses stick
+dog uses mouth
+Hat part of head
+John F. Kennedy School of Government part of Harvard University
+mother child young boys
+children opposite of adult
+fishes location beach
+John F. Kennedy School of Government part of Harvard University
+racetrack has part fence
+Red Chair subclass of chair
+trail subclass of walking
+A little kid instance of banners
+girl opposite of boy
+girl opposite of guy
+bicycle subclass of bike
+bicycle use ridding
+bicycle use picture
+Black dog instance of dog
+ball used by dog
+ball used by dog
+ball sport swim
+retrieving uses ball
+karate uses kicking
+boxing uses bag
+punching bag part of gym
+Man in a blue shirt sport karate
+kicking subclass of workout
+worship place use worship
+ritual subclass of ceremony
+George Orwell notable work Nineteen Eighty-Four
+ceremony country India
+Young asian subclass of man
+Denim subclass of jacket
+writing use writing
+jean jacket has part chest
+jean jacket has part camera
+writing part of hand
+canoe located in or next to body of water lake
+kayak use sunset
+canoe use sunset
+canoe uses river
+sunset location waterside
+platform part of subway
+subway car has part rails
+window part of subway car
+subway ethnic group Asian
+subway subclass of train
+Man in black pants and vest uses torch
+column has part torches
+suit has part man
+column used by juggler
+man scaling wall depicts fire in hand
+dog location yard
+brown dog named after snow
+brown dog named after snow
+race participant dog
+Two dogs run narrative location snowy field
+stage used by musician
+theater has part audience
+band uses stage
+stage used by audience
+band uses stage
+christmas themed outfit depicts woman
+mother child baby
+pajamas used by baby
+Christmas outfit depicts baby
+woman child baby
+eastern country India
+monitor use task
+sound effects part of computer
+monitor part of computer
+glasses part of computer
+blanket throw part of sofa
+funny joke has effect laughing
+A great big smile depicts woman
+Lady with glasses depicts smiling
+A Woman in a sweater main subject laughing
+jacket part of bag
+suit has part pants
+mosque subclass of cathedral
+building occupant People
+George Orwell notable work Nineteen Eighty-Four
+mask has part mouth
+muzzled subclass of dog
+muzzles part of dog
+muzzles used by dog
+dogs racing subclass of racing
+pacifier used by baby
+woman different from child
+The Woman with the blue shirt depicts baby
+Blue shirt depicts woman
+mother child child
+fishing pole subclass of chair
+beach chair use fishing
+fishing uses beach chair
+fishing uses chair
+fishing uses shallow water
+India ethnic group Indian
+weaving subclass of weaving
+wooden tool use measuring fabric
+loom product or material produced cloth
+fabric used by woman
+game participant boy
+court subclass of other people
+play location courtyard
+basketball uses court
+schoolyard use play
+Mini subclass of silver
+mini cooper subclass of car
+black coat subclass of person
+Blue coat instance of man
+Metal Pole subclass of Car
+woman opposite of men
+blue opposite of brown
+girl uses dog
+The Woman and three dogs narrative location field
+Three gray dogs instance of dog
+window part of taxi
+window part of taxi cab
+window part of taxi cab
+window part of taxi
+Yellow Cab product or material produced yellow cab
+blue subclass of cloudless sky
+long-sleeved subclass of shirt
+dune part of desert
+hiking boots use hiking
+jumping off location sand dune
+doritos has part orange
+Doritos color yellow
+boy sport jumping
+Doritos color orange
+yellow shirt depicts child
+crane use industrial
+Yellow suit subclass of hat
+yellow jacket used by worker
+crane lift subclass of worker
+Heavy machine used by worker
+blue shirt country Brazil
+Brazil country Brazil
+Blue jacket depicts man
+Brazil ethnic group young adults
+hispanic subclass of man
+beer pull tabs part of bar
+beer tap part of bar
+beer pumps part of bar
+Christmas tree lights part of ceiling
+bar occupant man
+repelling location mountain
+cliff use rappelling
+repelling location cliff
+abseiling uses cliff
+cord use swinging
+black has part shades
+nissan product or material produced jeep
+Man in black depicts snow
+Man in black depicts snow
+Guy instance of car
+dog uses leash
+dog has part white
+dog uses leash
+ball used by fox terrier
+red ball used by terrier
+police officer uses uniform
+police officer item operated uniform
+police officer applies to jurisdiction New York
+policewoman applies to jurisdiction New York City
+sunglasses subclass of hat
+tricycle subclass of child
+Green shirt depicts old man
+man part of three kids
+park subclass of walk
+park used by family
+hard hat subclass of vest
+safety vest subclass of hard hat
+safety vest has part goggles
+construction worker uses yellow vest
+Yellow jacket depicts man
+Dancing in her socks depicts girl
+balloons has part confetti
+blue jean subclass of skirt
+balloons use dance
+house use dancing
+tan subclass of bulldog
+nose use smells
+gravel part of river
+dog use walking
+rocks part of river
+glasses country of origin chinese
+work location street
+local stand instance of business
+chair part of sidewalk
+work on the street depicts man
+restaurant has part table
+cafe use meal
+taco depicts red shirt
+restaurant location outdoor
+eating participant man
+racket sport tennis
+tennis racket sport tennis
+volleys sport tennis
+tennis uses racket
+racket sport tennis
+shovel uses sand
+dig into the sand uses shovel
+squat practiced by little boy
+swim trunks use beach
+Yellow shovel owned by little boy
+hood part of coat
+Coca-Cola instance of vending machine
+A lady in a pink coat, black slacks, and brown shoes instance of bench
+Rose jacket named after rose
+Woman in pink parka instance of vending machine
+construction has part window
+window part of train
+train has part man
+window part of train
+Man on train depicts window
+geisha country Japan
+Asian figurine subclass of porcelain
+statue depicts statue
+statue depicts woman
+statue depicts statue
+splashing subclass of playing
+rock formation subclass of splashing
+play in the water subclass of children
+Splash in water facet of water
+Kids play in the water facet of water
+bicycle used by man
+bicycle subclass of path
+cycling uses bike
+cyclists uses terrain
+bike use riding
+jumping rope uses sidewalk
+jumping rope location sidewalk
+jumping rope location sidewalk
+jumps rope location sidewalk
+jumping rope used by girl
+blue subclass of hard hat
+helmet has part sunglasses
+helmet has part orange
+helmet part of shirt
+helmet part of head
+blocks subclass of plastic
+Legos use house
+child mother woman
+child uses toy
+New Mom child Baby
+opening gifts part of Christmas morning
+opening gifts facet of ladies
+women opposite of younger girl
+Christmas presents part of family
+Christmas present main subject little girl
+tripod subclass of camera
+woman in blue uses camera
+camera has part tripod
+smiling at the camera uses camera
+photo shoot participant People
+Cuffed jeans use sleeping on the sofa
+chair has part arm of the chair
+chair different from couch
+comfy sofa use nap
+A sleepy little girl depicts couch
+red collar used by dog
+trail part of woods
+black subclass of dog
+dog uses grass
+hill used by dog
+dog uses tree
+dog sibling another
+dog opposite of another
+playing outside uses dog
+Two dogs play by a tree instance of dog
+marbled coat used by dog
+coat has part pants
+black opposite of brown
+stairs has part stone
+stairs subclass of walking
+restaurant product or material produced food
+restaurant use cooking
+restaurant product or material produced food
+check with a green shirt uses blowtorch
+fast food subclass of cooking
+cowboy hat subclass of leather
+cowboy hat subclass of vest
+cowboy hat subclass of vest
+tattoo location left arm
+Kraków country Poland
+toy used by dog
+dog uses mouth
+blue collar part of dog
+toy used by dog
+toy used by dog
+cape used by dog
+Green cover subclass of snow
+coat used by Dog
+cover used by dog
+Dog in jacket depicts snow
+beach part of beach
+dog has part white
+Shaggy instance of dog
+background opposite of foreground
+family owner of dog
+spoon use tasting
+woman child child
+mother child child
+wooden spoon use mouth
+mother child child
+headphones subclass of reflective vest
+coat has part scarf
+woman opposite of men
+illuminated jacket has part headphones
+George Orwell notable work Nineteen Eighty-Four
+flag depicts orange
+boat use fishermen
+beach opposite of water
+log part of boat
+men opposite of women
+baseball uses hat
+wineglass use drinking
+wine use reading
+wineglass use drinks
+Man in black hat uses wine
+grand piano use art exhibit
+piano use dress clothing
+piano subclass of all black
+man in a black suit instrument piano
+piano use playing
+soccer uses ball
+soccer uses ball
+boy sport soccer
+soccer uses soccer ball
+Texas soccer team sport soccer
+stump part of hill
+bird uses arms
+platform has part concrete
+Man with outstretched arms depicts Man with outstretched arms
+Man standing on rock depicts outstretched hands
+water part of sprinkler
+black dog subclass of dog
+squirted uses jet of water
+dog uses grass
+dog uses sprinkler
+swim part of outdoors
+tank tops part of women
+John F. Kennedy School of Government part of Harvard University
+best friends subclass of friendship
+Two girls posing for the camera instance of camera
+shave uses barber's chair
+Cutthroat Island country Australia
+shave practiced by barber
+barber shop product or material produced shave
+Getting shaved main subject large man
+sandals use walking
+mud puddle subclass of mud
+puddle part of street
+puddle part of street
+puddle subclass of splashing
+chainsaw subclass of overalls
+chainsaw used by man
+sawing product or material produced wood
+chainsaw use cut lumber
+sawing product or material produced wood
+Man in a checked shirt depicts table
+beer subclass of partially consumed
+table used by man
+table occupant man
+table part of table
+baseball uses bat
+baseball uses bat
+stadium use sports
+baseball uses bat
+baseball uses bat
+Hawaii language used Hawaiian
+Man with a beard has part glasses
+glasses part of beard
+Evergreen subclass of tree
+glasses used by man
+mechanical rabbit animal breed Greyhounds
+blue subclass of jerseys
+muzzles part of Dog
+race uses dog
+dog racetrack uses Dog
+baseball uses hat
+light technician uses spotlight
+reflecting light part of stage
+spotlight opposite of shirt
+holding a spotlight depicts middle-aged male
+collar used by dog
+growl uses teeth
+barking location forest
+sheperds country of origin German
+German Sheppard subclass of dog
+fedora subclass of hoodie
+event subclass of group
+Waiting for something subclass of waiting
+party participant Young people
+standing together facet of Youngle people
+ball used by dog
+objest part of mouth
+toy used by dog
+toy used by dog
+dog uses field
+man instrument accordion
+Man with white hair instrument accordion
+accordion used by older man
+accordion used by man
+accordion used by man
+coffee house has part bench
+brunette woman inside a coffee shop opposite of brunette woman outside of a coffee shop
+coffee shop has part bench
+bench part of cafe
+coffee house has part bench
+pan pipe subclass of stringed instrument
+pan flute used by man
+music subclass of playing
+musical instrument used by man
+street musician subclass of playing
+balancing rod uses rope
+balance beam uses rope
+boys subclass of kids
+rope part of log
+balance beam uses rope
+wheelie uses motorcycle
+motorcycle use trick
+motorcycle has part rear wheel
+wheelie uses motorcycle
+man doing tricks uses motorcycle
+A girl has placed a purple cloth over her face depicts wooden structure
+the sun has part face
+A young woman with a purple cloth hiding her face narrative location deck
+deck subclass of wooden
+sunning uses face
+sunglasses has part red
+Red bench instance of bench
+The Woman in the brown shirt depicts bench
+Red bench instance of bench
+Woman in a black shirt depicts red bench
+waterfall subclass of stream
+bridge crosses water
+bridge crosses river
+Lost and Found author John Steinbeck
+log part of river
+shorts has part shirt
+A boy with his hands above his head depicts cement pillar
+t-shirt followed by shorts
+cement stump location park
+post part of street
+seaman monument depicts umbrellas
+street performer field of this occupation street
+performer has part audience
+umbrellas subclass of covered
+London capital of England
+motor scooter different from bicycle
+bicycle has part sign
+sign use advertises
+lovely subclass of board
+moped use riding
+fetch uses stick
+pond subclass of water
+dog use fetch
+throwing a log uses waterway
+John F. Kennedy School of Government part of Harvard University
+lawn chair subclass of seat
+musical instruments used by elderly people
+elders field of this occupation instruments
+band uses instruments
+chair used by peoples
+street located in the administrative territorial entity city
+street located in the administrative territorial entity city
+street part of city
+street has part crowd
+street located in the administrative territorial entity city
+button up subclass of shirt
+written poster subclass of poster
+A young blond woman uses rope
+rope used by woman
+rope part of white shirt
+megaphone use speaking
+Greenpeace product or material produced megaphone
+loudspeaker use talking
+bullhorn use outside
+megaphone used by blue shirts
+black dog owned by man
+black dog subclass of dog
+Black dog instance of dog
+harness jumping uses dog
+black dog subclass of dog
+saddle bronc uses saddle
+bucking horse use rodeo
+rodeo uses bull
+bronco used by cowboy
+Cowboy field of this occupation rodeo
+hard hat subclass of vest
+railroad work crew item operated railroad tracks
+railroad tracks used by Construction worker
+railroad uses track
+railway lines owned by Men
+Man in an orange vest depicts fence
+hard hat used by Construction worker
+orange vest subclass of hard hat
+town worker field of this occupation electrical equipment
+worker uses shovel
+helmet part of construction site
+construction product or material produced work site
+construction practiced by worker
+Construction workers in orange talking depicts orange
+hard hats subclass of talking
+ramp different from ramp
+ramp part of road
+ramp different from road
+John F. Kennedy School of Government part of Harvard University
+Walking uphill subclass of walking
+bride followed by bridesmaid
+wedding dress used by bridesmaids
+bride part of bridal party
+Flowers in her hand depicts Flowers
+bride followed by bridesmaids
+Rolling Stones instrument guitar
+rolling stones subclass of t-shirt
+tuning uses guitar
+tunes uses guitar
+guitar use tunes
+swim gear use playing
+sponge subclass of water
+water balloon use throwing
+jump subclass of play
+Play outside subclass of children
+construction practiced by worker
+safety vest subclass of hard hat
+mending pavement subclass of construction worker
+workers field of this occupation shoveling
+Road worker field of this occupation paving
+Young adults sport boating
+Canoe subclass of canoe
+Canoe subclass of canoe
+Kayak uses kayak
+Friends sport canoeing
+blue opposite of black
+music stands subclass of stands
+black has part blue
+choir part of church
+A group of children prepare to perform main subject children
+arms connects with legs
+jumping uses pose
+jumping subclass of teenagers
+preteens sport jumping
+jump photo depicts Teens
+kayak subclass of paddle
+blue boat followed by orange boat
+lillypad subclass of canoe
+kayaking uses creek
+canoe use paddling
+painting a brick wall depicts white
+painting a wall depicts white
+cement part of brick
+wall has part concrete
+painting uses brick wall
+red has part blue
+dark jeans has part red top
+redish subclass of sweater
+red jacket has part blue jeans
+red subclass of sweater
+mock fight subclass of performers
+sword fight time period medieval
+Renaissance fair subclass of show
+medieval fight time period medieval
+knights subclass of pretend to be knights
+military uniform subclass of uniform
+army fatigues use reading
+George VI spouse Queen Elizabeth II
+window occupant soldier
+airport use GI
+cooking uses open fire
+frying pan use open fire
+parka subclass of coat
+cooking uses fire
+cook uses fire
+Man in a red shirt and jeans child toddler
+Man in a red shirt depicts boy
+man child child
+man child boy
+man child boy
+El Corazon instance of boat
+deck part of boat
+rope use boater
+anchor part of boat
+ballast part of boat
+machine uses ledge
+Looking through a telescope depicts child
+Boy with red shoes depicts viewer
+microscope use looking out
+boy residence city
+mid-flight subclass of jump
+jumping uses barefoot
+jumping part of landscape
+Little girl in pink dress depicts grass
+pink subclass of dress
+George Orwell notable work Nineteen Eighty-Four
+table part of festival
+George Orwell notable work Nineteen Eighty-Four
+John F. Kennedy School of Government part of Harvard University
+park subclass of gathered
+drum use musical
+Asian Pacific 2007 point in time 2007
+drum has part long hair
+drum subclass of man
+drum used by young man
+street performer subclass of vendor
+street performer uses book
+Canyon instance of great mountain
+book use reading
+John Milton notable work Paradise Lost
+yellow bathing suit opposite of orange suit
+bathing suit has part bathing bottoms
+girl in yellow opposite of girl in blue
+swimsuit use fun
+Little girls in swimsuits genre comedy
+show sport high jump
+hurdle used by dog
+gate used by dog
+dog uses obstacle
+dog uses barrier
+dirt used by dog
+black collar used by Dog
+The brown dog depicts brown dog
+dog uses ground
+dog uses ground
+white subclass of dog
+biting uses dog
+brown subclass of dog
+fight participant dog
+collars part of dog
+skillet part of stove
+cooking uses flame
+mustache part of beard
+pan use cooking
+burning pot use flaming
+bell use ringing
+Revolutionary uses bell
+colonial instance of costume
+revolutionary period named after bell
+ringing a bell depicts costume
+fishing rod subclass of rod
+caught some seaweed instance of fishing
+fishing pole use fishing
+fishing location shore
+fishing location cliff
+teeth use teeth
+brown dog opposite of white and tan dog
+nose to nose subclass of nuzzling
+bite used by dog
+dogs playing sport soccer
+man in a hat opposite of man in glasses
+George Orwell notable work Nineteen Eighty-Four
+George Orwell notable work Nineteen Eighty-Four
+George Orwell notable work Nineteen Eighty-Four
+George Orwell notable work Nineteen Eighty-Four
+restaurant country Chinese
+chinese subclass of customers
+restaurant has part door
+white different from Asian
+door occupant businessman
+school bus use unloading
+school bus subclass of children
+school bus subclass of cars
+school bus color yellow
+John F. Kennedy School of Government part of Harvard University
+beer facet of beer
+I love beer instance of shirt
+I love beer instance of shirts
+beer facet of beer
+George Orwell notable work Nineteen Eighty-Four
+life jacket part of canoe
+oar part of kayak
+life jacket use kayaking
+kayaker uses lake
+kayaking uses blue water
+John F. Kennedy School of Government part of Harvard University
+fairy uses fairy wings
+park has part sidewalk
+trail part of park
+child mother woman
+coats used by people
+Three young adults talk in a crowd of people main subject upset
+airport different from airport
+street part of street
+street located in the administrative territorial entity city
+boy mother girl
+the front outside has part door
+Woman child child
+girl child boy
+girl opposite of boy
+Friends original broadcaster Netflix
+black opposite of white
+Three friends instance of cafe
+black subclass of posing
+John F. Kennedy School of Government part of Harvard University
+BMW product or material produced vehicle
+Jeep product or material produced lady sits on the top of it
+camouflage pants subclass of pants
+four wheel drive use driving
+Jeep subclass of jeep
+climbing a wall of dirt depicts dog
+hill subclass of climbing
+great Dane subclass of Dane
+dog color brown
+hill used by dog
+kelly green parent taxon fly
+Green beetle parent taxon beetle
+Green bug subclass of bug
+A boy has part his nose
+boy has part nose
+stick used by man
+demonstarting subclass of jump
+Man holding a stick depicts dog
+dog uses jumping
+man uses stick
+downtown instance of shopping area
+city part of country
+Passerby uses street
+street has part crowd
+busy square country asia
+greyhound subclass of dog
+race dog uses mud
+Sand part of animal
+dog uses track
+racing subclass of greyhound
+George Orwell notable work Nineteen Eighty-Four
+duffel bag subclass of plastic bag
+clapping uses bag
+sandals subclass of bag
+Man with duffel bag depicts curb
+guitar used by guy
+man spouse woman
+guitar used by woman
+man spouse woman
+man spouse woman
+coffee marker part of shelf
+coffee maker part of store
+coffee maker part of store
+Walmart product or material produced coffee
+coffee machine part of store
+cup use drinking
+cup use drinking
+outdoor subclass of public space
+London capital of England
+cup use drinking
+hood part of car
+William Shakespeare notable work Cymbeline
+A young dark-skinned fellow instance of picture
+A boy depicts flowers
+car has part hood
+alleyway has part fence
+Mary Shelley notable work Frankenstein
+John F. Kennedy School of Government part of Harvard University
+mother child children
+van has part fence
+tuxedo different from suit
+tux different from tie
+wedding participant men
+William Shakespeare notable work Cymbeline
+wedding participant man
+T-shirt followed by jeans
+A young woman with a black shirt and jeans occupation sweeping
+straw broom use sweeping
+foundation part of house
+building product or material produced house
+cliff part of ocean
+rock part of water
+Bay instance of bay
+rock part of ocean
+Woman with a hat depicts cliff
+toy used by dog
+toy used by poodle
+toy used by dog
+plush toy used by dog
+dog uses chew toy
+skateboarder uses board
+tricks uses skateboard
+skateboard subclass of grinding
+trick uses skateboard
+grinds sport skateboarder
+African american named after house
+Red pants depicts little boy
+red pants opposite of shirt
+distended stomach facet of child
+child in the road have no clothes subclass of no clothes
+Red followed by blue
+doors part of exit
+Statue of Liberty heritage designation National Historic Landmark
+texts uses phone
+Umbrella subclass of junk
+stage subclass of instruments
+guitarist uses instruments
+guitar subclass of Musicians
+instruments part of stage
+brass subclass of instruments
+jumper subclass of jumpsuit
+hard hat subclass of jumpsuit
+hard hat subclass of jumpsuit
+hard hat subclass of jumpsuit
+construction practiced by worker
+fishing pole uses fish
+fishing pole uses fish
+fishing pole uses fish
+This man depicts fish
+fishing uses pond
+dog subclass of pet
+dog used by owner
+Man in red shirt sport agility
+navigate uses obstacle course
+dog show uses dog
+backflip uses bathing suit
+swimming trunks part of pool
+back dive uses swimsuit
+backflip uses pool
+Man doing a back flip instance of back flip
+Toulouse country France
+mirror use hair
+makeup part of hair
+pinning her hair back country of origin Asian
+Asian women does her hair product or material produced hair
+building blocks part of children's table
+children mother mother
+toy box subclass of toy
+blocks use playing with
+toys used by children
+gate used by dog
+hurdle used by dog
+hurdles uses poles
+black dog subclass of dog
+dog uses beam
+trumpet subclass of man
+trumpet uses green shirt
+man in a green shirt instrument trombone
+trumpet uses green shirt
+trumpet use music
+T-shirt color green
+cellphone use talking
+Red Hat owner of green shirt
+phone used by man
+telephone uses feet up
+carpet part of floor
+Red floor part of building
+bowls use eat
+school has part children
+children location building
+black opposite of white
+striped subclass of bathing suit
+No shirt different from shirt
+boy ethnic group black
+boy uses sand
+fighting participant dog
+ball used by dog
+small dog opposite of big dog
+play uses dog
+play uses dog
+John F. Kennedy School of Government part of Harvard University
+George Orwell notable work Nineteen Eighty-Four
+school has part children
+school buildings has part grass
+circle subclass of sitting
+ball used by dog
+baseball uses softball
+ball used by dog
+play catch uses ball
+ball used by dog
+skull and crossbones depicts stripes
+swing subclass of ride
+skull and crossbones instance of shirt
+swing use child
+swing used by child
+couple has part child
+living room subclass of conversation
+white wine subclass of wine
+drinking has part talking
+wine use talking
+meat use cooking
+meat on a stick subclass of cooking
+cooking product or material produced food
+preparing food practiced by kitchen staff
+grill use preparing food
+dog uses Frisbee
+flying disc subclass of flying
+dog uses Frisbee
+catch uses Frisbee
+dog uses Frisbee
+band uses stage
+band has part fans
+concert subclass of musical
+song performer Fans
+concert participant band
+pyramid subclass of sculpture
+pyramid subclass of sand sculpture
+sand castle used by little boy
+pyramid subclass of sand
+pyramid has part sand
+children uses camera
+toddlers location grassy yard
+Little girls sibling one little boy
+children location yard
+playing location yard
+hammer and chisel use artwork
+sculpture depicts man
+chisel subclass of hammer
+Man pounds on an artwork depicts cart
+sculpture uses tool
+bicycle use mountain biker
+yellow jacket sport mountain biking
+mountain biker uses bicycle
+backpack use mountain biker
+bicycle used by man
+hoe use hoe
+boots has part shovel
+shovel uses dirt
+rain boots use dirt
+rain boots subclass of dirt
+Woman in orange jacket opposite of Woman in blue
+bench part of sidewalk
+windbreaker subclass of shirt
+Orange jacket depicts woman
+bus stop subclass of waiting
+George Orwell notable work Nineteen Eighty-Four
+grinds uses rollerblades
+skateboard uses cement
+trick uses skateboard
+Man skates uses cement wall
+sword use martial artist
+sword use martial artist
+sword uses bamboo
+martial arts uses uniform
+practice practiced by young man
+Red subclass of blouse
+selling food location building
+selling bags of fruit location sidewalk
+food part of street
+street food subclass of vending
+goal net part of field
+playing field sport Soccer
+yellow jerseys part of field
+Two diverse teams sport soccer
+soccer uses field
+blue shirt depicts child
+jumping off bleachers subclass of child
+Blue shirt depicts child
+jersey used by child
+jump part of air
+field sport soccer
+yellow jersey sport soccer
+soccer field sport soccer
+goal used by goalie
+goalie field of this occupation down-field
+Take shots country of origin Mexican
+take shots location restaurant
+shots subclass of drink
+taking shots location restaurant
+shot subclass of drink
+skateboard has part red bar
+grinds uses skateboard
+trick uses skateboard
+skateboard uses railing
+grinds sport skateboarder
+bunk bed subclass of bed
+bunk bed subclass of bed
+bunk bed opposite of single bed
+jumping high location bed
+red bed depicts child
+statue subclass of costume
+St. Paul's Cathedral located in the administrative territorial entity Minneapolis
+blue followed by purple
+blue followed by purple
+aliens location street
+T-shirts has part blue
+competition team sport running
+Man in a blue shirt and red shorts sport running
+2008 Summer Olympics point in time 2008
+Runner 3618 sport racing
+peace sign instance of smiles
+universal sign main subject peace
+peace sign applies to jurisdiction Asian
+woman standing near machinery instance of peace sign
+factory worker continent Asia
+Two thumbs up instance of funny face
+number sport runner
+marathon subclass of running
+race practiced by runner
+2008 Summer Olympics point in time 2008
+score sport basketball
+basketball has part jumping
+basketball uses ball
+Basketball uses goal
+jumping sport basketball
+football player uses football
+jersey sport football
+football practiced by player
+Number 12 sport football
+University of Miami sport football
+helmet used by skateboarder
+downhill subclass of skateboarders
+helmet sport skateboarder
+helmet part of skateboard
+downhill uses skateboard
+sidelines sport football
+sidelines sport football
+field sport football
+sidelines sport football
+2010 FIFA World Cup point in time 2010
+scooter use playing outside
+scooter used by girl
+scooter used by girl
+scooter used by little girl
+bike part of lawn
+white shirts subclass of hats
+dance has part choreography
+jumping rope uses clap their hands
+jumping rope subclass of children
+exercise has part excersise
+wheelchair use pushing
+box used by child
+card board part of sidewalk
+Pedestrians uses street
+Small child subclass of child
+tag used by dog
+The brown dog depicts sand
+dog animal breed brown
+Black dog instance of dog
+brown dog named after sand
+Army country US
+colleague subclass of soldier
+Long Hair depicts woman
+soldiers part of army
+army uniforms has part men
+Dali Lama participant in reception
+oriental subclass of clothing
+Indian clothes subclass of dressed
+oriental robes has part gold
+temple religion Buddhist
+bicycle subclass of sign
+bicycle sport jumping
+biker uses bike
+Man carries bike over obstacle depicts Man carries bike over obstacle
+biker uses obstacle
+red hat opposite of black
+lawn chair subclass of chair
+chair part of yard
+chairs location backyard
+woman opposite of man
+Mississippi Train instance of train
+train ride subclass of ride
+John F. Kennedy School of Government part of Harvard University
+train use amusement park
+train ride item operated train
+surfboard uses wave
+surfboard sport surfer
+surfing uses waves
+blue bodysuit sport surfing
+surf part of ocean
+soccer net subclass of soccer ball
+soccer uses ball
+jumping subclass of playing
+brother sport soccer
+boy different from boy
+sports uniform different from uniform
+soccer uses soccer field
+soccer uses grassy field
+soccer uses ball
+ball sport soccer
+umbrella subclass of cane
+umbrella use walking uphill
+China ethnic group Chinese
+cane subclass of umbrella
+umbrellas uses umbrellas
+Beaded curtain part of bed
+boy subject has role shirtless
+jumping uses couch
+jump part of air
+child uses arm
+Legos uses plastic bag
+Legos used by child
+Lego used by boy
+Legos used by boy
+Legos used by boy
+child followed by girl
+blue jeans has part white shirt
+water part of tree
+women opposite of men
+family depicts tree
+Chris Gregoire employer Obama
+signs facet of political
+signs for an election participant democrat
+signs facet of political
+political signs subclass of signs
+car part of street
+car part of street
+cigarette used by police officer
+SUV used by policeman
+man located in the administrative territorial entity city
+George Orwell notable work Nineteen Eighty-Four
+hats used by men
+Two men in hats instance of pose
+jacket part of guy
+hats part of men
+soccer uses ball
+soccer uses ball
+soccer uses ball
+soccer uses ball
+soccer ball sport kick
+fur collar part of jacket
+red jacket has part fur
+cap use winter
+blue beanie depicts boy
+Knitted product or material produced hat
+guitar use playing
+guitar used by man
+guitar used by redheaded man
+guitar use sits
+guitar used by man
+Bucket hat subclass of sunglasses
+sunglasses use eating
+sandwich has part man
+white hat depicts man
+Man eats while holding a baby facet of baby
+black jacket has part black jeans
+African American instance of proud of
+poster depicts child
+A boy is holding up a paper depicts crowd of people
+A Room full of people depicts black kid
+megaphone use speaks
+mega phone use yelling
+megaphone use talks
+loudspeaker use directs a crowd of people
+Africa has part Africans
+devil instance of costumed adults
+suit subclass of costume
+costume different from uniform
+Halloween party uses costume
+costume party participant man
+party has part young people
+club use dance
+club use dancing
+bar subclass of crowd
+young adults subclass of event
+car wash product or material produced cars
+gas station part of street
+girl in white followed by girl in green
+car wash subclass of parking lot
+Two girls walk down location parking lot
+T-shirt has part buttons
+dark hair different from brown skin
+mixing board used by DJ
+electronic equipment used by man
+stereo subclass of equipment
+surfer uses ocean
+surfing uses ocean
+surfing uses wave
+Water splashing facet of Water
+surfer uses wave
+military fatigues used by soldier
+soldier item operated uniform
+army has part man
+inspecting practiced by army officer
+serving subclass of protecting
+wedding participant bride
+newlywed participant bride
+man spouse woman
+bride spouse groom
+kiss participant couple
+security armor subclass of protective
+bandanna has part skeleton
+2012 Summer Olympics point in time 2012
+riot gear used by police
+Masked protester surrounded by the police participant police
+steeple vault part of competition
+dog owned by owner
+dog subclass of animal
+dog show uses jumping fences
+hurdle used by dog
+book use reading
+couch use reading
+couch has part window
+book use reading
+letter use reading
+concert subclass of young adults
+Looking over a railing depicts teenagers
+Kids watch subclass of concert
+male opposite of female
+railing use leaning
+rock formation has part man
+white shirt followed by jeans
+cliff subclass of climbing
+The Man in the white t-shirt instance of climb a rock
+underhang part of rock
+tiered shelf part of industrial kitchen
+stainless steel subclass of appliances
+stomach use stretching
+Man posing in a kitchen depicts kitchen
+kitchen subclass of commercial
+drums subclass of guitar
+drumsticks part of drums
+drums use playing
+drums subclass of drums
+drums subclass of men
+Red Bow instance of hat
+farmers product or material produced rice
+George Orwell notable work Nineteen Eighty-Four
+gleaning part of field
+harvesting product or material produced crops
+straw part of cup
+man opposite of woman
+book use read
+women opposite of man
+Three people are gathered for a picture instance of picture
+Spare Parts publication date 2009
+jeans different from shirts
+silly string use legs
+silly string subclass of cans
+silly string use kids play with
+chicken has part chicken
+chicken owned by man
+cook field of this occupation restaurant
+cook field of this occupation cooking
+debone facet of chicken
+Kingsworth coal power plant significant event protest to stop the building
+coal use power plants
+coal subclass of power plant
+NO NEW COAL instance of protests
+People are protesting against coal instance of protesting
+sky part of daytime
+trick uses bicycle
+bicycle use jump
+rider sport bmx
+bicycle use airborne
+beach has part sand
+beach opposite of shore
+Little Dark-haired girl narrative location beach
+child located in or next to body of water beach
+beach part of beach
+wings part of duck
+spread its wings facet of duck
+wings part of bird
+white duck has part wings
+wings part of White duck
+baseball cap subclass of t-shirt
+back part of truck
+John F. Kennedy School of Government part of Harvard University
+group of people location warehouse
+warehouse occupant People
+Baby mother mother
+mother child baby
+tissue part of face
+pink subclass of skirt
+Mother child child
+goalkeeper sport ice hockey
+hockey uses goal
+hockey uses goal
+goaltender field of this occupation goal
+hockey uses goal
+E.S.E. Electronics ethnic group African-American
+advertisement subclass of billboard
+Advertisements subclass of advertisement
+E.S.E. Electronics instance of sign
+bag subclass of electronics
+green subclass of pants
+green shirts followed by khaki pants
+climbing on a slide participant boys
+slide part of playground
+Three boys climb on a slide instance of slide
+Circus practiced by performer
+stand on one leg facet of entertainer
+costume depicts man
+dancing participant man
+dog tamer product or material produced human jumping ring
+George Orwell notable work Nineteen Eighty-Four
+splashing used by dog
+wet brown dog depicts water
+brown dog subclass of dog
+Wet blond instance of dog
+1968 Democratic National Convention point in time 1968
+marching band subclass of march
+marching on the grass uses drums
+percussionist part of marching
+drum subclass of drums
+The Girl in the light pink shirt instance of game
+children opposite of adult
+children location yard
+children are playing outdoors participant man
+field subclass of field
+string instruments subclass of woodwind
+instrumental subclass of performance
+musicians field of this occupation play together
+musical instruments use playing
+musical subclass of classical
+purple plaid subclass of dress
+purple plaid subclass of dress
+tantrum participant girl
+throwing a tantrum uses purple dress
+Crying on the floor depicts girl
+shaving uses face
+shave off facet of beard
+gray hair subclass of shaving
+shaves facet of beard
+shaving uses beard
+black dog opposite of white dog
+black opposite of white dog
+black dog opposite of white dog
+A group of dogs depicts snow
+Four dogs stand in the snow depicts snow
+basketball uses ball
+Miami sport basketball
+Basketball uses ball
+Miami sport basketball
+number 21 sport basketball
+window part of door
+Blue door part of house
+black opposite of white
+chair used by person
+Pink shirt depicts man
+Balloon used by Children
+banana suit use push ups
+banana custom practiced by man
+banana suit depicts children
+banana suit depicts man
+gray followed by white
+beach has part water
+puddle part of beach
+dog uses stream of water
+dog uses stream
+raincoat subclass of umbrella
+umbrellas subclass of raincoats
+fountain facet of rain
+water fountain part of park
+snows subclass of snow
+headdress part of traditional
+George Orwell notable work Nineteen Eighty-Four
+wall has part concrete
+George Orwell notable work Nineteen Eighty-Four
+Old men location street
+toy used by dog
+dog uses tongue out
+licking uses nose
+Lassie instance of dog
+dog use walking
+soccer uses ball
+blocking the ball sport soccer
+men sport soccer
+Yellow team sport soccer ball
+soccer players are playing soccer sport soccer
+knitting practiced by knitters
+sewing kit has parts of the class yarn
+knitting uses table
+yarn use knitting
+knitting uses table
+ballet toes subclass of feet
+point ballet ethnic group Asian descent
+Ballet practiced by dancers
+Four asian women instance of ballet
+Four women in yellow dresses instance of ballet
+guitar has part musical stand
+windbreaker subclass of stringed instrument
+guitar subclass of instrument
+Man instrument string instrument
+instrument use playing
+1102 point in time 1102
+1102 point in time 1102
+player sport soccer
+Women running on a soccer field sport soccer
+girl in black facet of race
+helmet sport skiing
+sport subclass of sports
+93 sport crosscountry skis
+slalom subclass of snow skier
+snow sport skier
+puzzle participant grandfather
+puzzle has part older gentleman
+constructing subclass of puzzle game
+game participant child
+puzzle practiced by man
+video camera subclass of camera
+white opposite of black
+video participant man
+film crew product or material produced film
+filming practiced by film crew
+bicycle uses sidewalk
+cyclist uses cars
+nighttime subclass of bicycling
+streetlight use dark
+riding her bike at night main subject girl
+rodeo uses bull
+rodeo uses bull
+bullpen uses kicking bull
+Cowboy riding a black bull instance of ring
+rodeo uses bull
+jeans has part boy
+tennis uses racket
+child jumping sport tennis
+the rest of his racket instance of racket
+jumping part of air
+rock walk uses belay
+rock wall subclass of climbing
+rock wall subclass of climb
+harnesses use scaling
+Kids scale a wall subclass of people watch
+college subclass of campus
+campus part of university
+campus part of school
+student services fair location quad
+student walking across campus facet of student
+red belt opposite of black
+kicking sport martial arts
+Little girl kicks black object sport karate
+martial arts uses bag
+move sport karate
+tire has part hole
+Two men trying to hoist themselves up from the water instance of walkway
+tire part of tires
+tires part of muddy water
+Two boys hanging off a tire dock depicts tire dock
+checkered platform subclass of dancing
+Two men are performing location sidewalk
+checkerboard subclass of dancing
+dancing practiced by street performer
+breakdancing uses crowd looking on
+podium use debating
+microphone part of podium
+speaking uses podium
+woman in the tan suit instance of pedestal
+Lovely woman facet of business meeting
+cigarette use smoking
+comedy main subject drunken
+A laughing woman depicts couch
+laughing facet of woman
+plaid subclass of couch
+pick shirt subclass of shovel
+sweeping uses shovel
+white opposite of black
+girl uses shovel
+cleaning uses floor
+wood and wire fence subclass of fence
+fence used by deer
+fence used by deer
+A dear jumps the fence characters dear
+deer uses fence
+grassy subclass of field
+black opposite of white dog
+play uses dog
+wrestling uses dog
+grass used by dog
+sailor suit subclass of child
+beach subclass of sandy
+sand different from water
+children uses sand
+beach has part sand
+Little Boy in a blue coat narrative location park
+A smiling young boy depicts duck
+duck subclass of leaves
+duck time period fall
+fall part of fall
+dog owners item operated dog
+London capital of England
+dogs used by people
+dogs location field
+Four people holding three dogs depicts field
+Kraków country Poland
+Mayan instance of ruins
+ruins subclass of grass
+World Heritage Site maintained by UNESCO
+Kraków country Poland
+Radio country of origin Asian
+White shirt depicts woman
+girl ethnic group asian
+radio has part mouth
+surprised facet of lady
+water tap use colecting water
+African continent Africa
+water part of container
+tribe location desert
+tap use water
+black jacket has part man
+cap has part buttoned coat
+George Orwell notable work Nineteen Eighty-Four
+building depicts man
+street located in the administrative territorial entity city
+food used by bird
+flies uses food
+beak part of bird
+fighting over a scrap of bread participant Seagull
+bird different from tree
+horse uses trailer
+black subclass of donkeys
+mule subclass of trailer
+road part of rural
+wagon has part donkey
+summit part of mountain
+foreground opposite of distance
+peak part of mountain
+top part of mountain
+mountaintop part of mountaine
+snow angel uses hat
+girl in glasses depicts snow
+snow angel subclass of Young girl enjoying herself
+snow angel uses snow
+snow angel depicts Asian woman
+2010 Winter Olympics point in time 2010
+Three men making happy gestures instance of photograph
+ham uses camera
+John F. Kennedy School of Government part of Harvard University
+gesturing subclass of smiling
+chalkboard part of classroom
+chalkboard use writing
+chalkboard use writes
+chalkboard part of classroom
+chalkboard uses chalk
+laptop has part screen
+powerpoint use presentation
+Apple product or material produced laptop
+powerpoint use presentation
+presentation uses powerpoint
+hill part of range
+hill opposite of valley
+backpack subclass of backpacks
+cliff part of scenic view
+Four people depicts hill
+rails part of skateboard
+skateboard use jumping
+kickflip sport skateboarder
+trick uses skateboard
+jump sport skateboarder
+tennis uses racquet
+tennis uses racket
+man in a orange shirt and white shorts sport tennis
+man in an orange shirt sport tennis
+man sport tennis
+pink collar opposite of blue collar
+red collar opposite of blue collar
+fangs used by dog
+dark brown dog opposite of lighter brown colored dog
+mouth open part of dog
+ballgame has effect excited
+Little Boy sport running excitedly
+striped shirt followed by jeans
+John F. Kennedy School of Government part of Harvard University
+summer named after summer
+machinery used by worker
+tools part of cart
+stage lights part of stage
+Working under dim lighting depicts man in orange
+machine used by man
+roping part of rodeo
+horse subclass of animal
+rodeo uses cowboy hats
+white hat used by cowboy
+Roping a calf part of rodeo
+dog uses mouth
+John F. Kennedy School of Government part of Harvard University
+Two dogs location snow
+Two dogs are playing in the snow main subject snow
+Two dogs on the beach instance of beach
+Lady has part hair
+sipping subclass of beverage
+Turtleneck has part red
+kitchen part of restaurant
+drink used by employee
+toy used by dog
+rubber chicken used by dog
+toy used by dog
+toy used by dog
+toy used by dog
+hockey uses puck
+ice hockey uses ice
+ice sport hockey
+stick sport hockey
+Two ice hockey players sport ice hockey
+buttons part of shirt
+watch subclass of watch
+dials part of mouth
+T-shirt color white
+equipment board used by man
+dog opposite of horse
+horse uses grass
+black subclass of horse
+horse used by dog
+horse uses field
+homeless facet of black
+crackhead uses crack
+rubbing his hands together facet of homeless man
+shoes part of entrance
+smoking participant person
+woman opposite of man
+brown hair opposite of blond-hair
+brown opposite of gray
+John F. Kennedy School of Government part of Harvard University
+girl opposite of guy
+child opposite of adult
+beach has part sand
+water play table subclass of game
+A maze of blue and yellow walls depicts lady
+Talk uses phone
+dog uses snow
+snow used by dog
+dog uses snow
+punctured ball facet of snow
+ball used by dog
+countertop part of kitchen
+cat owned by girl
+cat residence kitchen
+kissing a cat depicts child
+kissing the brown cat depicts little girl
+boy sibling girl
+playing location park
+gym location outdoor
+Playground subclass of playground
+Children playing on a playground subclass of playground
+racket sport tennis
+tennis practiced by player
+racket sport tennis
+tennis authority fans
+tennis uses tennis racket
+swimming uses river
+Red shorts depicts boy
+swimsuit part of water
+flying leap participant boy
+Red suit depicts boy
+coat has part cap
+red hat subclass of jacket
+A boy in a red coat depicts snow
+A boy carrying a chunk of snow depicts snow
+snow used by child
+police officers applies to jurisdiction police
+turban has part man
+John F. Kennedy School of Government part of Harvard University
+police officers facet of crowd gathers
+Men with hats location white tent
+fire location woods
+Two people standing next to a tree depicts the ground
+London capital of England
+Two men trying to build a fire main subject fire
+Two men chilling by a campsite instance of campsite
+stone walls subclass of floor
+gesturing subclass of speaking
+lanai use sit and chat
+William Shakespeare notable work Cymbeline
+old men subclass of conversation
+girl wearing glasses opposite of girl the same age
+brunette opposite of blond
+The Great Gatsby composer David Bowie
+John F. Kennedy School of Government part of Harvard University
+woman child child
+backlegs part of dog
+play catch uses ball
+ball part of midair
+baseball used by dog
+dog uses ball
+pedestrian uses sidewalk
+kissing location sidewalk
+Mercedes Benz product or material produced limousine
+Man and woman kissing instance of kissing
+kissing participant man
+spikes sport volleyball
+spikes sport volleyball
+beach sport volleyball
+woman sport volleyball
+woman sport volleyball
+mouth open use playing
+Boston terrier uses biting
+growling used by dog
+fighting uses dog
+snap sport boxers
+hurdle subclass of pole
+dog uses stick
+hurdle part of competition
+brown dog subclass of dog
+hurdle used by dog
+cigarette use smoking
+cigarette use smoking
+white has part blue
+main has part garage door
+cigarette use smoking
+child subclass of child
+trampoline location backyard
+girl sibling boy
+pink opposite of red
+Little girl child little boy
+bucking bull part of rodeo
+mad bull instance of mad
+bucked practiced by cowboy
+bull use rodeo
+rodeo practiced by man
+Pulling uses rope
+pulling a rope location park
+tug-of-war instance of game
+battle subclass of tug-of-war
+tug-of-war subclass of Children
+bike location rural area
+cyclist uses mountain bike
+bike uses dirt path
+bike location woods
+blurred picture depicts bicyclist
+sari country of origin India
+women opposite of men
+East Asia has part Japan
+India named after ox
+Two people and a leashed cow depicts home
+bicycle use learn how to ride a bicycle
+bike use ride
+bike owned by man
+bike used by man
+bike used by man
+basketball uses hoop
+sweeping the floor location porch
+broom use sweeping
+Boy in red shirt and black shorts narrative location driveway
+sweeping facet of building
+Baby subclass of child
+family ethnic group african
+mother has part five children
+Family location village
+family location desert
+man instrument wind instrument
+music practiced by man
+flute use sheet music
+long-haired instrument flutist
+instrument use instrument
+white shirt opposite of red shirt
+holding hands has effect smiling
+table has part hands
+Bibliothèque Nationale de France location Paris
+table depicts women
+dog uses paws
+panting subclass of running
+dog walking on the grass subclass of panting
+dog use walking
+brown dog subclass of dog
+base sport softball
+baseball practiced by player
+mitt sport baseball
+softball subclass of game
+softball subclass of game
+John F. Kennedy School of Government part of Harvard University
+John F. Kennedy School of Government part of Harvard University
+Kids Food Basket instance of donation check
+Kids Food Basket instance of donation
+Kids Food Basket instance of check
+tennis uses ball
+tennis ball used by dog
+white one instance of dog
+ball used by dog
+ball used by dog
+man spouse woman
+man spouse woman
+man spouse woman
+park bench subclass of bench
+park bench subclass of bench
+flower has part pods
+dandelion subclass of grass
+dandelion subclass of seeds
+milkweed subclass of field
+woman blowing on a dandelion depicts dandelion
+street vendor subclass of market
+white hat subclass of hat
+potato part of potato
+villagers country Mexican
+sells potatoes participant people
+accordion used by man
+accordion used by accordionist
+violin subclass of instrument
+instrument used by man
+accordion use playing
+bench occupant man
+white shirts followed by khaki pants
+Man has part face
+park bench subclass of bench
+iPod use listing
+subway item operated newspaper
+John F. Kennedy School of Government part of Harvard University
+public transportation subclass of riding
+subway part of subway
+newspaper main subject public transit
+market product or material produced fish
+apron use prepares food
+meat subclass of preparing
+slicing product or material produced meat
+butcher product or material produced meat
+bicycle has part back wheel
+pedals part of bicycle
+bicycle has part back wheel
+trick bicycle subclass of bicycle
+Man in a red outfit uses bike
+sand sculpture uses object
+man with a mustache field of work sand castle
+sand-castle location beach
+sand sculpture location beach
+Man building a sand castle instance of sand castle
+picnic table use food
+table use picnic
+picnic table subclass of table
+cookout uses food
+food use eating
+safety equipment use climbing
+harnesses part of pole
+boots has part straps
+Women's March on Washington followed by Women's March on Washington
+construction product or material produced job
+rodeo practiced by cowboy
+bucking bronco use rodeo
+cowboy field of this occupation rodeo
+horse rider uses mount
+bucking part of rodeo
+ring of fire participant dog
+show dog uses obstacle
+jumping uses obstacle
+jumping uses hoop
+tan dog uses fire hoop
+lip part of mouth
+name tag product or material produced lipstick
+red lipstick subclass of lipstick
+lipstick part of lips
+pink shirt has part red lipstick
+tricycle used by little girl
+bicycle manufacturer man
+bicycle owned by man
+fixing item operated bike
+Dad child daughter
+skirts part of women
+dance participant band
+dance practiced by musicians
+women opposite of men
+street musicians subclass of dance
+stick used by German Shepherd
+yellow dog uses water
+dog uses mouth
+retrieving uses dog
+dog uses mouth
+Statue of Liberty heritage designation National Historic Landmark
+sun location outdoors
+sun has part rays
+nose part of sun
+outlined by the sun depicts person
+stage use concert
+concert subclass of musical
+band field of this occupation playing
+cheers part of concert
+concert facet of rock
+headdresses subclass of headdress
+I love you instance of paper
+Iove you instance of signs
+I Love You instance of cards
+I love you instance of signs
+dog uses collar
+dog uses collar
+brown dog uses dirt
+dog field of work digging a hole in the dirt
+brown dog subclass of dog
+racket sport tennis
+tennis ball different from racquet
+racket sport tennis
+polo shirt sport tennis
+racket sport tennis
+black and tan dog opposite of white and gray dog
+dog uses camera
+dog uses path
+forest subclass of dirt
+John F. Kennedy School of Government part of Harvard University
+jumping into the stream of water part of hot day
+Princess Diana spouse Prince Andrew
+splashed facet of water
+water used by child
+splashes uses water
+sumo subclass of wrestler
+sumo practiced by wrestlers
+sumo practiced by wrestlers
+sumo practiced by wrestlers
+sumo practiced by wrestler
+walking stick use hiker
+hikers uses forest path
+nature hikers uses path
+log part of woods
+George Orwell notable work Nineteen Eighty-Four
+field sport sport
+black followed by yellow
+rugby practiced by players
+opponent part of team
+tackle part of team
+John F. Kennedy School of Government part of Harvard University
+soccer uses ball
+red ball sport street
+street corner part of street
+playing ball location street
+back part of midair
+black opposite of white
+hat used by man
+holding up another with his back depicts man
+outdoor subclass of play
+mountain part of sky
+White dog depicts dog
+rock part of sky
+white dog location mountain
+A white dog narrative location hillside
+trick uses skateboard
+skate park uses skateboard
+skateboarding subclass of graffitied
+skateboarding ramp uses skateboard
+skateboarder uses swimming pool
+piano use musician
+microphone subclass of instrument
+piano instance of standing
+microphone part of stage
+keyboard use performs
+Queen Elizabeth II spouse Prince Philip
+men who won first, second, and third place sport bicycle race
+2012 Summer Olympics point in time 2012
+victory podium subclass of podium
+Three men accepting an award instance of award
+red subclass of dress
+Red dress main subject red
+Women's Liberation Movement inception 1968
+bald facet of drag queens
+red clothes has part bald
+tied dye product or material produced shirt
+blue shirt subclass of clothes
+hanging onto a clothing rack depicts boy
+rack product or material produced clothes
+clothing rack use playing
+jungle gym subclass of playground
+Little girl named after pink
+pink named after bar
+playground equipment used by girl
+blue subclass of playground
+motorcyclist uses motorcycle
+motorcyclist uses bike
+motorcycle subclass of motorcycles
+green motorcycle subclass of motorcycle
+motorbike different from motorbike
+seesaw part of playground
+park occupant woman
+play location park
+four way seesaw subclass of seesaw
+father spouse mother
+Four people are playing football by a body of water sport football
+beach sport kicking
+Four people are playing soccer on a beach sport soccer
+beach subclass of group of people
+soccer in the sand sport soccer
+bicycle helmet use cyclist
+helmet used by girl
+helmet used by girl
+cyclist has part girl
+hugging participant girl
+light colored opposite of dark
+snowcapped subclass of rocks
+jumping subclass of running
+grass different from rocks
+New York City contains administrative territorial entity Manhattan
+Little white dog sibling brown dog
+white dog opposite of brown dog
+dog used by lady
+dog uses dog
+white dog opposite of brown dog
+painting subclass of art
+Straw Hat instance of straw hat
+frames use picture
+street vendor product or material produced goods
+straw hat subclass of man
+face part of table
+man spouse woman
+man spouse woman
+cafe has part table
+coffee subclass of drinking
+parade participant men
+black hat subclass of vest
+leather vest subclass of Shirtless
+nipple piercing has effect smiling
+Leather uses leather
+playing participant child
+laughing subclass of laying on the floor
+child uses rug
+A baby laughing on the floor depicts baby
+child laying on the floor subclass of child
+tie part of suit
+jacket has part tie
+man spouse woman
+man spouse woman
+John F. Kennedy School of Government part of Harvard University
+mud wrestling uses kiddie pool
+mud-wrestle subclass of wading-pool
+mud subclass of pool
+mud wrestling instance of Two people
+Two women in a mudfight genre mudfight
+Man walking away from building depicts Man going into the entrance
+archway part of building
+shorts different from t-shirt
+Man in a white shirt depicts old building
+White shirt has part guy
+painted sky part of lake
+sunset location lake
+sunset location lake
+Two figures narrative location pond
+William Shakespeare notable work Cymbeline
+lady opposite of man
+wedding participant couple
+wedding participant bride
+wedding subclass of newlywed
+table has part formal clothing
+shorts different from shirt
+racing one another sport rollerskates
+rollerblades sport race each other
+basketball court sport speed skating
+women sport rollerskating
+John F. Kennedy School of Government part of Harvard University
+Two adults and two children sitting on rocks instance of picture
+Two adults and two children pose on a pile of rocks depicts two children
+family uses camera
+Kraków country Poland
+race each other sport mountain biker
+dirt track subclass of motorcycles
+dirt track sport motorcycle racers
+motorbike use tricks
+Dirt biker uses jump
+trail sport mountain biker
+racing gear subclass of Bicycle
+trail sport mountain biker
+bike part of forest
+biking uses tree
+beach subclass of walking
+tennis uses shoes
+Nike product or material produced sneakers
+Green main subject green
+shoes use walking
+drag race uses car
+red followed by white
+racetrack uses car
+race car subclass of antique
+Pit crew field of this occupation race car
+engine sport racing car
+hood sport race car
+mechanics field of this occupation racing
+mechanics field of this occupation drag racing
+drag car subclass of body
+goggles part of swimming pool
+pool chair part of pool
+jumping into a swimming pool participant woman
+jump location pool
+Three girls jump into a pool main subject pool
+trick uses inline skates
+trick uses skateboard
+Falling Off depicts wall
+Rollerblades uses curb
+platform use jumping
+bicycle use bike
+bicycle used by girl
+bicycle use converse
+bicycle used by woman
+bicycle use bike
+cleavage has effect tatoo
+cowboy boots subclass of leggings
+posing uses camera
+black clothes depicts woman
+black facet of black
+shirt followed by shorts
+Man in shorts instance of shorts
+wooden boat owned by man
+man in brown depicts raft
+shade subclass of canvas
+steps part of building
+church has part stoop
+Four black men depicts church
+church has part steps
+steps part of church
+bulldozer use demolish
+construction product or material produced rubble
+excavator part of building
+crane uses rubble
+demolished facet of building
+uneven bars sport gymnastics
+uneven bar sport gymnast
+uneven bars sport gymnast
+handstand sport Gymnast
+gymnast uses bar
+Green sweater facet of Aging
+vegetables subclass of green
+farmer's market product or material produced produce
+market product or material produced herbs
+selling fresh spices practiced by old woman
+hide part of animal
+tools use crafting
+factory has part men
+Two men depicts shop
+World Heritage Site maintained by UNESCO
+toys used by children
+sculpture subclass of play
+toy use toy
+building block used by teacher
+toy use building
+doll subclass of book
+book used by child
+open book use sleeping
+book used by child
+book use sleeping
+Blue shirt depicts woman
+hiking uses gear
+Getting ready to eat depicts road
+eating in the grass part of beautiful day
+blue shirt depicts woman
+tiled roofs part of building
+eaves part of buildings
+alley connects with houses
+man location street
+walking up a sidewalk depicts man in black
+hammer subclass of rock
+grinding uses stone
+grinds uses flour
+Native woman uses hands
+bread used by woman
+African continent Africa
+mortar and pestle use crush plant material
+pole part of field
+sling use baby
+field facet of black woman
+blue belt sport karate
+blue belt sport martial artist
+blue belt sport martial arts
+judges sport karate
+pose facet of martial arts
+t-shirt subclass of shirt
+John F. Kennedy School of Government part of Harvard University
+piano location city street
+Victorian instance of era
+cart has part wheels
+plaid has part blue
+hunting cap subclass of shirt
+plaid subclass of jacket
+chair subclass of chair
+flannel subclass of shirt
+kitchen part of restaurant
+kitchen part of restaurant
+Behind the counter part of cafe
+kitchen practiced by professional
+white blouse use restaurant
+safety vest subclass of hat
+hard hat used by technician
+cabling part of truck
+truck subclass of work clothes
+electrical worker uses truck
+horses uses fence
+horse subclass of grass
+horse use feeding
+horse use pet
+talk to the horses subclass of children
+window part of building
+elevator has part window
+John Milton notable work Paradise Lost
+design part of window
+Guy in Art Deco Glass Home architectural style Art Deco
+overcoat subclass of coat
+pink overcoat opposite of purple overcoat
+London capital of England
+Woman with a surprised face depicts Vitamin Shoppe
+Two women having a conversation narrative location city area
+cowboy hats part of ranch
+rodeo practiced by young adults
+rodeo practiced by cowboy
+cowboy hat use taping arm from injury
+bandage subclass of wrap
+window part of store
+yellow shirt opposite of blue shirt
+George Orwell notable work Nineteen Eighty-Four
+explains participant friend
+converse location sidewalk
+children mother woman
+Toulouse country France
+crafts practiced by woman
+Red shirt subclass of dress
+arts subclass of crafts
+tennis uses racket
+tennis uses ball
+tennis uses ball
+tennis uses ball
+girl in a red shirt sport tennis
+jacket has part pants
+sculpture depicts man
+World Heritage Site maintained by UNESCO
+green crane depicts man
+green box depicts man
+ale has part clinking
+clinks part of restaurant
+cheer each other facet of restaurant
+Carlsberg product or material produced toast
+beer use cheers
+pretzel subclass of pretzels
+loading different from unloading
+pretzel practiced by baker
+pretzel subclass of pretzel
+pretzel subclass of baked
+acoustic guitar use singing
+acoustic guitar use singing
+guitar use plays the guitar out in public
+instrument use playing
+guitar used by man
+synchronized subclass of martial arts
+watch subclass of performers
+parade participant men in white shirts
+rod sport Martial artist
+parade subclass of dance
+backpack used by person
+water part of land
+rock opposite of water
+cliff facet of water
+man located on terrain feature rocks
+George Orwell notable work Nineteen Eighty-Four
+police officer ethnic group african American
+police officer item operated bus
+whistles while he works used by Police officer
+police officer location train
+police officers field of this occupation law enforcement
+police officers field of this occupation night
+2012 Summer Olympics point in time 2012
+police subclass of officers
+policemen location parking lot
+field facet of sporting event
+cheering sport soccer
+stadium use sports event
+soccer uses blue shirts
+cheering facet of sporting event
+Military men subclass of suits
+blue subclass of uniforms
+blue uniforms subclass of men
+office occupant Policemen
+guards location sidewalk
+meditating location beach
+yoga practiced by young lady
+yoga practiced by young lady
+yoga location beach
+yoga location beach
+flute subclass of musician
+World Heritage Site maintained by UNESCO
+George Orwell notable work Nineteen Eighty-Four
+flute use play
+George Orwell notable work Nineteen Eighty-Four
+balloon animal uses balloon hat
+balloon hat subclass of man
+blue balloon subclass of animal
+balloon animal uses balloon hat
+John F. Kennedy School of Government part of Harvard University
+barbecuing subclass of food
+grilling product or material produced food
+grilling pit use grilling
+tend meat part of barbecue
+grill use cooking
+fruit market product or material produced fruit
+Red light subclass of light
+vegetables subclass of fruits
+fruit market product or material produced fruit
+market has part Merchant
+trunks subclass of bikini
+Brunette uses bikini
+bikini has part woman
+woman opposite of man
+woman opposite of man
+sunglasses subclass of hooded
+Disneyland located in the administrative territorial entity California
+sunglasses use event
+Boy in sunglasses present in work fair
+sunglasses sport running
+hammer use splitting
+nail part of hand
+hammer subclass of nail
+splitting wood product or material produced wood
+log subclass of tree
+keyboard subclass of accessories
+plaid subclass of shirt
+wires part of device
+plaid subclass of shirt
+gloves part of hands
+chair subclass of table
+chairs part of doorway
+George Orwell notable work Nineteen Eighty-Four
+George Orwell notable work Nineteen Eighty-Four
+chair used by men
+lolita subclass of gothic
+red velvet subclass of dress
+dress has part hat
+red velvet subclass of dress
+cowboy hat subclass of dress
+soccer ball sport soccer
+Number 3 sport soccer
+number 3 sport soccer
+soccer uses field
+match sport soccer
+jumping uses air
+snow-gear facet of snow
+climber uses mountain
+crevasse part of mountain
+snow subclass of trick
+marathon subclass of race
+marathon practiced by participants
+Marathon subclass of marathon
+marathon has part marathon runner
+race participant spectators
+laptop has part window
+internet bar uses camera
+laptop subclass of computer
+laptop use work
+laptop has part window
+turntable used by DJ
+disc jockey field of this occupation work
+DJ field of this occupation mixing some music
+headphones use DJing
+dj field of this occupation music
+corn field product or material produced corn
+harley-davidson product or material produced hat
+crops has part fruit
+corn part of field
+harvests product or material produced corn
+cafeteria use eating
+restaurant product or material produced food
+mirror reflection subclass of photo
+mirrored ceiling part of cafeteria
+Slanted aerial view depicts cafeteria
+Women's March on Washington followed by Women's March on Washington
+John F. Kennedy School of Government part of Harvard University
+muslim religion islamic
+Red Balloon depicts woman
+event subclass of group
+rabbit uses hay
+cat subclass of bunnies
+Curious Cat depicts woman
+cat subclass of rabbits
+cage used by cat
+restaurant has part brick wall
+Blue shirt depicts woman
+wall part of building
+cafe has part window
+A woman sits alone depicts brick wall
+red plush subclass of chair
+comfortable seating part of waiting room
+plat opposite of girl
+chair subclass of upholstered
+Three girls talking narrative location lobby
+alleyway country third world country
+village has parts of the class streets
+rustic subclass of urban area
+Woman in a blue shirt narrative location village
+the streets located in the administrative territorial entity town
+field trip uses notes
+crayon subclass of notepad
+John F. Kennedy School of Government part of Harvard University
+Taking notes subclass of sitting
+sitting subclass of writing
+beach part of water
+stick used by dog
+play used by dog
+dog uses stick
+beach subclass of water
+brown followed by white
+playfully subclass of dog
+bite subclass of play
+Two dogs biting another dog location field
+Three dogs affectionately playing depicts dog
+helmet part of motorcycle
+motorbike used by boy
+helmet part of motorbike
+motorcycle used by child
+motorcycle subclass of motorcycle
+table has part food
+dinner location table
+dinner number of participants 6
+turkey dinner part of family
+thanksgiving part of family
+Santa Claus uses red coat
+Santa Clause instance of people
+photographed depicts Santa Claus
+Santa suit depicts man
+Man in Santa suit instance of holiday event
+George Orwell notable work Nineteen Eighty-Four
+Military Families instance of marching through New York
+families facet of military
+People at a protest regarding military personnel instance of protest
+Protesters holding a petition in the rain instance of petition
+motorcycle has part backseat
+motorcycle subclass of motorcycle
+motorbike part of road
+helmet part of motorcycle
+motorcycle subclass of man
+belts sport martial arts
+martial arts uses uniforms
+stance sport martial arts
+martial art subclass of practicing
+Karate opposite of light-hearted
+katana sport martial arts
+wooden stick used by crowd
+warriors uses sticks
+dueling participant spectators
+who will win sport Battling
+police officer item operated vehicle
+cars part of street
+George Orwell notable work Nineteen Eighty-Four
+2009 point in time 2009
+uniform subclass of man
+harness sport rock climbing
+The Woman in glasses depicts climbing a steep rock wall
+Girl rock climbing on the rock wall sport rock climbing
+climbing rock face subclass of climbing
+Girl climbing rock wall instance of climbing rock wall
+hat use keep warm
+car location roadside
+teal subclass of fleece
+Green jacket product or material produced tire
+green jacket part of car
+white different from african american
+paper part of table
+index card part of table
+John Milton notable work Paradise Lost
+table part of meeting
+guitar use sings
+harmonica subclass of guitar
+guitar use singing
+guitar use sings
+guitar use sings
+table part of restaurant
+table part of restaurant
+cigarette use reading a newspaper
+restaurant occupant men
+restaurant has part waiting
+beach part of water
+beach sport running
+beach located in or next to body of water water
+beach sport running
+John F. Kennedy School of Government part of Harvard University
+construction uses railroad
+construction practiced by workers
+safety vest used by workmen
+construction practiced by Workers
+train tracks use Workers talk near train tracks
+George Orwell notable work Nineteen Eighty-Four
+baseball cap subclass of apron
+George Orwell notable work Nineteen Eighty-Four
+jacket subclass of warm clothes
+Man stands on city street depicts pine tree
+park has parts of the class bench
+slanted bars part of playground
+park part of community
+group subclass of playing
+jungle gym subclass of Children play on a jungle gym
+blue subclass of skirt
+railings part of street
+Princess Diana spouse Prince Andrew
+Little Girl in navy blue depicts railing
+bike rack part of street
+farmer field of this occupation market
+market has part drop
+asian subclass of eating
+John Milton notable work Paradise Lost
+cutting fruit part of market
+asian has part long-haired
+microphone part of tent
+microphone use speaking
+microphone use speaks
+microphone use talking
+purple object location uncut field
+dog uses field
+Frisbee used by dog
+dog uses mouth
+field uses Frisbee
+All Black has part boots
+martial arts subclass of moves
+martial arts location Asia
+Oriental man sport karate
+fail
+tank top subclass of phone
+taking pictures uses cellphone
+text subclass of talk
+drink used by woman
+comedy has part laugh
+sled uses snow
+sled uses snow
+sled uses snow
+sled uses snow
+sled used by child
+the girl with the ponytail instance of dog
+George Orwell notable work Nineteen Eighty-Four
+William Shakespeare notable work Cymbeline
+George Orwell notable work Nineteen Eighty-Four
+Woman sitting in the grass depicts dog
+guitar uses face painted white
+clown uses makeup
+performing subclass of entertaining
+clown makeup subclass of musical act
+actors uses stage
+hut has part well
+thatched roof subclass of hut
+Woman standing barefoot location hut
+Jugs subclass of pot
+processing plant fluid location village
+dance participant man
+red dress different from suit
+tango subclass of ballroom
+spotlight part of stage
+man spouse woman
+tennis uses ball
+ball used by dog
+ball used by dog
+tennis ball used by dog
+lawn used by dog
+park bench subclass of bench
+denim jacket has part hat
+park bench subclass of bench
+baseball cap has part bushy beard
+denim subclass of jacket
+tribe part of African
+African continent Africa
+jungle continent Africa
+tribe continent Africa
+women opposite of men
+black goat instance of coat
+farm product or material produced livestock
+brush uses goat
+brush uses goat
+brushing uses goat
+restaurant has parts of the class chair
+chair part of restaurant
+yellow chair part of restaurant
+cafe use eating
+restaurant use eats
+highchair used by baby
+highchair has part bib
+highchair use eating
+highchair subclass of holding food
+cookie used by toddler
+lawn part of front yard
+lawn mower use mowing
+black gloves subclass of gray
+push mower use lawn
+Man in long-sleeve shirt occupation lawn mows his lawn
+lounge setting subclass of pictures on the wall
+Sitting on chair subclass of reading book
+gallery field of work art photography
+book use reading
+black and white subclass of photos
+child part of asian
+clapping uses clapping her hands
+Asia has part Middle East
+claps used by child
+female child opposite of male child
+George Orwell notable work Nineteen Eighty-Four
+Winter subclass of winter
+fence opposite of sidewalk
+Sitting in the snow depicts man
+man in blue depicts family
+sign depicts cat
+sign part of building
+sign depicts cat
+sign part of store
+business sign depicts cat
+headphones subclass of sunglasses
+headsets subclass of sunglasses
+pink subclass of shirt
+jacket has part headphones
+headphones use listening to
+polo sport rugby
+rugby subclass of rugby
+field uses ball
+throw uses football
+rugby subclass of man
+holding hands subclass of walking
+corkscrew subclass of walkway
+building studied by architectural
+guy spouse girl
+building depicts couple
+pink hair subclass of dyed pink
+pink dog named after pink hair
+pink hair named after pink
+pink dog has part pink hair
+pink subclass of puppies
+bust depicts suit
+bus located in the administrative territorial entity city
+cup subclass of beverage
+coffee part of morning
+Businessman uses Coffee
+white shirt followed by orange shirt
+Man jumping depicts rock formation
+Man in khaki pants location desert
+jump location desert
+jumping participant man
+banner part of banner
+jacket has part pants
+Red jacket has part ribbon
+rainbow subclass of streamers
+twirling uses ribbon
+wheelchair different from bench
+wheelchair used by elderly person
+wheelchair used by person
+wheelchair subclass of person
+wheelchair used by elder person
+circular grill use cooking
+apron use cooking
+apron use cooking
+pan use cooking
+cooking participant female watching
+headset has part microphone
+cellphone use talking
+jeans has part shirt
+push-to-talk subclass of cellphone
+crosswalk used by lady
+pole part of street
+road subclass of walking
+street part of city
+street located in the administrative territorial entity city
+A European Street instance of European Street
+Buddhist temple country Thai
+street has part Vehicle
+traditional architecture country Thailand
+Car part of street
+road has parts of the class pillars
+globe part of building
+A group of people in black location dock
+plaza subclass of round sculpture
+A circular piece of architecture instance of architecture
+A large green metal ball location plaza
+beer part of case
+beer part of case
+beer manufacturer brewery
+drinks used by man
+beer owned by Man
+accordion location stone wall
+playing music location sidewalk
+accordion subclass of man
+accordion used by Pan handler
+street musician instrument accordion
+Saint Patrick instance of Day
+Green main subject green
+Girl with green arm band has part hair ties
+green named after St. Patrick's day
+white has part green
+beach part of ocean
+beach part of water
+beach part of ocean
+beach located in or next to body of water water
+beach part of water
+overpass subclass of street
+skateboard subclass of young man
+skateboard used by young man
+skateboarder sport skating
+skateboarding practiced by young man
+flag applies to jurisdiction american
+church depicts man wearing a turquoise jacket
+photograph depicts building
+photograph depicts building
+church subclass of picture
+field sport soccer
+field sport soccer
+soccer uses stand
+sideline sport soccer
+audience sport soccer
+cyclist uses street
+street located in the administrative territorial entity city
+street located in the administrative territorial entity city
+family has part crossing the street
+women opposite of men
+cowboy hat subclass of hat
+cowboy hat subclass of messenger bag
+wrought iron use tourist attraction
+street facet of sun
+sidewalk use walk
+cigarette has part tobacco
+stoplight part of street
+cigarette use smoking
+picking his nose subclass of hygiene
+rubs his nose uses coat
+flower-box has part windowill
+buildings part of street
+alleyway subclass of walking
+window part of alleyway
+plants location window
+baseball bat sport baseball
+bat sport baseball
+baseball uses ball
+batting practiced by batter
+baseball uses ball
+subway station part of subway
+subway has part woman
+subway located in the administrative territorial entity New York
+George Orwell notable work Nineteen Eighty-Four
+subway located in the administrative territorial entity Manhattan
+George Orwell notable work Nineteen Eighty-Four
+benches part of building
+benches subclass of benches
+gate has part tree
+benches part of plaza
+Madrid country Spain
+sign part of bus stop
+bus stop item operated bus
+suit depicts man
+bus stop occupant man
+Statue of Liberty heritage designation National Historic Landmark
+African American different from white
+sign facet of homeless
+drum set subclass of makeshift
+sign depicts smiling
+sandwich has part cup
+reusable bag use coffee
+coffee subclass of drink
+drinking subclass of eating
+cookie has part coffee
+guitar used by man
+Man standing on the sidewalk instrument guitar
+guitar use playing
+guitar use playing
+guitar used by man
+mouse part of computer screen
+computer part of computer
+computer subclass of working
+red vest subclass of computer
+computer part of computer
+incense has part smoke
+praying part of temple
+Smoke Pit product or material produced smoke
+fire has effect warm
+smoke-pot product or material produced smoke
+button-down subclass of shirt
+tie subclass of shirt
+mirror part of hotel room
+mirror use tie
+tie part of mirror
+guitar use musician
+Music used by listener
+musicians field of this occupation performing
+band has part audience
+string quartet uses audience
+cart has part horse
+horse-drawn wagon subclass of wagon
+horse drawn cart subclass of cart
+car has part horse
+cart has part horse
+construction site location street
+purse has part high heels
+cheetah dress depicts blond
+construction zone depicts woman in a dress
+heels use walking
+counter part of convenience store
+counter part of convenience store
+counter part of convenience store
+clerk part of convenience store
+shop use purchase
+automobile has part gravel
+jeans has part sunglasses
+tractor product or material produced sand
+backhoe product or material produced dirt
+backhoe use hauling
+toys used by baby
+toy use infant
+toy used by baby
+toys used by baby
+black and white depicts cat
+guitar use walking
+Woman wearing maroon sweater uses guitar
+guitar used by girl
+guitar used by girl
+guitar use walking
+orange bag subclass of backpack
+backpack use walking
+backpack subclass of bag
+man uses sidewalk
+backpack use walking
+Red scarf subclass of souvenir
+sunglasses subclass of cellphone
+Rome country Italy
+dive shop subclass of tourists
+Friends has part Two friends
+pregnant location belly
+kitchen part of home
+black shirt depicts woman
+Something in her mouth depicts woman in black
+kitchen occupant girl
+Women's Liberation Movement inception 1989
+table subclass of sit
+Patio subclass of patio
+coffee table subclass of group of people
+patio subclass of outdoor
+bicycle subclass of aerial stunt
+half pipe sport bike tricks
+trick uses bike
+BMX sport biker
+bike used by man
+tank top part of woman
+Sunset subclass of sunset
+Blond subclass of hair
+white subclass of luxury car
+tattoo facet of woman
+pink instance of outfit
+pick subclass of sweaters
+New York City contains administrative territorial entity Manhattan
+Walking uses sidewalk
+London capital of England
+graduation gown has part lapel
+nail polish subclass of makeup
+flower necklace facet of graduating from college
+graduation ceremony subclass of ceremony
+Woman in black graduation gown depicts red flower
+skateboarding uses shorts
+skateboard subclass of wheels
+skateboard subclass of riding
+skateboarding uses sidewalk
+skateboard used by kid
+9-11 instance of inside job
+9-11 instance of conspiracy theories
+9-11 instance of conspiracy theory
+black leather subclass of coat
+Man standing by 9-11 poster depicts 9-11 poster
+singing uses microphone
+Man in a brown shirt spouse woman in a white tank top
+male opposite of female
+outdoor venue subclass of stage
+black opposite of white
+dandelion subclass of pinwheel
+flower has part stem
+dandelion subclass of grass
+dandelion subclass of stem
+dandelion part of field
+coach field of this occupation soccer
+soccer uses shorts
+stretching sport soccer
+green uniforms sport soccer
+green subclass of shorts
+crime scene tape used by man
+yellow caution tape use public
+woman opposite of man
+dance has part choreographer
+man spouse woman
+birds location outdoor area
+pigeons use chores
+bald man residence monastery
+green followed by yellow
+cleaning out facet of temple
+pitch subclass of grass
+stadium uses black balls
+field uses Ball
+balls part of field
+Old people sport bocce ball
+homeless subclass of possessions
+Travelers item operated luggage
+umbrella part of crowd of people
+jeans has part umbrella
+city court applies to jurisdiction citizens
+cigarette use smoking
+cigarette has part mouth
+cigarette uses cigarette
+hotdog subclass of man
+grilling uses wife beater
+male opposite of female
+World Heritage Site maintained by UNESCO
+A group of people depicts lake
+Ten people swimming in calm water number of participants ten
+2000 Summer Olympics point in time 2000
+mannequin part of suitcase
+bench part of city square
+mannequin subclass of headless
+Resting subclass of working
+headless subclass of mannequin
+construction practiced by workers
+hard hats used by men
+workmen removing debris location hole in the ground
+Bucket part of hole
+hard hats use dig a hole
+horizon part of sky
+shorts subclass of shirtless
+shorts subclass of shirtless
+bathing suit location beach
+shorts has part man
+police has part policeman
+uniform used by officer
+Man in uniform depicts uniform
+guard subclass of guard
+Men in uniform location street
+pool practiced by player
+overshirt followed by pants
+pool stick part of pool table
+pool uses shot
+pool number of participants three
+fountain located in the administrative territorial entity city
+sculpture uses water
+water fountain part of city skyline
+park located in the administrative territorial entity city
+fountain used by pedestrian
+Brad Pitt spouse Lady Gaga
+woman opposite of man
+Man spouse woman
+plaid subclass of shirt
+guy spouse girl
+National Historic Landmark maintained by Smithsonian Institution
+John F. Kennedy School of Government part of Harvard University
+shorts different from flip-flops
+A group of people linger depicts road
+mother nature subclass of Tourists
+Millenium Park located in the administrative territorial entity Chicago
+sculpture subclass of sculpture
+Two men standing in front of the bean narrative location Chicago
+Two men in robes location large structure
+Two monks are visiting a big city narrative location big city
+woman opposite of man
+bow part of boat
+Lost Something main subject lost
+John F. Kennedy School of Government part of Harvard University
+Blond subclass of woman
+messenger bag location street corner
+man spouse woman
+man spouse woman
+man spouse woman
+crosswalk located in the administrative territorial entity nyc.
+helmet used by firefighter
+Three firefighters enraged after a prank call instance of prank call
+station part of subway
+firemen field of this occupation fire
+Firemen location subway station
+head covering part of religion
+blue followed by olive green
+cross legged subclass of smiling
+Middle East continent Africa
+synagogue subclass of church
+People's Republic of China capital Beijing
+historic-looking building subclass of building
+picnic table subclass of table
+benches subclass of sitting
+table use sitting
+32 De Neude instance of restaurant
+t-shirt followed by jeans
+sidewalk subclass of street corner
+storefront subclass of picture
+red shirt depicts man
+magnifying lens part of safety glasses
+surgeon field of this occupation surgical procedure
+operation practiced by doctor
+surgery practiced by Doctors
+operation practiced by doctor
+baseball cap located in the administrative territorial entity NY
+cigarette used by cigarette
+cigarette has part ball cap
+tank-top has part baseball cap
+Man smoking uses camera
+guitar subclass of instruments
+guitar case used by musician
+street quartet subclass of musical
+violin case part of violin
+instruments use playing
+red suit has part red skirt
+Red suit depicts man
+dance practiced by woman
+dance location street
+Red subclass of dancing
+bridge crosses water
+moon part of night sky
+statue of a man depicts river
+lights part of city
+bridge crosses moon
+motocross uses motorcycle
+race participant biker
+motorcycle uses motorcycle jump
+motorcycle use driver
+BMX sport racer
+De Koninck instance of umbrella
+groups of people subclass of conversations
+De Koninck genre T-shirts
+outdoor subclass of social event
+2004 Summer Olympics point in time 2004
+Red has part white
+banners part of sidewalk
+John F. Kennedy School of Government part of Harvard University
+building has part sidewalk
+running along side location building
+rock has part face
+cliff has part face
+steep subclass of mountain
+climbing location cliff
+2 men going up a mountainside number of participants 2
+harness use baby girl
+Harnessed subclass of child
+stroller used by child
+having a meltdown facet of child
+harness used by child
+leather jacket subclass of jacket
+man spouse woman
+table use eating
+greyhound subclass of dog
+man spouse woman
+fish market subclass of shops
+John F. Kennedy School of Government part of Harvard University
+fish market part of outdoor
+jacket has part hat
+market subclass of shopping
+amp connects with guitar
+grunge uses electric guitar
+electric guitar instance of stage
+guitar used by band
+guitar used by guitarists
+beer part of bottle
+beer used by man
+beer part of mouth
+beer different from cup
+beer subclass of drinking
+climbing structure subclass of inflatable
+inflatable subclass of obstacle course
+inflated subclass of machine
+bomb subclass of toy
+climbing wall subclass of inflatable
+cyclist uses bike
+bike part of traffic
+bike path facet of bicycle
+bicycle subclass of traffic
+riding over a bridge sport Bicyclers
+pink subclass of hat
+pink shit subclass of gray hat
+Pink shirt main subject pink
+London capital of England
+pink subclass of shirt
+Red shirt depicts woman
+Red shirt depicts woman
+raised subclass of stressed
+Woman in red depicts celebration parade
+mass of people part of street
+pong uses shorts
+jumping location natural pond
+jumping uses body of water
+shorts subclass of shirtless
+lake inflows river
+tourist telescope location beach
+Looking through a telescope narrative location beach
+Cape Town country South Africa
+telescope use serene setting
+binoculars use looking
+ditch part of ground
+safety vest use construction worker
+reflective vest location hole in the ground
+reflective vest ethnic group black
+working in the ground facet of dirt
+Feelings instance of sign
+hood part of building
+street part of road
+light facet of cross the street
+crossing the street participant man
+I Love NY instance of t-shirt
+I<3NY instance of picket signs
+protests participant PM
+picketing facet of Construction workers
+street part of street
+chestnut horse subclass of horse
+cowboy uses horse
+horse use running
+free horse subclass of horseback
+Cowboys uses horse
+red shirt has part jeans
+stray dog location street
+African American subclass of American
+black has part red
+red subclass of shirt
+nuns uses paper
+Two nuns occupation nun
+Two nuns are posing for a picture instance of picture
+John XXIII position held Pope
+Two nuns occupation nuns
+headphones use coffee
+notebook use writing
+coffee shop use listening to music
+purple headphones used by Girl listening to purple headphones
+neon subclass of headphones
+Brown-haired girl uses cellphone
+tank top subclass of woman
+cellphone use talking
+cellphone use talking
+cellphone use talking
+swaddling cloth use infant
+sling use carries
+African child subclass of child
+girl child boy
+boy sibling brother
+paneling subclass of wood
+shop country Japan
+sign part of storefront
+chair use sitting
+Asian restaurant subclass of sit in
+bandanna subclass of dress shirt
+bandanna has part purple
+purple head covering has part purple shirt
+bandanna used by person
+street vendor continent Asia
+iPhone operating system Android
+red shirt subclass of pants
+squat part of street
+Woman with red shirt instance of purse
+purse used by teen
+soccer uses ball
+soccer ball sport running
+black subclass of dog
+black dog opposite of brown dog
+black and a yellow dog subclass of dog
+air force country British
+model airplane subclass of model airplane
+model airplane used by man
+remote controlled airplane owned by man
+toy airplane owned by man
+model plane subclass of men
+model airplane subclass of airplane
+flying in the air subclass of plane
+field item operated airplane
+Something in the sky depicts man
+subway has part People waiting for a subway train
+suit has part tie
+platform part of mass transit
+tunnel part of train
+subway subclass of train
+veterans country American
+american flag applies to jurisdiction suburbs
+flag applies to jurisdiction American
+flag applies to jurisdiction American
+flag applies to jurisdiction American
+dog uses mouth
+Black dog instance of dog
+toy used by dog
+toy used by dog
+toy used by dog
+airport item operated luggage
+short-sleeve subclass of shirt
+currency exchange country Oriental
+John F. Kennedy School of Government part of Harvard University
+Man in black shirt instance of luggage
+ball used by dog
+persue uses ball
+dog uses ball
+fetch uses ball
+yellow dog uses ball
+elementary school subclass of children
+Lady in a blue dress depicts lady in a blue dress
+John F. Kennedy School of Government part of Harvard University
+sit and listen subclass of speaker
+teacher field of this occupation kids
+signs facet of traffic
+arrow part of road signs
+motorbikes subclass of riding
+Scooters subclass of scooters
+Road construction subclass of arrows
+John F. Kennedy School of Government part of Harvard University
+bike has part dock
+boardwalk uses bicycle
+deck part of sea
+bike used by man
+children's train operator train conductor
+Pullman instance of vehicle
+Pullman train subclass of mini
+Man child son
+miniature train subclass of people on a miniature train
+sunglasses subclass of sunglasses
+throwing ring subclass of sculpture
+statue depicts man
+sculpture uses metal
+guy spouse girl
+sail part of boat
+Almería country Venezuela
+pier subclass of boat
+fishing subclass of group
+dock part of boat
+picture depicts urban street
+bus different from taxi
+black hat subclass of photo
+man with a hat instance of photo
+photographing tall buildings subclass of tourist
+plaid subclass of shirt
+Looking the other way depicts man
+London capital of England
+Man with plaid shirt depicts plaid shirt
+blue plaid subclass of shirt
+hijab subclass of garment
+woman uses purse
+wall part of road
+woman child girl
+footpath subclass of walking
+Waiting at a train station facet of train station
+band uses instruments
+drum subclass of tuba
+People playing instruments location train station
+band uses platform
+dirt bike sport dirt biker
+motocross uses bike
+dirt biker has part another
+rider uses dirt bike
+dirt bike sport lifting a dirt bike
+jeans different from shorts
+trail part of mountain
+trail use hiking
+backpacks use hiking
+trail use hikers
+mobile phone has part earbuds
+Asian subclass of black clothing
+earphones part of ear
+John F. Kennedy School of Government part of Harvard University
+stop part of train
+graffiti subclass of Graffiti
+graffiti part of street
+graffiti part of wall
+graffiti part of brick wall
+graffiti part of brick wall
+leotard sport gymnast
+twirling part of gymnastic
+ribbon routine sport rhythmic gymnast
+Twirling Ribbon depicts uniform
+Rhythmic gymnasts subclass of competitive olympics
+water fountain location triumphal arch
+fountain use cooling off
+fountain used by children
+Blue shorts subclass of shorts
+fountain use sitting around
+Sitting on a bench depicts man
+chair part of house
+bench part of park
+bench part of tree
+Sitting by the sidewalk depicts man
+flag depicts flag
+red has part white
+Red striped shirts subclass of flag
+flag depicts striped shirts
+flag depicts striped shirts
+collage subclass of decoration
+painting subclass of art
+An Asian couple depicts memorial
+Asia subclass of art
+admiring facet of art
+shopping center subclass of people walking
+lanterns subclass of paper
+shopping center use walking
+John F. Kennedy School of Government part of Harvard University
+mall subclass of walking around
+white shirt followed by blue shorts
+wooden stairs part of hill
+wooden subclass of stairs
+steps part of mountain
+wooden subclass of stairs
+Blue outfit depicts child
+field uses ball
+blue has part red
+red ball sport toddler
+Little Boy uses ball
+Green subclass of sweatshirt
+pokemon balls part of pokemon
+purchase location store
+toy used by children
+grocery store use shopping
+drumstick part of drum
+drum owned by man with a hat
+drum subclass of man
+drum subclass of man
+drum used by elderly man
+Beijing country China
+faces part of camera
+joking subclass of group
+Asian subclass of people
+boy opposite of girl
+Backpack subclass of backpack
+Backpack subclass of backpack
+male opposite of female
+fighting pose depicts Asian man
+John F. Kennedy School of Government part of Harvard University
+blue subclass of handrail
+Green Bridge instance of bridge
+fence part of forest
+George Orwell notable work Nineteen Eighty-Four
+William Shakespeare notable work Cymbeline
+beach subclass of lounges
+two piece subclass of swimsuit
+bikini use sunbathes
+beach uses swimsuit
+sunbathes location sea
+blue subclass of blue eyes
+adult Australian Shepherd animal breed Australian Shepherd
+black and white dog subclass of dog
+puppy subclass of dog
+outside subclass of dog
+kitchen use eating
+bistro subclass of food lovers
+John F. Kennedy School of Government part of Harvard University
+outside part of building
+cafe use Pedestrians walk by
+repent facet of sin
+sign used by man
+African American facet of unlawful sex
+Man standing by a poster instance of poster
+religious freedom instance of freedom
+police officer item operated motorcycle
+motorcycle used by Police
+motorcycle cop uses motorcycle
+bike used by policeman
+motorcycle used by Police
+table subclass of sitting
+sitting opposite of standing
+table part of night
+table part of group
+game country of origin Asian men
+London capital of England
+John F. Kennedy School of Government part of Harvard University
+semi-formal subclass of attire
+Kraków country Poland
+George Orwell notable work Nineteen Eighty-Four
+Stroller use walking
+stroller use baby
+walking dog subclass of walking
+dog use walking
+stroller use walking
+headband part of headband
+headband instance of Young man
+headband part of headband
+headband subclass of hat
+headband part of headband
+motorcyclists uses cycle
+motorcycle used by motorcyclists
+motorcycle part of street
+motorcyclist uses motorcycle
+motorcycle use riders
+military uniform used by soldiers
+army personnel item operated uniform
+military uniform has part men
+soldiers subclass of soldiers
+army uniform subclass of uniform
+peace sign instance of fingers
+peace sign has part two fingers
+lady with the red-hair instance of peace gesture
+Three girls instance of picture
+Three girls uses camera
+restaurant product or material produced furniture
+George Orwell notable work Nineteen Eighty-Four
+women opposite of men
+William Shakespeare notable work Cymbeline
+wooden bench subclass of bench
+water fountain depicts woman
+water fountain use drinking
+water fountain depicts woman
+water fountain used by boy
+fountain use drinking
+t-shirt subclass of shirt
+film has part camera
+girl opposite of guy
+women opposite of men
+women opposite of men
+polo shirt has part blue
+polo subclass of shirt
+child subclass of infant
+infant opposite of older male
+father spouse mother
+participant tag subclass of tag
+red hat depicts boy
+Little boy in a red hat depicts horse
+horse use child
+red hat depicts horse
+yo-yo uses yo-yo
+yo-yo used by yo-yo
+Two boys location sidewalk
+yo-yo use playing
+toys use playing with
+beach part of lake
+beach sport swimming
+swimsuit use beach
+Little Girl on the beach uses shovel
+beach has part sand
+George Orwell notable work Nineteen Eighty-Four
+red couch occupant man
+coat has part hat
+red couch occupant elderly man
+sleeping subclass of sitting
+Jogging pants subclass of pants
+Santa Monica located in the administrative territorial entity California
+long-sleeve subclass of shirt
+George Orwell notable work Nineteen Eighty-Four
+waving subclass of arms
+Man in a red hat spouse woman in a black dress
+sunglasses subclass of hat
+men opposite of women
+romantic subclass of couple
+man spouse woman
+field trip facet of school children
+tie subclass of shirt
+uniforms facet of students
+peace-sign applies to jurisdiction asian
+peace sign depicts girl
+Gleati Tabacchi instance of Bar
+Gelati Tabacchi instance of Bar
+outdoor table part of coffee shop
+Bar Gelati Tabacchi located in the administrative territorial entity Tabacchi
+Three men sit outside instance of cafe
+boy opposite of girl
+hanging upside down depicts man
+sweatbands part of shirt
+black shirt has part red wristbands
+upside down part of air
+mural subclass of art
+mural depicts brick road
+wall part of street
+mural part of wall
+A Man is walking depicts wall
+redheaded subclass of men
+young man different from young man
+Looking back opposite of Looking directly ahead
+blue subclass of jacket
+jackets facet of young people
+Oriental instance of style
+pole part of roof
+Long stick instance of stick
+cafe subclass of patio
+craftsperson product or material produced metal objects
+Mary Shelley notable work Frankenstein
+Toulouse country France
+graffiti facet of buildings
+p subclass of blouse
+graffiti subclass of climbing
+Market Street instance of street
+red pant suit has part white hat
+vegetable part of market
+market part of public
+market product or material produced fruit
+McDonald's product or material produced table and chairs
+McDonalds product or material produced lunch
+table use eating
+McDonalds product or material produced lunch
+table use eating
+Shave Head subclass of shave
+jean subclass of skirt
+The Girl with a shaved head narrative location sidewalk
+denim subclass of jacket
+Girl with shaved head instance of shaved head
+vehicle has part wheel
+four wheeled subclass of vehicle
+motorized car part of street
+street cart part of traffic
+bike basket part of bike
+newspaper stand product or material produced newspaper
+newspaper subclass of paper
+newsstand product or material produced paper
+newspaper stand product or material produced newspaper
+Man in a teal shirt instance of newspaper
+stroller use toddler
+book upside down depicts little boy
+Korean language ethnic group boy
+Stroller subclass of stroller
+book subclass of picture
+boy sibling girl
+small cup use drinking
+ice cream subclass of children
+treat used by children
+table use eating
+bike helmet part of bike
+bicycle has part helmet
+bicycle part of street
+bike part of street
+bicycle used by bicycle
+loudspeaker part of street
+blow horn use speaking
+loudspeaker use loudspeaker
+Crowds of people uses bicycle
+Whole Foods owner of City Picnic
+George Orwell notable work Nineteen Eighty-Four
+platform has part wheel
+cart item operated mule
+cart has part donkey
+being pulled uses donkey
+bicycle use riding
+bike used by man
+pedals part of bicycle
+bike use riding
+bike used by man
+cigarette use smoking
+cigarette use smoking
+cigarette has part head shaved
+cigarette use smoking
+smoking uses sitting down
+graffiti uses brick wall
+graffiti location brick wall
+graffiti part of wall
+umbrella subclass of suits
+umbrella part of street
+bike part of street
+bicycle part of street
+Honda product or material produced SUV
+bicycle use riding
+Old man riding a bike instance of street
+rope a bull use rodeo
+roping part of rodeo
+rope used by bull
+cowboy uses horse
+horse used by cow
+lasso used by cowboy
+lasso used by cowboy
+cowboy uses horse
+lasso used by cowboy
+lasso used by Cowboy
+backpack used by Bicyclers
+helmet used by bicyclist
+bike part of mountain range
+field country country
+bicycle use riding
+black pants followed by white shirt
+George Orwell notable work Nineteen Eighty-Four
+shopping bag used by man
+grocery store product or material produced groceries
+John F. Kennedy School of Government part of Harvard University
+black pants has part jacket
+scooter subclass of man
+scooter subclass of electric
+George Orwell notable work Nineteen Eighty-Four
+motor cart use park
+tattoo location right arm
+cellphone subclass of digital camera
+Taking a photo instance of photo
+photograph depicts clothing
+digital camera use picture
+Street subclass of street
+t-shirt followed by jeans
+black shirt has part jeans
+John F. Kennedy School of Government part of Harvard University
+John F. Kennedy School of Government part of Harvard University
+2012 Summer Olympics point in time 2012
+boy sibling girl
+map part of traffic circle
+concrete subclass of paper
+map depicts couple
+medical students uses scrubs
+blue shits number of participants Eight
+black blouse subclass of skirt
+women opposite of men
+hospital country Asian
+beach part of ocean
+bench part of beach
+bench part of beach
+A Woman in a swimsuit depicts bench
+beach part of ocean
+Victorian subclass of building
+Walking on dirt subclass of walking
+John F. Kennedy School of Government part of Harvard University
+Two women instance of walking
+historic site use Tourists
+construction practiced by workers
+parade subclass of march
+safety harness subclass of hard hats
+John F. Kennedy School of Government part of Harvard University
+child opposite of adults
+sandwich board subclass of menu items
+black boots has part black jacket
+black pants has part black jacket
+black bag named after all black
+all black facet of woman
+card game uses table
+table use conversation
+George Orwell notable work Nineteen Eighty-Four
+table part of group
+Seniors instance of table
+mural subclass of painted
+Brick City instance of Graffiti on a wall
+graffiti part of brick wall
+mural subclass of brick wall
+mural part of building
+wire basket has part wire
+gloves part of food stall
+gloves part of basket
+apron part of dark-haired man
+bowl part of apron
+Blond subclass of hair
+Google Earth part of Earth
+computer use work
+laptop subclass of computer
+John F. Kennedy School of Government part of Harvard University
+computer part of internet
+computer different from desk
+desktop computer subclass of computer
+desktop used by man
+computer use surveillance
+guitar used by man
+guitar used by old man
+guitar used by elderly man
+chair used by man
+guitar use playing
+field use crop
+man spouse woman
+rice part of paddy
+pruning part of gardeners
+green field instance of workers
+2010 point in time 2010
+2010 Barcelona point in time 2010
+Olympic meet sport high jump
+high bar located in the administrative territorial entity Barcelona
+vaulting subclass of midair
+cowboy hat subclass of boots
+bucking uses horse
+horse used by man
+bucking horse used by cowboy
+rearing horse uses arena
+corn on the cob subclass of street eating
+corn on the cob location sidewalk
+corn on the cob part of curb
+corn subclass of food
+corn on the cob has part sweet
+football field sport football
+tackled sport football
+tackled sport football
+East Lake sport football
+number 25 ranking 25
+girl subclass of girl
+child opposite of older man
+woman child child
+child mother old woman
+smiling baby opposite of smiling adult
+blue shirt followed by tan colored shirt
+glasses subclass of camera
+television has part camera
+opposite direction part of room
+computer has part Looking at a computer
+T-shirt has part tarp
+tree subclass of plant
+tree subclass of sand
+tree product or material produced vegetable
+boy spouse woman
+baseball cap sport baseball
+telescope use looking
+telescope has part blue cap
+telescope use looking
+telescope used by child
+kitchen has part stove
+white man opposite of black man
+kitchen has part stove
+food used by Man
+cooking uses kitchen
+snowsuit sport skiing
+ski gear uses snow
+ski hill uses skis
+snowsuit subclass of skis
+Little girl in pink sport skiing
+dancing has part clapping
+clapping subclass of dancing
+dancing practiced by Black women
+dance practiced by women
+dance has part Spectators
+hooded sweatshirt subclass of clothing
+gloves use laundry
+gloves use laundry
+Man spouse woman
+laundry practiced by people
+wooden chair subclass of chair
+pink subclass of clothes
+chair use sitting
+wooden chair depicts girl
+chair used by girl
+flashlight use inspect
+welding product or material produced metal
+weld product or material produced fence
+tool part of fence
+sidewalk part of street
+nosegrind sport skateboarder
+rails sport skateboarding
+rail midair uses skateboard
+skateboard use tricks
+rails sport skateboarding
+overcoat subclass of protective
+snow has part slush
+Two workers and clearing a busy street of snow main subject snow
+sidewalk part of city
+ice part of walkway
+guitar has part microphone
+guitar subclass of musical instrument
+electric guitar subclass of guitar
+guitar used by guy
+guitar used by man
+disposable subclass of camera
+disposable camera subclass of camera
+coats has part hats
+disposable subclass of camera
+girl different from girl
+pier located in or next to body of water water
+pier located in or next to body of water lake
+dock product or material produced water
+dock part of lake
+dock part of lake
+glasses part of eyes
+Green mask used by dentist
+dental work subclass of prepped
+dental procedure subclass of done
+glasses use dental procedure
+snowboarder uses snow gear
+mountain part of mountain
+snow subclass of air
+jump sport snowboarder
+snowboarding uses orange jacket
+mud puddle subclass of playing
+mud use playing
+mud subclass of puddle
+mud subclass of puddle
+Naked Little Girl narrative location mud puddle
+graffiti uses picture
+graffiti subclass of spray painted
+peace sign instance of sign
+graffiti subclass of street
+graffiti location alleyway
+jump sport gymnast
+gymnastics competition sport gymnastics
+gymnast uses audience
+en event sport gymnast
+gymnast has part jump
+ice cream subclass of vendor
+T-shirt has part man
+motorcycle subclass of man
+street vendor field of this occupation street
+street part of business
+mule uses blanket
+traditional dress subclass of attire
+his donkey owned by man
+alley named after mule
+Older man owner of donkey
+bicycle used by child
+bicycle used by child
+bike part of road
+bicycle used by children
+bicycle used by children
+ball sport soccer
+field sport soccer
+soccer ball sport soccer
+referee sport soccer
+soccer practiced by players
+George Orwell notable work Nineteen Eighty-Four
+poses practiced by photographer
+picture practiced by photographer
+poses practiced by photographer
+posing uses camera
+water fountain use drink
+water fountain use drink
+drinking fountain use drinking
+water fountain instance of fountain
+water fountain use drinking
+helmet part of man
+helmet part of man
+Mountain climber safely lands in the water sport Mountain climber
+water part of trek
+helmet use treads water
+microscope has part lenses
+scientist uses laboratory
+lab coat has part microscope
+scientist uses lab
+lab coat has part microscope
+pillow part of head
+blanket subclass of pillow
+sleeping uses couch
+sleeping by the couch depicts child
+girl has part blond
+T-shirt color red
+sidewalk part of building
+sidewalk part of urban area
+shopkeeper item operated store
+Red shirt depicts man
+bowls subclass of pot
+batter part of restaurant
+William Shakespeare notable work Cymbeline
+cooking location kitchen
+cooking location kitchen
+scaffolding part of building
+scaffold part of house
+framing product or material produced building
+roof work part of construction worker
+tool depicts smiling
+green followed by yellow
+swimmers uses pool
+Wading subclass of water
+holding hands location pool
+holding hands location beach
+red dress followed by pink shirt
+children has part girl
+Asian country Japan
+having a good time subclass of playing
+paper used by children
+bicycle subclass of dirt path
+bike used by children
+bicycle use dirt trail
+children ride bikes country impoverished nation
+trial uses bicycle
+hotdog part of kitchen
+apron part of kitchen
+butter knife use cutting meat
+apron part of kitchen
+apron used by chef
+clown subclass of old man
+A garishly dressed man depicts children
+clown field of this occupation performance
+petting uses animal
+clown location elementary school
+captain item operated uniform
+wheel part of ship
+ship wheel part of nautical gear
+steering part of boat
+boat captain field of this occupation steering
+construction vehicle product or material produced dirt
+Man in a black shirt uses bulldozer
+man uses bulldozer
+bulldozer use move dirt
+wheel loader product or material produced dirt
+saddle part of horse
+horse use galloping
+horse use riding
+horse subclass of grass
+white horse has part red shirt
+tank top subclass of jeans
+boulder subclass of rock
+Manaus country Indonesia
+sunglasses use photo
+The Legend of Sleepy Hollow author William Shakespeare
+orannge sport karate
+wigs subclass of costumes
+musical instruments subclass of costumes
+blue instance of colors
+The Great Gatsby cast member David Bowie
+bathing suit part of pool
+inflatable use swimming pool
+Blow up pool main subject little girl
+inflatable pool used by girl
+pool used by girl
+swing on the swings part of playground
+boy sibling girl
+swing set use swinging
+swing set subclass of swing
+boy sibling girl
+net part of dock
+pier use fisherman
+net part of boat
+net use fishing
+cast net depicts silhouette
+rails part of railroad track
+safety vest subclass of vest
+hard hat subclass of vest
+yellow vest used by worker
+vest used by man
+hard hats field of work construction
+sheet metal has part beams
+construction practiced by workmen
+hard hats use building
+beams part of structure
+stage use performing
+Tonight's show point in time Tonight
+rock subclass of concert hall
+band members part of band
+stage part of concert venue
+voicing uses microphone
+safety pen subclass of tattoo
+mohawk instance of tattoo
+drums subclass of microphone
+Punk rocker has part drums
+t-shirt subclass of shirt
+shopping cart use checked out
+cart part of grocery store
+supermarket product or material produced groceries
+Stonewall Inn significant event Stonewall riots
+cowboy hat has part suspenders
+cane use walking
+cowboy hat has part suspenders
+Amish instance of country
+George Orwell notable work Nineteen Eighty-Four
+exercise equipment use exercising
+elliptical machine subclass of works out
+Stair Climber uses Stair Climber
+fitness machine subclass of machine
+elliptical machine subclass of exercises
+mask used by Little girl
+A bald man in a black shirt depicts girl sitting on his shoulders
+mask used by girl
+man child girl
+bald man child daughter
+ballet subclass of dance
+Babys instance of balls
+ballerina said to be the same as babys
+ballet technique practiced by dancer
+dance has part choreographer
+white wave subclass of blue
+kimono subclass of sandals
+Oriental part of Asia
+performing a dance location building
+dancing location building
+cellphone use talking
+cellphone use talking
+cellphone use talking
+Chinese country Taiwan
+Talking uses cellphone
+teacher field of this occupation preschool
+puppet uses puppets
+monkey subclass of finger puppets
+finger puppets instance of costume
+finger puppet subclass of show
+drums subclass of instruments
+street musicians has part percussion
+Kraków country Poland
+drums subclass of paint buckets
+two guys sport buckets
+knee pads part of rollerblades
+rollerblades uses pads
+rollerblades subclass of safety gear
+pads use rollerblading
+safety gear use rollerblading
+train car part of track
+Stop different from stop
+train uses tracks
+train tracks part of train
+train connects with tracks
+t-shirt subclass of shirt
+jamming out subclass of rock concert
+rockers uses stage
+guitar use rock
+Two blond men instance of stage
+forest has part stream
+rock part of river
+rock part of river
+rock part of river
+John F. Kennedy School of Government part of Harvard University
+guitar use playing
+guitar use playing
+guitarist uses stage
+guitar use playing
+concert has part band
+wall backing part of courtyard
+John F. Kennedy School of Government part of Harvard University
+kissing participant couple
+dancing part of company
+dancing subclass of group
+miniature doll subclass of craft items
+John F. Kennedy School of Government part of Harvard University
+George Orwell notable work Nineteen Eighty-Four
+sells goods part of market
+Woman in white dress location stairs
+Important political man in gray suit opposite of man in darker green suit
+professional subclass of dressed
+men opposite of woman
+men opposite of woman
+Talking to each other facet of Politicians
+motorcycle has part red shirt
+motorcycle has part red
+motorcycle use riders
+motorcycle subclass of men
+black has part red
+soccer uses ball
+number 3 sport soccer
+number 3 sport soccer
+soccer uses soccer ball
+soccer uses ball
+stadium subclass of arena
+snacks subclass of food
+baseball uses cap
+sports game participant man
+selling snacks facet of sporting event
+rugby uses ball
+field subclass of grass
+scrum sport rugby
+sports has part playing
+2 teams sport football
+soccer uses grass field
+red team sport soccer
+soccer uses ball
+soccer ball sport Kids
+soccer practiced by children
+bowling alley uses lane
+bowling alley uses ball
+bowling ball used by woman
+bowling lane uses bowling ball
+bowling alley sport bowling
+uniforms sport Soccer
+soccer ball sport soccer
+ball sport Soccer
+field sport football
+Three boys sport soccer
+skateboard uses stairs
+Young man uses skateboard
+skateboard uses stairs
+boy uses escalator
+Boy uses skateboard
+runner participant in competition
+marathon uses spandex shorts
+lady dressed in blue sports discipline competed in marathon
+running has part shorts
+Kim sport Runner
+music books use singing
+church has part audience
+Choir uses stage
+choir subclass of singing
+choir field of work singing
+Texas A&M football sport football
+football game uses football
+Iowa State sport football
+Texas A&M sport football
+Iowa State ranking 8
+curling rock sport curling
+curling uses ice
+hockey uses court
+sweepers sport curling
+Two men are learning to how to play curling sport curling
+soccer uses soccer ball
+Man wearing teal jersey sport soccer
+soccer practiced by players
+muddy conditions sport soccer
+muddy field sport soccer
+Penn State sport basketball
+Lafayette sport basketball
+squats sport basketball
+Penn State sport basketball
+playing a game sport college basketball
+archway part of street
+bridge part of street
+women has part children
+arch part of city
+women opposite of men
+racetrack subclass of race cars
+2000 point in time 2000
+track sport racing
+Formula-1 subclass of racing
+race cars has part spectators
+throw the ball sport football
+quarterback sport football
+throw sport football
+football player uses football
+football practiced by football player
+chewing uses teeth
+biting uses object
+popsicle stick use chewing
+popsicle stick uses mouth
+popsicle subclass of summer time treat
+mother child child
+Mom child child
+woman child child
+woman child child
+woman child child
+hockey uses goal
+game sport hockey
+goal sport hockey
+ice rink sport hockey
+Hockey uses team
+bouncing balls subclass of racing
+rubber balls use bouncing
+exercise balls part of field
+balls part of grass
+race location park
+tennis country of origin African-American
+net sport tennis
+tennis uses court
+running sport tennis
+A young black boy sport tennis
+man spouse woman
+man spouse woman
+Old Man with glasses spouse Young Woman
+Man spouse Woman
+Young lady opposite of old man
+magical subclass of play
+probing device subclass of device
+Merrell product or material produced shoes
+Street magician subclass of act
+presentation facet of magic
+bed setting facet of tired
+child mother mother
+long-sleeve subclass of shirt
+Green shirt depicts boy
+display bed part of store
+bicycle used by man
+stops to rest sport cyclist
+bike ride subclass of cyclist
+bicycle used by man
+bike use riding
+hoodie subclass of coat
+skiing uses hill
+ski pole sport skier
+warm clothing use skying
+skiing has part extremely cold weather
+L'avaro country Italy
+electronics subclass of project
+crafts practiced by lady
+crafts subclass of activity
+table part of table
+buckling facet of horse
+horse use rodeo
+bucking bronco part of rodeo
+stripes has part black
+rodeo uses horse
+bar code use location
+image subclass of scanning
+Man with a beard spouse lady
+photograph uses smartphone
+drinking has effect having a good time
+head part of head
+Red-hair subclass of lady
+lake part of river
+blue water subclass of cloudy
+Teen female sport swimming
+black lab subclass of puppy
+Little boys animal breed black
+family picture subclass of picture
+polo uses polo
+black subclass of puppy
+martial arts subclass of moves
+teachers field of this occupation karate
+2008 Summer Olympics point in time 2008
+karate sport karate
+instructor field of this occupation karate
+tired facet of work
+couch subclass of furniture
+sectional subclass of sofa
+red sofa subclass of furniture
+Ikea product or material produced couch
+lady in a gray sweater instance of conversation
+table part of classroom
+John F. Kennedy School of Government part of Harvard University
+table part of group
+groups has part students
+horse racing practiced by jockey
+white horse opposite of brown horse
+jockey field of this occupation racetrack
+jockey field of this occupation race
+jockey field of this occupation horses
+racing car uses racetrack
+Le Mans country France
+Hatchback subclass of red car
+red sport race car
+red car opposite of two cars
+rodeo clown field of this occupation rodeo
+rope used by bull
+being attacked main subject bucking bull
+hit by a bull facet of bull
+Wins opposite of losses
+swimming trunks part of canoe
+swimming trunks subclass of kayak
+kayak uses bathing suit
+kayak depicts shirtless man
+Man prepares to take a kayak ride uses kayak
+shooting range uses targets
+shooting range uses gun
+gun range subclass of aims and shoots
+gun has effect target
+shooting range sport shooting
+stands use spectators
+football in the sand sport football
+sand subclass of game
+rugby practiced by men
+Young men sport football
+muscle shirt subclass of shirt
+child in blue opposite of child in white
+wall location marshy
+Lake Winnipeg located in the administrative territorial entity Manitoba
+Two kids location pond
+Woman with yellow button up shirt and jeans field of work pottery
+clay part of vase
+turntable part of vase
+flower part of vase
+clay pot use drawing
+market subclass of street
+street subclass of walking
+alley part of day
+market country country
+hot summer day instance of African marketplace
+pitcher sport baseball
+pitcher sport baseball
+pitcher uses pitch
+pitching sport baseball player
+pitch sport baseball
+beach volleyball uses shorts
+beach volleyball sport men
+beach sport volleyball
+volleyball uses beach
+beach sport volleyball
+fishing nets use fishing
+fishing net use fisherman
+net use fisherman
+fishing net part of boat
+netting part of boat
+surfboard sport surfer
+surfboard sport surfer
+surfboard has part feet
+surfboard uses wave
+foot part of feet
+blue latex subclass of gloves
+rubber gloves has part syringe
+syringe use compressed
+syringe use filling
+lab practiced by technician
+soccer uses ball
+ball sport football
+colliding has effect jumping
+Soccer uses ball
+header sport football
+field sport soccer
+soccer uses ball
+soccer uses ball
+soccer ball use passing
+against each other sport soccer
+plaid subclass of beige
+crossing part of street
+crosswalk part of street
+crossing subclass of intersection
+Old lady crossing street uses umbrella
+marathon has part marathon
+running outfits use running
+Manhattan located in the administrative territorial entity New York City
+marathon subclass of running
+marathon location city
+skate park sport skateboarder
+trick sport skateboarder
+skate park sport skateboarding
+skateboarding uses long hair
+skateboarding practiced by male
+water soccer uses soccer ball
+Vally-ball sport water
+pool sport swimming
+water sport uses water
+pool subclass of game
+kissing uses ear
+kissing participant man
+kiss on the cheek participant man
+kiss participant guy
+kissing participant gay men
+autograph different from asking for his autograph
+Man with glasses field of work writing
+convention uses autograph
+autograph subclass of sign
+father child son
+skateboard uses railing
+grinds uses skateboard
+grinds uses skateboard
+skateboarding practiced by man
+Man, skateboarding sport skateboarding
+railroad tracks used by man
+railroad track subclass of picture
+snack food subclass of eaten
+peanuts indigenous to Asian
+train tracks use selling food
+military uniform country British
+British instance of flag
+red subclass of uniform
+George Orwell notable work Nineteen Eighty-Four
+military man country British
+Indy car has part blue
+race cars uses racetrack
+racetrack uses cars
+racing uses cars
+racetrack uses cars
+preparing to race subclass of racing
+ski pole use taking off
+ski handles part of uniform
+jump part of skier
+ski pole sport athlete
+black shirt opposite of red shirt
+kissing in the grass location park
+kissing subclass of laying down
+boy sibling girl
+boy opposite of girl
+baseball cap has part denim
+hat used by infant
+bib subclass of hat
+playpen use toddler
+boy uses apple
+football practiced by player
+pass participant quarterback
+celebrating sport Football
+running sport football
+mid play sport football
+electric guitar used by guitarists
+guitar stand part of electric guitar
+electric guitar used by guitar player
+bass subclass of guitar
+guitar use rock
+bull rider field of this occupation jumping the fence
+bull location arena
+bull-fighting uses bull
+barrier facet of bull
+jumping away depicts bull
+tennis uses braided hair
+tennis uses blue shirt
+tennis uses ball
+tennis uses ball
+tennis uses ball
+white shirt followed by black pants
+cello subclass of men
+orchestra has part upright bass
+concert base subclass of instruments
+interment subclass of concert
+blue jeans color blue
+lumberyard product or material produced beams
+Kraków country Poland
+Supply Yard depicts man
+lumberyard product or material produced steel
+music facet of music
+dog uses Frisbee
+Frisbee uses camera
+Woman with camera uses Frisbee
+Frisbee used by dog
+bonfire has effect burning
+fire location building
+burned down instance of structure
+male opposite of female
+silhouette depicts woman
+fountain uses coins
+fountain uses water
+change subclass of water
+wishing fountain part of mall
+fountain use dip
+boy has part long hair
+playing in water subclass of child
+shirt part of arms
+Long Hair depicts boy
+play in water depicts child
+black belt sport martial artist
+judo practiced by judo player
+white opposite of blue
+wrestling practiced by men
+wrestling subclass of competitively
+volleyball uses palm of her hand
+beach sport volleyball
+beach volleyball subclass of serving motion
+beach volleyball uses ball
+beach sport volleyball
+bitten location nose
+biting location nose
+Orange striped kitten biting blond girl on the nose instance of biting
+biting participant child
+cat subclass of human
+pot has part lid
+apron part of pot
+margarine use cooking
+pot use cooking
+Lady in a red shirt field of work cooking
+bridge has part stone
+bridge crosses stream
+bridge crosses creek
+bridge crosses brook
+mud subclass of rock
+blue jeans subclass of pants
+moped use moped
+motorcycle subclass of motorcycles
+scooter has parts of the class helmet
+Two women riding on a vespa instance of vespa
+fountain drink part of convenience store
+cups part of drink machine
+drink part of store
+soda machine product or material produced soda
+slushies has part slushies
+helmet part of mountain bike
+mountain bike subclass of Bicycle
+bike used by rider
+mountain bike uses mountain
+bike uses tilt
+painting uses phone
+picture uses smartphone
+body art subclass of art
+tattoo subclass of picture
+Girl with tattoos field of work painting
+cyclist uses pedals
+helmet part of bike
+bicycle shorts part of bicycle
+helmet part of bike
+cycling jersey part of bicycle
+bicycle race subclass of cyclist
+pedal use cyclist
+race participant bicyclists
+cyclist opposite of spectators
+bicycle use riding
+tackling sport football
+tackling sport football
+tackle sport Football
+tackled sport football
+Young men sport football
+tackle sport football
+tackle sport football
+tackling sport American football
+tackler opposite of runner
+tackled uses ball carrier
+shot sport basketball
+guarding sport basketball
+high pass sport basketball
+block sport basketball
+block sport basketball
+cigarette uses cigarette
+Man on cellphone subclass of cellphone
+cellphone use talking
+cellphone use talking
+smoke break subclass of chat
+baseball practiced by keeper
+sideline sport baseball
+at bat sport baseball
+baseball uses plate
+player uses ball
+helmet part of mountain bike
+dirt biker uses helmet
+trail part of woods
+fall location forest
+dirt biker uses trail
+layup subclass of shot
+ball sport basketball
+score sport basketball
+basketball uses basket
+white jersey sport basketball
+trampoline sport jumping
+trampoline sport jumping
+jumping uses foot
+boy uses air
+jump uses leg
+play set used by children
+black pants subclass of slide
+dirt top subclass of playground
+playground use playing
+park use play
+awning part of awning
+scooter subclass of riding
+scooter has part sunglasses
+scooter used by boy
+sunglasses used by man
+t-ball sport baseball
+bat sport baseball
+bat uses ball
+tee subclass of ball
+tee sport baseball
+wooded area subclass of earth
+workers sitting in a field subclass of break from work
+George Orwell notable work Nineteen Eighty-Four
+wooden crates use crops
+Pickers instance of farm
+dog has part ears
+twig part of stone
+chewing on a stick used by puppy
+chewing on a stick used by puppy
+stick used by puppy
+Bud Light instance of sign
+12 instance of number
+stadium use outdoor
+number 12 subclass of shirt
+horse use reign
+roasted meat subclass of cooking
+roast duck subclass of business owner
+apron subclass of shirt
+apron use cooking
+preparing a meal practiced by chef
+wok subclass of utensil
+apron use preparing food
+apron use cooks
+wok use cook
+cooking location kitchen
+Marathon subclass of racing
+athletic shorts sport runners
+sprint subclass of Runners
+race participant girl
+Runners participant in race
+bicycle use bicycle
+traditional hat indigenous to asian
+sunhat use riding a bike
+bike use riding
+bike country of origin Asian
+tree subclass of dirt
+children field of this occupation playing
+child field of this occupation play
+John F. Kennedy School of Government part of Harvard University
+his friend by the tree depicts child
+slot machine use gambling
+slot machine use casino
+arcade game subclass of video
+game location casino
+slots part of casino
+floatation device use safety
+beach has part water
+beach part of distance
+Little girl uses arm floaties
+child playing in the ocean subclass of child
