@@ -52,7 +52,7 @@ data
 │   │      ├── train_caps_coco_subjects_triples.txt
 │   │      ├── train_caps_coco_relations_triples.txt
 │   │      ├── train_caps_coco_objects_triples.txt
-│   │      ├── ......
+│   │      ├──......
 │   
 ├── f30k
 │   ├── precomp  # pre-computed BUTD region features for Flickr30K, provided by SCAN
