@@ -108,4 +108,12 @@ python eval.py  --dataname coco --data_path "path/to/dataname"
 ```
 
 ##  Citation
-
+@article{li2025progressive,
+  title={Progressive semantic aggregation and structured cognitive enhancement for image--text matching},
+  author={Li, Mingyong and Gao, Yihua and Zhao, Honggang and Li, Ruiheng and Chen, Junyu},
+  journal={Expert Systems with Applications},
+  volume={274},
+  pages={126943},
+  year={2025},
+  publisher={Elsevier}
+}
