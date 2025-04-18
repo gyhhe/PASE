@@ -35,7 +35,7 @@ We recommended the following dependencies.
 - transformers  4.36.0
 - numpy 1.23.5
 - nltk 3.7
-- The specific required environment can be found [here](https://github.com/Image-Text-Matching/AAHR/blob/main/requirements.txt)
+- The specific required environment can be found [here](https://github.com/gyhhe/PASE/blob/main/requirements.txt)
 
 
 ### Data
