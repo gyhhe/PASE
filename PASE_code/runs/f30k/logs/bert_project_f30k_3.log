@@ -1,0 +1,339 @@
+2024-06-17 12:31:25,158 - logger - INFO - Using txt-enc:"bert" and img-enc:"project" for image-text retrieval in dataset:"f30k"
+2024-06-17 12:31:25,188 - logger - INFO - Parameters list: Namespace(log_name='bert_project_f30k_3', data_path='D:/study/study_dataset/vse_infty-master/data', data_name='f30k', vocab_path='./data/vocab/', log_path='./runs/', precomp_enc_type='basic', input_scale_factor=1, epochs=28, batch_size=128, device=device(type='cuda'), margin=0.2, raw_feature_norm='clipped_l2norm', grad_clip=2.0, num_workers=0, lr_update=15, log_step=200, tau=0.05, warmup_epochs=1, learning_rate=0.0005, loss_type='acc', txt_enc_type='bert', bert_type='./bert-base-uncased', vocab_size=30522, word_dim=300, emb_size=1024, embed_size=512, num_layers=1, no_txtnorm=False, use_bigru=False, img_enc_type='project', vit_type='google/vit-base-patch16-224', img_dim=2048, no_imgnorm=False, acc_type='acc', const_num=3, scale=1.25, embedding_warmup_epochs=1, backbone_lr_factor=0.01, backbone_weights_path='./data/weights/original_updown_backbone.pth', cross_warmup=8000, dropout=0.2, kernel_size=2)
+2024-06-17 12:31:33,617 - logger - INFO - The iterator number of train/valid/test is 1132/40/40.
+2024-06-17 12:31:36,074 - logger - INFO - Epoch: 0
+2024-06-17 12:38:43,026 - logger - INFO - Step: 200/1132 | Loss: 112.79 | Time: 7m 6s | Step_Negs: 1.00
+2024-06-17 12:46:55,477 - logger - INFO - Step: 400/1132 | Loss: 107.94 | Time: 15m 19s | Step_Negs: 1.00
+2024-06-17 12:55:39,913 - logger - INFO - Step: 600/1132 | Loss: 105.58 | Time: 24m 3s | Step_Negs: 1.00
+2024-06-17 13:03:51,431 - logger - INFO - Step: 800/1132 | Loss: 102.25 | Time: 32m 15s | Step_Negs: 1.00
+2024-06-17 13:11:32,293 - logger - INFO - Step: 1000/1132 | Loss: 98.62 | Time: 39m 56s | Step_Negs: 1.00
+2024-06-17 13:17:12,419 - logger - INFO - Train_Loss: 96.351 | Train_time: 45m 36s | Epoch_Negs: 1.00
+2024-06-17 13:18:00,760 - logger - INFO - Val_Rsum: 459.06 | Val_Time: 0m 48s
+2024-06-17 13:18:00,760 - logger - INFO - Text-Image Retrieval | R1:47.20, R5:76.02, R10:84.84
+2024-06-17 13:18:00,760 - logger - INFO - Image-Text Retrieval | R1:67.80, R5:88.60, R10:94.60
+2024-06-17 13:18:02,338 - logger - INFO - 
+
+2024-06-17 13:18:02,338 - logger - INFO - Epoch: 1
+2024-06-17 13:26:21,196 - logger - INFO - Step: 200/1132 | Loss: 73.91 | Time: 8m 18s | Step_Negs: 1.00
+2024-06-17 13:34:13,803 - logger - INFO - Step: 400/1132 | Loss: 72.57 | Time: 16m 11s | Step_Negs: 1.00
+2024-06-17 13:42:38,014 - logger - INFO - Step: 600/1132 | Loss: 71.44 | Time: 24m 35s | Step_Negs: 1.00
+2024-06-17 13:51:05,554 - logger - INFO - Step: 800/1132 | Loss: 70.15 | Time: 33m 3s | Step_Negs: 1.00
+2024-06-17 13:58:58,223 - logger - INFO - Step: 1000/1132 | Loss: 69.15 | Time: 40m 55s | Step_Negs: 1.00
+2024-06-17 14:04:04,572 - logger - INFO - Train_Loss: 68.606 | Train_time: 46m 2s | Epoch_Negs: 1.00
+2024-06-17 14:04:50,155 - logger - INFO - Val_Rsum: 490.60 | Val_Time: 0m 45s
+2024-06-17 14:04:50,155 - logger - INFO - Text-Image Retrieval | R1:54.36, R5:81.48, R10:89.06
+2024-06-17 14:04:50,155 - logger - INFO - Image-Text Retrieval | R1:75.40, R5:93.00, R10:97.30
+2024-06-17 14:04:52,958 - logger - INFO - 
+
+2024-06-17 14:04:52,961 - logger - INFO - Epoch: 2
+2024-06-17 14:12:19,770 - logger - INFO - Step: 200/1132 | Loss: 60.20 | Time: 7m 26s | Step_Negs: 1.00
+2024-06-17 14:20:18,555 - logger - INFO - Step: 400/1132 | Loss: 60.19 | Time: 15m 25s | Step_Negs: 1.00
+2024-06-17 14:28:30,047 - logger - INFO - Step: 600/1132 | Loss: 59.90 | Time: 23m 37s | Step_Negs: 1.00
+2024-06-17 14:36:08,100 - logger - INFO - Step: 800/1132 | Loss: 59.43 | Time: 31m 15s | Step_Negs: 1.00
+2024-06-17 14:44:21,480 - logger - INFO - Step: 1000/1132 | Loss: 59.17 | Time: 39m 28s | Step_Negs: 1.00
+2024-06-17 14:49:24,600 - logger - INFO - Train_Loss: 58.853 | Train_time: 44m 31s | Epoch_Negs: 1.00
+2024-06-17 14:50:10,211 - logger - INFO - Val_Rsum: 502.00 | Val_Time: 0m 45s
+2024-06-17 14:50:10,211 - logger - INFO - Text-Image Retrieval | R1:56.68, R5:83.92, R10:90.20
+2024-06-17 14:50:10,211 - logger - INFO - Image-Text Retrieval | R1:78.70, R5:94.90, R10:97.60
+2024-06-17 14:50:11,599 - logger - INFO - 
+
+2024-06-17 14:50:11,599 - logger - INFO - Epoch: 3
+2024-06-17 14:57:56,626 - logger - INFO - Step: 200/1132 | Loss: 54.52 | Time: 7m 45s | Step_Negs: 1.00
+2024-06-17 15:05:51,388 - logger - INFO - Step: 400/1132 | Loss: 53.88 | Time: 15m 39s | Step_Negs: 1.00
+2024-06-17 15:13:53,216 - logger - INFO - Step: 600/1132 | Loss: 53.81 | Time: 23m 41s | Step_Negs: 1.00
+2024-06-17 15:21:44,032 - logger - INFO - Step: 800/1132 | Loss: 53.35 | Time: 31m 32s | Step_Negs: 1.00
+2024-06-17 15:29:30,884 - logger - INFO - Step: 1000/1132 | Loss: 53.28 | Time: 39m 19s | Step_Negs: 1.00
+2024-06-17 15:35:28,190 - logger - INFO - Train_Loss: 53.081 | Train_time: 45m 16s | Epoch_Negs: 1.00
+2024-06-17 15:36:16,239 - logger - INFO - Val_Rsum: 506.98 | Val_Time: 0m 48s
+2024-06-17 15:36:16,240 - logger - INFO - Text-Image Retrieval | R1:58.90, R5:84.54, R10:90.74
+2024-06-17 15:36:16,240 - logger - INFO - Image-Text Retrieval | R1:79.50, R5:95.20, R10:98.10
+2024-06-17 15:36:17,605 - logger - INFO - 
+
+2024-06-17 15:36:17,605 - logger - INFO - Epoch: 4
+2024-06-17 15:44:48,727 - logger - INFO - Step: 200/1132 | Loss: 49.05 | Time: 8m 31s | Step_Negs: 1.00
+2024-06-17 15:53:25,706 - logger - INFO - Step: 400/1132 | Loss: 48.96 | Time: 17m 8s | Step_Negs: 1.00
+2024-06-17 16:01:05,017 - logger - INFO - Step: 600/1132 | Loss: 49.01 | Time: 24m 47s | Step_Negs: 1.00
+2024-06-17 16:08:48,600 - logger - INFO - Step: 800/1132 | Loss: 49.00 | Time: 32m 30s | Step_Negs: 1.00
+2024-06-17 16:16:54,614 - logger - INFO - Step: 1000/1132 | Loss: 48.94 | Time: 40m 37s | Step_Negs: 1.00
+2024-06-17 16:22:38,847 - logger - INFO - Train_Loss: 48.874 | Train_time: 46m 21s | Epoch_Negs: 1.00
+2024-06-17 16:23:26,051 - logger - INFO - Val_Rsum: 510.86 | Val_Time: 0m 47s
+2024-06-17 16:23:26,051 - logger - INFO - Text-Image Retrieval | R1:60.12, R5:85.54, R10:91.40
+2024-06-17 16:23:26,051 - logger - INFO - Image-Text Retrieval | R1:80.30, R5:95.50, R10:98.00
+2024-06-17 16:23:28,448 - logger - INFO - 
+
+2024-06-17 16:23:28,448 - logger - INFO - Epoch: 5
+2024-06-17 16:31:59,701 - logger - INFO - Step: 200/1132 | Loss: 45.56 | Time: 8m 31s | Step_Negs: 1.00
+2024-06-17 16:39:52,328 - logger - INFO - Step: 400/1132 | Loss: 45.23 | Time: 16m 23s | Step_Negs: 1.00
+2024-06-17 16:48:09,047 - logger - INFO - Step: 600/1132 | Loss: 45.52 | Time: 24m 40s | Step_Negs: 1.00
+2024-06-17 16:56:31,923 - logger - INFO - Step: 800/1132 | Loss: 45.66 | Time: 33m 3s | Step_Negs: 1.00
+2024-06-17 17:04:57,944 - logger - INFO - Step: 1000/1132 | Loss: 45.75 | Time: 41m 29s | Step_Negs: 1.00
+2024-06-17 17:09:48,820 - logger - INFO - Train_Loss: 45.720 | Train_time: 46m 20s | Epoch_Negs: 1.00
+2024-06-17 17:10:35,068 - logger - INFO - Val_Rsum: 511.48 | Val_Time: 0m 46s
+2024-06-17 17:10:35,068 - logger - INFO - Text-Image Retrieval | R1:61.24, R5:85.46, R10:91.58
+2024-06-17 17:10:35,068 - logger - INFO - Image-Text Retrieval | R1:80.40, R5:95.10, R10:97.70
+2024-06-17 17:10:43,810 - logger - INFO - 
+
+2024-06-17 17:10:43,811 - logger - INFO - Epoch: 6
+2024-06-17 17:18:33,186 - logger - INFO - Step: 200/1132 | Loss: 42.13 | Time: 7m 49s | Step_Negs: 1.00
+2024-06-17 17:26:51,845 - logger - INFO - Step: 400/1132 | Loss: 42.30 | Time: 16m 8s | Step_Negs: 1.00
+2024-06-17 17:34:33,799 - logger - INFO - Step: 600/1132 | Loss: 42.56 | Time: 23m 49s | Step_Negs: 1.00
+2024-06-17 17:42:47,896 - logger - INFO - Step: 800/1132 | Loss: 42.64 | Time: 32m 4s | Step_Negs: 1.00
+2024-06-17 17:50:22,267 - logger - INFO - Step: 1000/1132 | Loss: 42.69 | Time: 39m 38s | Step_Negs: 1.00
+2024-06-17 17:55:34,213 - logger - INFO - Train_Loss: 42.684 | Train_time: 44m 50s | Epoch_Negs: 1.00
+2024-06-17 17:56:20,223 - logger - INFO - Val_Rsum: 516.84 | Val_Time: 0m 46s
+2024-06-17 17:56:20,223 - logger - INFO - Text-Image Retrieval | R1:61.54, R5:86.30, R10:92.20
+2024-06-17 17:56:20,223 - logger - INFO - Image-Text Retrieval | R1:82.50, R5:95.80, R10:98.50
+2024-06-17 17:56:21,572 - logger - INFO - 
+
+2024-06-17 17:56:21,573 - logger - INFO - Epoch: 7
+2024-06-17 18:04:00,296 - logger - INFO - Step: 200/1132 | Loss: 62.38 | Time: 7m 38s | Step_Negs: 1.00
+2024-06-17 18:12:09,613 - logger - INFO - Step: 400/1132 | Loss: 69.50 | Time: 15m 48s | Step_Negs: 1.00
+2024-06-17 18:20:03,682 - logger - INFO - Step: 600/1132 | Loss: 72.04 | Time: 23m 42s | Step_Negs: 1.00
+2024-06-17 18:28:14,410 - logger - INFO - Step: 800/1132 | Loss: 73.16 | Time: 31m 52s | Step_Negs: 1.00
+2024-06-17 18:35:50,913 - logger - INFO - Step: 1000/1132 | Loss: 73.62 | Time: 39m 29s | Step_Negs: 1.00
+2024-06-17 18:40:56,236 - logger - INFO - Train_Loss: 73.940 | Train_time: 44m 34s | Epoch_Negs: 1.00
+2024-06-17 18:41:42,134 - logger - INFO - Val_Rsum: 517.72 | Val_Time: 0m 45s
+2024-06-17 18:41:42,134 - logger - INFO - Text-Image Retrieval | R1:62.28, R5:86.16, R10:91.88
+2024-06-17 18:41:42,134 - logger - INFO - Image-Text Retrieval | R1:83.50, R5:96.00, R10:97.90
+2024-06-17 18:41:43,518 - logger - INFO - 
+
+2024-06-17 18:41:43,518 - logger - INFO - Epoch: 8
+2024-06-17 18:49:45,157 - logger - INFO - Step: 200/1132 | Loss: 69.65 | Time: 8m 1s | Step_Negs: 1.00
+2024-06-17 18:57:09,196 - logger - INFO - Step: 400/1132 | Loss: 69.48 | Time: 15m 25s | Step_Negs: 1.00
+2024-06-17 19:05:14,966 - logger - INFO - Step: 600/1132 | Loss: 69.38 | Time: 23m 31s | Step_Negs: 1.00
+2024-06-17 19:13:01,655 - logger - INFO - Step: 800/1132 | Loss: 69.45 | Time: 31m 18s | Step_Negs: 1.00
+2024-06-17 19:21:16,505 - logger - INFO - Step: 1000/1132 | Loss: 69.37 | Time: 39m 32s | Step_Negs: 1.00
+2024-06-17 19:26:28,258 - logger - INFO - Train_Loss: 69.516 | Train_time: 44m 44s | Epoch_Negs: 1.00
+2024-06-17 19:27:13,861 - logger - INFO - Val_Rsum: 518.50 | Val_Time: 0m 45s
+2024-06-17 19:27:13,861 - logger - INFO - Text-Image Retrieval | R1:63.18, R5:86.50, R10:92.22
+2024-06-17 19:27:13,861 - logger - INFO - Image-Text Retrieval | R1:82.90, R5:95.60, R10:98.10
+2024-06-17 19:27:15,285 - logger - INFO - 
+
+2024-06-17 19:27:15,285 - logger - INFO - Epoch: 9
+2024-06-17 19:34:59,569 - logger - INFO - Step: 200/1132 | Loss: 64.15 | Time: 7m 44s | Step_Negs: 1.00
+2024-06-17 19:42:24,005 - logger - INFO - Step: 400/1132 | Loss: 65.01 | Time: 15m 8s | Step_Negs: 1.00
+2024-06-17 19:50:16,335 - logger - INFO - Step: 600/1132 | Loss: 65.00 | Time: 23m 1s | Step_Negs: 1.00
+2024-06-17 19:58:50,319 - logger - INFO - Step: 800/1132 | Loss: 65.34 | Time: 31m 35s | Step_Negs: 1.00
+2024-06-17 20:06:51,262 - logger - INFO - Step: 1000/1132 | Loss: 65.71 | Time: 39m 35s | Step_Negs: 1.00
+2024-06-17 20:12:01,550 - logger - INFO - Train_Loss: 65.638 | Train_time: 44m 46s | Epoch_Negs: 1.00
+2024-06-17 20:12:47,459 - logger - INFO - Val_Rsum: 518.12 | Val_Time: 0m 45s
+2024-06-17 20:12:47,459 - logger - INFO - Text-Image Retrieval | R1:63.08, R5:86.98, R10:92.16
+2024-06-17 20:12:47,459 - logger - INFO - Image-Text Retrieval | R1:82.20, R5:95.50, R10:98.20
+2024-06-17 20:12:47,576 - logger - INFO - 
+
+2024-06-17 20:12:47,577 - logger - INFO - Epoch: 10
+2024-06-17 20:20:35,295 - logger - INFO - Step: 200/1132 | Loss: 60.52 | Time: 7m 47s | Step_Negs: 1.00
+2024-06-17 20:28:27,177 - logger - INFO - Step: 400/1132 | Loss: 61.24 | Time: 15m 39s | Step_Negs: 1.00
+2024-06-17 20:36:17,187 - logger - INFO - Step: 600/1132 | Loss: 61.85 | Time: 23m 29s | Step_Negs: 1.00
+2024-06-17 20:44:14,703 - logger - INFO - Step: 800/1132 | Loss: 62.19 | Time: 31m 27s | Step_Negs: 1.00
+2024-06-17 20:52:05,778 - logger - INFO - Step: 1000/1132 | Loss: 62.27 | Time: 39m 18s | Step_Negs: 1.00
+2024-06-17 20:57:18,717 - logger - INFO - Train_Loss: 62.490 | Train_time: 44m 31s | Epoch_Negs: 1.00
+2024-06-17 20:58:05,237 - logger - INFO - Val_Rsum: 521.24 | Val_Time: 0m 46s
+2024-06-17 20:58:05,237 - logger - INFO - Text-Image Retrieval | R1:63.56, R5:87.24, R10:92.74
+2024-06-17 20:58:05,237 - logger - INFO - Image-Text Retrieval | R1:83.30, R5:96.30, R10:98.10
+2024-06-17 20:58:06,598 - logger - INFO - 
+
+2024-06-17 20:58:06,599 - logger - INFO - Epoch: 11
+2024-06-17 21:06:08,077 - logger - INFO - Step: 200/1132 | Loss: 57.81 | Time: 8m 1s | Step_Negs: 1.00
+2024-06-17 21:14:21,402 - logger - INFO - Step: 400/1132 | Loss: 58.49 | Time: 16m 14s | Step_Negs: 1.00
+2024-06-17 21:22:40,714 - logger - INFO - Step: 600/1132 | Loss: 58.71 | Time: 24m 34s | Step_Negs: 1.00
+2024-06-17 21:30:53,439 - logger - INFO - Step: 800/1132 | Loss: 58.93 | Time: 32m 46s | Step_Negs: 1.00
+2024-06-17 21:39:02,328 - logger - INFO - Step: 1000/1132 | Loss: 59.16 | Time: 40m 55s | Step_Negs: 1.00
+2024-06-17 21:44:45,686 - logger - INFO - Train_Loss: 59.303 | Train_time: 46m 39s | Epoch_Negs: 1.00
+2024-06-17 21:45:33,000 - logger - INFO - Val_Rsum: 519.14 | Val_Time: 0m 47s
+2024-06-17 21:45:33,000 - logger - INFO - Text-Image Retrieval | R1:62.80, R5:87.28, R10:92.46
+2024-06-17 21:45:33,000 - logger - INFO - Image-Text Retrieval | R1:82.80, R5:95.60, R10:98.20
+2024-06-17 21:45:33,124 - logger - INFO - 
+
+2024-06-17 21:45:33,125 - logger - INFO - Epoch: 12
+2024-06-17 21:54:05,936 - logger - INFO - Step: 200/1132 | Loss: 55.70 | Time: 8m 32s | Step_Negs: 1.00
+2024-06-17 22:02:35,896 - logger - INFO - Step: 400/1132 | Loss: 55.87 | Time: 17m 2s | Step_Negs: 1.00
+2024-06-17 22:10:27,996 - logger - INFO - Step: 600/1132 | Loss: 56.06 | Time: 24m 54s | Step_Negs: 1.00
+2024-06-17 22:18:42,591 - logger - INFO - Step: 800/1132 | Loss: 56.03 | Time: 33m 9s | Step_Negs: 1.00
+2024-06-17 22:26:38,198 - logger - INFO - Step: 1000/1132 | Loss: 56.46 | Time: 41m 5s | Step_Negs: 1.00
+2024-06-17 22:32:03,566 - logger - INFO - Train_Loss: 56.532 | Train_time: 46m 30s | Epoch_Negs: 1.00
+2024-06-17 22:32:50,862 - logger - INFO - Val_Rsum: 517.84 | Val_Time: 0m 47s
+2024-06-17 22:32:50,862 - logger - INFO - Text-Image Retrieval | R1:62.80, R5:86.86, R10:92.28
+2024-06-17 22:32:50,862 - logger - INFO - Image-Text Retrieval | R1:82.40, R5:95.30, R10:98.20
+2024-06-17 22:32:51,000 - logger - INFO - 
+
+2024-06-17 22:32:51,001 - logger - INFO - Epoch: 13
+2024-06-17 22:41:21,309 - logger - INFO - Step: 200/1132 | Loss: 53.35 | Time: 8m 30s | Step_Negs: 1.00
+2024-06-17 22:49:55,660 - logger - INFO - Step: 400/1132 | Loss: 53.56 | Time: 17m 4s | Step_Negs: 1.00
+2024-06-17 22:57:57,910 - logger - INFO - Step: 600/1132 | Loss: 53.83 | Time: 25m 6s | Step_Negs: 1.00
+2024-06-17 23:06:02,049 - logger - INFO - Step: 800/1132 | Loss: 54.19 | Time: 33m 11s | Step_Negs: 1.00
+2024-06-17 23:13:48,430 - logger - INFO - Step: 1000/1132 | Loss: 54.43 | Time: 40m 57s | Step_Negs: 1.00
+2024-06-17 23:19:05,155 - logger - INFO - Train_Loss: 54.581 | Train_time: 46m 14s | Epoch_Negs: 1.00
+2024-06-17 23:19:54,469 - logger - INFO - Val_Rsum: 518.38 | Val_Time: 0m 49s
+2024-06-17 23:19:54,473 - logger - INFO - Text-Image Retrieval | R1:62.68, R5:87.04, R10:92.56
+2024-06-17 23:19:54,473 - logger - INFO - Image-Text Retrieval | R1:82.10, R5:95.70, R10:98.30
+2024-06-17 23:19:54,593 - logger - INFO - 
+
+2024-06-17 23:19:54,598 - logger - INFO - Epoch: 14
+2024-06-17 23:28:36,307 - logger - INFO - Step: 200/1132 | Loss: 49.93 | Time: 8m 41s | Step_Negs: 1.00
+2024-06-17 23:36:43,058 - logger - INFO - Step: 400/1132 | Loss: 50.57 | Time: 16m 48s | Step_Negs: 1.00
+2024-06-17 23:44:38,661 - logger - INFO - Step: 600/1132 | Loss: 51.10 | Time: 24m 44s | Step_Negs: 1.00
+2024-06-17 23:52:06,886 - logger - INFO - Step: 800/1132 | Loss: 51.49 | Time: 32m 12s | Step_Negs: 1.00
+2024-06-18 00:03:41,946 - logger - INFO - Step: 1000/1132 | Loss: 51.90 | Time: 43m 47s | Step_Negs: 1.00
+2024-06-18 00:12:07,047 - logger - INFO - Train_Loss: 51.959 | Train_time: 52m 12s | Epoch_Negs: 1.00
+2024-06-18 00:13:14,758 - logger - INFO - Val_Rsum: 519.10 | Val_Time: 1m 7s
+2024-06-18 00:13:14,758 - logger - INFO - Text-Image Retrieval | R1:62.30, R5:86.90, R10:91.90
+2024-06-18 00:13:14,758 - logger - INFO - Image-Text Retrieval | R1:83.00, R5:96.50, R10:98.50
+2024-06-18 00:13:14,794 - logger - INFO - 
+
+2024-06-18 00:13:14,799 - logger - INFO - Epoch: 15
+2024-06-18 00:25:01,271 - logger - INFO - Step: 200/1132 | Loss: 48.07 | Time: 11m 46s | Step_Negs: 1.00
+2024-06-18 00:36:55,541 - logger - INFO - Step: 400/1132 | Loss: 46.85 | Time: 23m 40s | Step_Negs: 1.00
+2024-06-18 00:49:45,843 - logger - INFO - Step: 600/1132 | Loss: 45.89 | Time: 36m 31s | Step_Negs: 1.00
+2024-06-18 01:01:33,296 - logger - INFO - Step: 800/1132 | Loss: 45.56 | Time: 48m 18s | Step_Negs: 1.00
+2024-06-18 01:15:03,512 - logger - INFO - Step: 1000/1132 | Loss: 45.02 | Time: 61m 48s | Step_Negs: 1.00
+2024-06-18 01:26:14,521 - logger - INFO - Train_Loss: 44.859 | Train_time: 72m 59s | Epoch_Negs: 1.00
+2024-06-18 01:27:32,460 - logger - INFO - Val_Rsum: 524.32 | Val_Time: 1m 17s
+2024-06-18 01:27:32,460 - logger - INFO - Text-Image Retrieval | R1:63.58, R5:87.84, R10:92.60
+2024-06-18 01:27:32,460 - logger - INFO - Image-Text Retrieval | R1:85.10, R5:96.50, R10:98.70
+2024-06-18 01:27:33,778 - logger - INFO - 
+
+2024-06-18 01:27:33,779 - logger - INFO - Epoch: 16
+2024-06-18 01:43:24,090 - logger - INFO - Step: 200/1132 | Loss: 42.73 | Time: 15m 50s | Step_Negs: 1.00
+2024-06-18 02:00:36,799 - logger - INFO - Step: 400/1132 | Loss: 42.83 | Time: 33m 3s | Step_Negs: 1.00
+2024-06-18 02:17:28,948 - logger - INFO - Step: 600/1132 | Loss: 42.63 | Time: 49m 55s | Step_Negs: 1.00
+2024-06-18 02:34:31,648 - logger - INFO - Step: 800/1132 | Loss: 42.84 | Time: 66m 57s | Step_Negs: 1.00
+2024-06-18 02:51:07,948 - logger - INFO - Step: 1000/1132 | Loss: 42.88 | Time: 83m 34s | Step_Negs: 1.00
+2024-06-18 03:01:45,709 - logger - INFO - Train_Loss: 42.888 | Train_time: 94m 11s | Epoch_Negs: 1.00
+2024-06-18 03:03:03,644 - logger - INFO - Val_Rsum: 524.80 | Val_Time: 1m 17s
+2024-06-18 03:03:03,644 - logger - INFO - Text-Image Retrieval | R1:63.74, R5:87.86, R10:92.60
+2024-06-18 03:03:03,644 - logger - INFO - Image-Text Retrieval | R1:85.80, R5:96.10, R10:98.70
+2024-06-18 03:03:04,965 - logger - INFO - 
+
+2024-06-18 03:03:04,965 - logger - INFO - Epoch: 17
+2024-06-18 03:19:44,664 - logger - INFO - Step: 200/1132 | Loss: 42.25 | Time: 16m 39s | Step_Negs: 1.00
+2024-06-18 03:36:31,362 - logger - INFO - Step: 400/1132 | Loss: 42.14 | Time: 33m 26s | Step_Negs: 1.00
+2024-06-18 03:53:58,402 - logger - INFO - Step: 600/1132 | Loss: 42.55 | Time: 50m 53s | Step_Negs: 1.00
+2024-06-18 04:11:02,408 - logger - INFO - Step: 800/1132 | Loss: 42.44 | Time: 67m 57s | Step_Negs: 1.00
+2024-06-18 04:27:12,247 - logger - INFO - Step: 1000/1132 | Loss: 42.36 | Time: 84m 7s | Step_Negs: 1.00
+2024-06-18 04:37:52,570 - logger - INFO - Train_Loss: 42.461 | Train_time: 94m 47s | Epoch_Negs: 1.00
+2024-06-18 04:39:10,485 - logger - INFO - Val_Rsum: 524.96 | Val_Time: 1m 17s
+2024-06-18 04:39:10,486 - logger - INFO - Text-Image Retrieval | R1:63.70, R5:87.88, R10:92.58
+2024-06-18 04:39:10,486 - logger - INFO - Image-Text Retrieval | R1:85.80, R5:96.20, R10:98.80
+2024-06-18 04:39:11,813 - logger - INFO - 
+
+2024-06-18 04:39:11,814 - logger - INFO - Epoch: 18
+2024-06-18 04:55:56,368 - logger - INFO - Step: 200/1132 | Loss: 41.43 | Time: 16m 44s | Step_Negs: 1.00
+2024-06-18 05:12:05,950 - logger - INFO - Step: 400/1132 | Loss: 41.88 | Time: 32m 54s | Step_Negs: 1.00
+2024-06-18 05:29:35,241 - logger - INFO - Step: 600/1132 | Loss: 41.92 | Time: 50m 23s | Step_Negs: 1.00
+2024-06-18 05:46:51,777 - logger - INFO - Step: 800/1132 | Loss: 41.77 | Time: 67m 39s | Step_Negs: 1.00
+2024-06-18 06:03:18,903 - logger - INFO - Step: 1000/1132 | Loss: 41.98 | Time: 84m 7s | Step_Negs: 1.00
+2024-06-18 06:13:44,336 - logger - INFO - Train_Loss: 42.119 | Train_time: 94m 32s | Epoch_Negs: 1.00
+2024-06-18 06:15:02,218 - logger - INFO - Val_Rsum: 525.12 | Val_Time: 1m 17s
+2024-06-18 06:15:02,218 - logger - INFO - Text-Image Retrieval | R1:63.76, R5:87.86, R10:92.60
+2024-06-18 06:15:02,218 - logger - INFO - Image-Text Retrieval | R1:85.80, R5:96.30, R10:98.80
+2024-06-18 06:15:03,531 - logger - INFO - 
+
+2024-06-18 06:15:03,531 - logger - INFO - Epoch: 19
+2024-06-18 06:31:37,413 - logger - INFO - Step: 200/1132 | Loss: 42.34 | Time: 16m 33s | Step_Negs: 1.00
+2024-06-18 06:48:07,408 - logger - INFO - Step: 400/1132 | Loss: 42.05 | Time: 33m 3s | Step_Negs: 1.00
+2024-06-18 07:04:24,095 - logger - INFO - Step: 600/1132 | Loss: 42.27 | Time: 49m 20s | Step_Negs: 1.00
+2024-06-18 07:20:53,296 - logger - INFO - Step: 800/1132 | Loss: 42.01 | Time: 65m 49s | Step_Negs: 1.00
+2024-06-18 07:37:31,938 - logger - INFO - Step: 1000/1132 | Loss: 42.08 | Time: 82m 28s | Step_Negs: 1.00
+2024-06-18 07:49:45,044 - logger - INFO - Train_Loss: 42.028 | Train_time: 94m 41s | Epoch_Negs: 1.00
+2024-06-18 07:51:02,444 - logger - INFO - Val_Rsum: 525.04 | Val_Time: 1m 17s
+2024-06-18 07:51:02,444 - logger - INFO - Text-Image Retrieval | R1:63.72, R5:87.86, R10:92.56
+2024-06-18 07:51:02,445 - logger - INFO - Image-Text Retrieval | R1:85.80, R5:96.30, R10:98.80
+2024-06-18 07:51:02,502 - logger - INFO - 
+
+2024-06-18 07:51:02,503 - logger - INFO - Epoch: 20
+2024-06-18 08:11:06,384 - logger - INFO - Step: 200/1132 | Loss: 41.72 | Time: 20m 3s | Step_Negs: 1.00
+2024-06-18 08:30:03,525 - logger - INFO - Step: 400/1132 | Loss: 41.77 | Time: 39m 1s | Step_Negs: 1.00
+2024-06-18 08:48:49,066 - logger - INFO - Step: 600/1132 | Loss: 42.22 | Time: 57m 46s | Step_Negs: 1.00
+2024-06-18 09:07:29,109 - logger - INFO - Step: 800/1132 | Loss: 42.15 | Time: 76m 26s | Step_Negs: 1.00
+2024-06-18 09:25:31,518 - logger - INFO - Step: 1000/1132 | Loss: 42.15 | Time: 94m 29s | Step_Negs: 1.00
+2024-06-18 09:37:42,885 - logger - INFO - Train_Loss: 42.085 | Train_time: 106m 40s | Epoch_Negs: 1.00
+2024-06-18 09:39:00,231 - logger - INFO - Val_Rsum: 524.80 | Val_Time: 1m 17s
+2024-06-18 09:39:00,231 - logger - INFO - Text-Image Retrieval | R1:63.76, R5:87.84, R10:92.60
+2024-06-18 09:39:00,231 - logger - INFO - Image-Text Retrieval | R1:85.70, R5:96.20, R10:98.70
+2024-06-18 09:39:00,288 - logger - INFO - 
+
+2024-06-18 09:39:00,289 - logger - INFO - Epoch: 21
+2024-06-18 09:57:46,674 - logger - INFO - Step: 200/1132 | Loss: 40.91 | Time: 18m 46s | Step_Negs: 1.00
+2024-06-18 10:17:15,120 - logger - INFO - Step: 400/1132 | Loss: 42.09 | Time: 38m 14s | Step_Negs: 1.00
+2024-06-18 10:36:21,576 - logger - INFO - Step: 600/1132 | Loss: 42.11 | Time: 57m 21s | Step_Negs: 1.00
+2024-06-18 10:55:14,498 - logger - INFO - Step: 800/1132 | Loss: 42.26 | Time: 76m 14s | Step_Negs: 1.00
+2024-06-18 11:14:08,479 - logger - INFO - Step: 1000/1132 | Loss: 42.26 | Time: 95m 8s | Step_Negs: 1.00
+2024-06-18 11:26:49,894 - logger - INFO - Train_Loss: 42.129 | Train_time: 107m 49s | Epoch_Negs: 1.00
+2024-06-18 11:28:09,031 - logger - INFO - Val_Rsum: 525.14 | Val_Time: 1m 19s
+2024-06-18 11:28:09,032 - logger - INFO - Text-Image Retrieval | R1:63.78, R5:87.88, R10:92.58
+2024-06-18 11:28:09,032 - logger - INFO - Image-Text Retrieval | R1:85.80, R5:96.30, R10:98.80
+2024-06-18 11:28:10,389 - logger - INFO - 
+
+2024-06-18 11:28:10,389 - logger - INFO - Epoch: 22
+2024-06-18 11:46:44,894 - logger - INFO - Step: 200/1132 | Loss: 42.43 | Time: 18m 34s | Step_Negs: 1.00
+2024-06-18 12:06:06,177 - logger - INFO - Step: 400/1132 | Loss: 42.71 | Time: 37m 55s | Step_Negs: 1.00
+2024-06-18 12:25:32,380 - logger - INFO - Step: 600/1132 | Loss: 42.17 | Time: 57m 21s | Step_Negs: 1.00
+2024-06-18 12:45:56,599 - logger - INFO - Step: 800/1132 | Loss: 42.23 | Time: 77m 46s | Step_Negs: 1.00
+2024-06-18 13:06:03,230 - logger - INFO - Step: 1000/1132 | Loss: 42.21 | Time: 97m 52s | Step_Negs: 1.00
+2024-06-18 13:18:32,666 - logger - INFO - Train_Loss: 42.220 | Train_time: 110m 22s | Epoch_Negs: 1.00
+2024-06-18 13:19:49,758 - logger - INFO - Val_Rsum: 525.10 | Val_Time: 1m 17s
+2024-06-18 13:19:49,758 - logger - INFO - Text-Image Retrieval | R1:63.80, R5:87.88, R10:92.62
+2024-06-18 13:19:49,758 - logger - INFO - Image-Text Retrieval | R1:85.70, R5:96.30, R10:98.80
+2024-06-18 13:19:49,793 - logger - INFO - 
+
+2024-06-18 13:19:49,793 - logger - INFO - Epoch: 23
+2024-06-18 13:39:17,231 - logger - INFO - Step: 200/1132 | Loss: 42.04 | Time: 19m 27s | Step_Negs: 1.00
+2024-06-18 13:59:19,409 - logger - INFO - Step: 400/1132 | Loss: 42.14 | Time: 39m 29s | Step_Negs: 1.00
+2024-06-18 14:18:55,257 - logger - INFO - Step: 600/1132 | Loss: 42.16 | Time: 59m 5s | Step_Negs: 1.00
+2024-06-18 14:39:00,440 - logger - INFO - Step: 800/1132 | Loss: 42.35 | Time: 79m 10s | Step_Negs: 1.00
+2024-06-18 14:58:54,592 - logger - INFO - Step: 1000/1132 | Loss: 42.37 | Time: 99m 4s | Step_Negs: 1.00
+2024-06-18 15:11:31,733 - logger - INFO - Train_Loss: 42.310 | Train_time: 111m 41s | Epoch_Negs: 1.00
+2024-06-18 15:12:49,141 - logger - INFO - Val_Rsum: 525.10 | Val_Time: 1m 17s
+2024-06-18 15:12:49,142 - logger - INFO - Text-Image Retrieval | R1:63.80, R5:87.82, R10:92.58
+2024-06-18 15:12:49,142 - logger - INFO - Image-Text Retrieval | R1:85.70, R5:96.40, R10:98.80
+2024-06-18 15:12:49,201 - logger - INFO - 
+
+2024-06-18 15:12:49,202 - logger - INFO - Epoch: 24
+2024-06-18 15:33:19,931 - logger - INFO - Step: 200/1132 | Loss: 42.34 | Time: 20m 30s | Step_Negs: 1.00
+2024-06-18 15:57:14,454 - logger - INFO - Step: 400/1132 | Loss: 41.92 | Time: 44m 25s | Step_Negs: 1.00
+2024-06-18 16:20:28,626 - logger - INFO - Step: 600/1132 | Loss: 42.20 | Time: 67m 39s | Step_Negs: 1.00
+2024-06-18 16:46:52,766 - logger - INFO - Step: 800/1132 | Loss: 42.27 | Time: 94m 3s | Step_Negs: 1.00
+2024-06-18 17:15:20,162 - logger - INFO - Step: 1000/1132 | Loss: 42.37 | Time: 122m 30s | Step_Negs: 1.00
+2024-06-18 17:33:34,586 - logger - INFO - Train_Loss: 42.410 | Train_time: 140m 45s | Epoch_Negs: 1.00
+2024-06-18 17:34:54,359 - logger - INFO - Val_Rsum: 525.04 | Val_Time: 1m 19s
+2024-06-18 17:34:54,359 - logger - INFO - Text-Image Retrieval | R1:63.74, R5:87.88, R10:92.62
+2024-06-18 17:34:54,359 - logger - INFO - Image-Text Retrieval | R1:85.70, R5:96.40, R10:98.70
+2024-06-18 17:34:54,418 - logger - INFO - 
+
+2024-06-18 17:34:54,418 - logger - INFO - Epoch: 25
+2024-06-18 18:01:38,486 - logger - INFO - Step: 200/1132 | Loss: 42.89 | Time: 26m 44s | Step_Negs: 1.00
+2024-06-18 18:28:24,312 - logger - INFO - Step: 400/1132 | Loss: 42.75 | Time: 53m 29s | Step_Negs: 1.00
+2024-06-18 18:56:37,048 - logger - INFO - Step: 600/1132 | Loss: 42.48 | Time: 81m 42s | Step_Negs: 1.00
+2024-06-18 19:22:16,263 - logger - INFO - Step: 800/1132 | Loss: 42.47 | Time: 107m 21s | Step_Negs: 1.00
+2024-06-18 19:48:32,700 - logger - INFO - Step: 1000/1132 | Loss: 42.48 | Time: 133m 38s | Step_Negs: 1.00
+2024-06-18 20:05:49,914 - logger - INFO - Train_Loss: 42.448 | Train_time: 150m 55s | Epoch_Negs: 1.00
+2024-06-18 20:07:07,241 - logger - INFO - Val_Rsum: 525.10 | Val_Time: 1m 17s
+2024-06-18 20:07:07,241 - logger - INFO - Text-Image Retrieval | R1:63.74, R5:87.88, R10:92.58
+2024-06-18 20:07:07,241 - logger - INFO - Image-Text Retrieval | R1:85.80, R5:96.30, R10:98.80
+2024-06-18 20:07:07,304 - logger - INFO - 
+
+2024-06-18 20:07:07,305 - logger - INFO - Epoch: 26
+2024-06-18 20:34:50,726 - logger - INFO - Step: 200/1132 | Loss: 42.01 | Time: 27m 43s | Step_Negs: 1.00
+2024-06-18 21:02:14,497 - logger - INFO - Step: 400/1132 | Loss: 42.03 | Time: 55m 7s | Step_Negs: 1.00
+2024-06-18 21:30:44,762 - logger - INFO - Step: 600/1132 | Loss: 41.93 | Time: 83m 37s | Step_Negs: 1.00
+2024-06-18 21:58:15,502 - logger - INFO - Step: 800/1132 | Loss: 42.14 | Time: 111m 8s | Step_Negs: 1.00
+2024-06-18 22:25:24,120 - logger - INFO - Step: 1000/1132 | Loss: 42.15 | Time: 138m 16s | Step_Negs: 1.00
+2024-06-18 22:44:03,388 - logger - INFO - Train_Loss: 42.223 | Train_time: 156m 56s | Epoch_Negs: 1.00
+2024-06-18 22:45:22,768 - logger - INFO - Val_Rsum: 525.02 | Val_Time: 1m 19s
+2024-06-18 22:45:22,768 - logger - INFO - Text-Image Retrieval | R1:63.70, R5:87.84, R10:92.58
+2024-06-18 22:45:22,768 - logger - INFO - Image-Text Retrieval | R1:85.80, R5:96.30, R10:98.80
+2024-06-18 22:45:22,827 - logger - INFO - 
+
+2024-06-18 22:45:22,828 - logger - INFO - Epoch: 27
+2024-06-18 23:12:19,079 - logger - INFO - Step: 200/1132 | Loss: 42.78 | Time: 26m 56s | Step_Negs: 1.00
+2024-06-18 23:38:40,696 - logger - INFO - Step: 400/1132 | Loss: 42.43 | Time: 53m 17s | Step_Negs: 1.00
+2024-06-19 00:04:02,487 - logger - INFO - Step: 600/1132 | Loss: 42.34 | Time: 78m 39s | Step_Negs: 1.00
+2024-06-19 00:30:14,785 - logger - INFO - Step: 800/1132 | Loss: 42.19 | Time: 104m 51s | Step_Negs: 1.00
+2024-06-19 00:56:26,749 - logger - INFO - Step: 1000/1132 | Loss: 42.17 | Time: 131m 3s | Step_Negs: 1.00
+2024-06-19 01:14:02,283 - logger - INFO - Train_Loss: 42.309 | Train_time: 148m 39s | Epoch_Negs: 1.00
+2024-06-19 01:15:19,802 - logger - INFO - Val_Rsum: 524.96 | Val_Time: 1m 17s
+2024-06-19 01:15:19,802 - logger - INFO - Text-Image Retrieval | R1:63.74, R5:87.84, R10:92.58
+2024-06-19 01:15:19,802 - logger - INFO - Image-Text Retrieval | R1:85.80, R5:96.30, R10:98.70
+2024-06-19 01:15:19,852 - logger - INFO - 
+
