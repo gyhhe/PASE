@@ -32,8 +32,8 @@ We recommended the following dependencies.
 
 - Python 3.9
 - [PyTorch](http://pytorch.org/) 1.11
-- transformers  4.36.0
-- numpy 1.23.5
+- transformers  4.40.1
+- numpy 1.23.0
 - nltk 3.7
 - The specific required environment can be found [here](https://github.com/gyhhe/PASE/blob/main/requirements.txt)
 
