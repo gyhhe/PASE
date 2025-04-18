@@ -19,9 +19,9 @@ We referred to the implementations of [GPO](https://github.com/woodfrog/vse_inft
 
 Our method achieves state-of-the-art results on standard benchmarks:
 
-![tab1](https://github.com/gyhhe/PASE/blob/main/tab1.png)
+![tab1](https://github.com/gyhhe/PASE/blob/main/Comparison%20on%20f30k.png)
 
-![tab2](https://github.com/gyhhe/PASE/blob/main/tab2.png)
+![tab2](https://github.com/gyhhe/PASE/blob/main/Comparison%20on%20coco.png)
 
 
 ## Preparation
